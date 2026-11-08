@@ -514,7 +514,7 @@ export default defineAnimatic(direction, {
           cast: ["watson"],
           props: ["directory"],
           summary: "Straight down onto the open telephone directory, Watson's forefinger pressed under one name.",
-          text: "An insert looking straight down onto the writing desk's top. <Subject 2> lies open flat in the centre of the frame, its dense columns of tiny names filling both pages, the dark polished wood of the writing desk's top showing around the book's edges, at the same size and in the same even light as the previous instant of this take. From the lower right edge of the frame <Subject 1>'s right hand and brown tweed cuff reach in; the forefinger tip rests on the left-hand page's column of names a hand's length above a single line of small print reading \"Garrideb, N.\", the other fingers curled. The camera holds a static overhead shot.",
+          text: "An insert looking straight down onto the writing desk's top. <Subject 2> lies open flat in the centre of the frame, its dense columns of tiny names filling both pages, the dark polished wood of the writing desk's top showing around the book's edges, at the same size and in the same even light as the previous instant of this take. From the lower right edge of the frame <Subject 1>'s right hand and brown tweed cuff reach in; the forefinger tip rests on the right-hand page's column of names a hand's length above a single line of small print reading \"Garrideb, N.\", the other fingers curled. The camera holds a static overhead shot.",
         });
         return (
           <Composition>

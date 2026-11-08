@@ -778,16 +778,18 @@
       }
     ],
     "timeline": {
-      "bgm-prologue": "v-wZfZYwvh",
-      "bgm-intrigue-a": "v-IvTcOIC9",
-      "bgm-intrigue-b": "v-zEMTKBhw",
-      "bgm-reveal": "v-BbK9P4ju"
+      "bgm-prologue": "v-ptVrDDOo",
+      "bgm-study": "v-jqTu3NqF",
+      "bgm-intrigue-a": "v-YTJj0aWz",
+      "bgm-intrigue-b": "v-3KQd7Ueb",
+      "bgm-reveal": "v-iXWFTUqi"
     },
     "timelineSources": {
-      "video:timeline.bgm-prologue": "v-wZfZYwvh",
-      "video:timeline.bgm-intrigue-a": "v-IvTcOIC9",
-      "video:timeline.bgm-intrigue-b": "v-zEMTKBhw",
-      "video:timeline.bgm-reveal": "v-BbK9P4ju"
+      "video:timeline.bgm-prologue": "v-ptVrDDOo",
+      "video:timeline.bgm-study": "v-jqTu3NqF",
+      "video:timeline.bgm-intrigue-a": "v-YTJj0aWz",
+      "video:timeline.bgm-intrigue-b": "v-3KQd7Ueb",
+      "video:timeline.bgm-reveal": "v-iXWFTUqi"
     },
     "contentHashes": {
       "video:shot.01#composition": "5e58573fa5235d80ed0b459f6b737dda3c8876bf2e7def5c3d5d2262237887a2",
@@ -930,46 +932,19 @@
       "video:shot.64#stem": "d8f03032a76ab350298656c2a176f3d45ab33a960601f0f6f16a77f851e13cfb",
       "video:shot.65#stem": "3e40ac411f2107ff4e1e35ca8464241636e7d6d0866e4dadefc47fe2866c2f39",
       "video:shot.66#stem": "9c82d0794ed9298d2257ee55da4196faedc32f63947fac2c5e3b5046e2957537",
-      "video:timeline#stem": "0a5ea945158be18221c89ebae22d22906a485175ea6fd602464a36f56673b076"
+      "video:timeline#stem": "c1a68a357b73369f36a9dde06dc2ad133b77a20c6feca0650b98136b947c8946",
+      "video:timeline#overlay": "2926812bb56632697a7dff0609c6bb5567071853758a4e8d258a261ef3fd0f07"
     }
   },
   "decisions": {},
   "notes": [
     {
-      "id": "fb-vJcbPh8E",
-      "time": 267.6666666666667,
-      "address": "video:timeline#stem",
-      "text": "bgm-intrigue-a, bgm-intrigue-b  に変な歌声が入っている。インストにして",
-      "displayedVariants": {
-        "video:timeline.bgm-prologue": "v-wZfZYwvh",
-        "video:timeline.bgm-intrigue-a": "v-IvTcOIC9",
-        "video:timeline.bgm-intrigue-b": "v-zEMTKBhw",
-        "video:timeline.bgm-reveal": "v-BbK9P4ju"
-      }
-    },
-    {
-      "id": "fb-6NxvsUzJ",
-      "time": 31.9,
-      "address": "video:timeline#stem",
-      "text": "04〜14になぜ音楽ないの？あったほうがいい気がする",
-      "displayedVariants": {
-        "video:timeline.bgm-prologue": "v-wZfZYwvh",
-        "video:timeline.bgm-intrigue-a": "v-IvTcOIC9",
-        "video:timeline.bgm-intrigue-b": "v-zEMTKBhw",
-        "video:timeline.bgm-reveal": "v-BbK9P4ju"
-      }
+      "id": "fb-ttR1s590",
+      "time": 267.53333333333336,
+      "address": "video:timeline#overlay",
+      "text": "タイミングあってない字幕が多い。animatic の audio のタイミングとかちゃんと見て、位置合わせした？"
     }
   ],
   "handoffId": "20000101T001806000",
-  "handoffSummary": "音楽4曲を入れました。冒頭（01〜03）、ジョン訪問の前半（15〜35）・後半（36〜54）、ホームズの反転から最後まで（59〜66）。04〜14と55〜58は音楽なしです。セリフの下では自動で音量が下がります。",
-  "handoffNotes": [
-    {
-      "address": "video:timeline.bgm-prologue",
-      "text": "冒頭の暗い主題。最後の『反転』の曲と同じ雰囲気で、作品の始まりと終わりをそろえています。"
-    },
-    {
-      "address": "video:timeline.bgm-reveal",
-      "text": "ジョンが去ったあとの沈黙（55〜58）のあと、59から入ります。"
-    }
-  ]
+  "handoffSummary": "英語字幕を全編に入れました（セリフと語り、計149行）。タイミングは各セリフの音声に合わせ、長いセリフは文の切れ目で分けています。語りは斜体です。訳は原作英語の言い回しを意識しています。"
 }

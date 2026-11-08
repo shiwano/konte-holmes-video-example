@@ -42,10 +42,10 @@
         "start": 31,
         "duration": 7,
         "variants": {
-          "motion": "v-w0d2RXws"
+          "motion": "v-xJhoOBdr"
         },
         "sources": {
-          "video:shot.04.motion": "v-w0d2RXws"
+          "video:shot.04.motion": "v-xJhoOBdr"
         }
       },
       {
@@ -284,10 +284,10 @@
         "start": 192.5,
         "duration": 9,
         "variants": {
-          "motion": "v-0vyS71nc"
+          "motion": "v-wfgxPyUQ"
         },
         "sources": {
-          "video:shot.26.motion": "v-0vyS71nc"
+          "video:shot.26.motion": "v-wfgxPyUQ"
         }
       },
       {
@@ -539,10 +539,10 @@
         "start": 394.5,
         "duration": 12,
         "variants": {
-          "motion": "v-19q6ol8Y"
+          "motion": "v-kDkeaGs1"
         },
         "sources": {
-          "video:shot.46.motion": "v-19q6ol8Y"
+          "video:shot.46.motion": "v-kDkeaGs1"
         }
       },
       {
@@ -795,7 +795,7 @@
       "video:shot.01#composition": "5e58573fa5235d80ed0b459f6b737dda3c8876bf2e7def5c3d5d2262237887a2",
       "video:shot.02#composition": "68fd792fd44ed7668df80addbf06abdfece400af43b8a28f9fca50f8c52265f2",
       "video:shot.03#composition": "e86c102e160155849210cf2577245678b9613e2fffb4f198b9904834be2c7bbe",
-      "video:shot.04#composition": "7d9ef35834f51fa289801de51ee543da9b318114e9bd1fb5f7af1027e079365d",
+      "video:shot.04#composition": "21691ed1b66b1c6d0e80630e8385ca61fae6b54eb8421abb6dc2265e783a158c",
       "video:shot.05#composition": "15ae693c69522bbd9bb80663acf9d0f86228438eb46a148d42ef7cfd933793a4",
       "video:shot.06#composition": "c520efb571f836e9c5fbe60da46ef17a689c503c08e7066739fc5ef288b2364a",
       "video:shot.07#composition": "ad2d9412ff10550d9410272105d00cf66a200d891b213c7309c0e442b412b570",
@@ -817,7 +817,7 @@
       "video:shot.23#composition": "c3cac99fd8baf2eb60d70ada94c032b7d20764e4d692328cafb09786dc6a038b",
       "video:shot.24#composition": "e6d0231412e4e6156c235ec9b98b981f698868581a6f069594605c5190cfa8d4",
       "video:shot.25#composition": "d093e9cdd47ee8d2b58055ae537863e336b3a21ae766dd104d683b57b30dd57a",
-      "video:shot.26#composition": "3d5ebf04caecf1f6be0d7441480b86538481f60869cf21690242ba585ca96970",
+      "video:shot.26#composition": "b12f035451f44e79e94fd1184a9330138cf3b78d24f3037960d7d4ab49da6d64",
       "video:shot.27#composition": "84b74a2fa219c693be0b23635dd25d54b04e6563c388894c30fd54dc897267b1",
       "video:shot.28#composition": "7429ab847d3ad8fe67443c6412aca740238ffa4e297f25d9e91bca6ab6400c00",
       "video:shot.29#composition": "1d06743751094e8cd1a0b04bb6bb75b733826cdaa5b7f4f72742ecd9dc8dc167",
@@ -840,7 +840,7 @@
       "video:shot.43#composition": "5473f4d4b1f03a50297bca330d92c9c56e0a00e506bb005925fb064f301f7109",
       "video:shot.44#composition": "8b18635c28a6dac19379790555e870e349f782aeba0d731ff5ff5bd8f53faec6",
       "video:shot.45#composition": "9c77224b0f7c782cf6d696cac9323e3d0766fed7bdb50cc1ce4aeea48e677cc6",
-      "video:shot.46#composition": "2503ea397f50c1f69947c1fe5a2b51907a3045402c0295f1ad5fd92ddc7ace17",
+      "video:shot.46#composition": "b30a685f8f242dfedadd0867648064a47a36752fb8d7f61e6d82ba7c9af743fa",
       "video:shot.47#composition": "4b1005c7bd3a106fcb89aa613062bcf4560777b5747eabe9947eb469ee689d75",
       "video:shot.47b#composition": "c6165b57f7969e6ea8941633fa62280baf84acc1683f522583ac51a451b69021",
       "video:shot.48#composition": "0f9b8ef81e7d3e9f1e58b4403ea064cd50ce3eb450142a18f3055f77859c03b7",
@@ -865,7 +865,7 @@
       "video:shot.01#stem": "8da2afce8b90d504c73954d7c224518bf6198778e53879a3a4698bf67ef971e1",
       "video:shot.02#stem": "a3d4760446d16f5b1faaa022dd434ec8d8b0fca8836a2a5965066dc1b5ef6fdb",
       "video:shot.03#stem": "66653628163e3089fddf41764085c1f4150db0e94f55ed48c5f8b3bd28264d28",
-      "video:shot.04#stem": "d7c1030404cd4640143c0323b81c80456abff96934c7832fe3c2f462ed057fdc",
+      "video:shot.04#stem": "9130def79431e9f4704e2be39e029987e1e2973be70b9d83d453fa0c7de29f42",
       "video:shot.05#stem": "6a4adc7620ba4602f9ffeb8ae36b78539c73dacdb729a0262b08cda0ba7fd649",
       "video:shot.06#stem": "b86a67961b39df22fb941e22986eee334a914020b3c270109dcb22f63860ceae",
       "video:shot.07#stem": "1210b1e98c254895828daac93af0b5b7df315e83ba6b9be14a5a6c2302cd7b74",
@@ -887,7 +887,7 @@
       "video:shot.23#stem": "e2668c16cf66270d9839872bf62ea78377eb32b4da4c0a3c7fbfcf1a4bc82a43",
       "video:shot.24#stem": "78d7e5f57a7f7147698dcfabd758e14ba7bafa1af01480f49956cc2b7dda88b3",
       "video:shot.25#stem": "57c91d5011cce479bd74baa3a64ff587a09702ffa616a3bb2db3cfc3fbe74b68",
-      "video:shot.26#stem": "1ed3bd4f97d099135f817a44c216672fa1ef4f4dd33cf580c6d241f30695ca41",
+      "video:shot.26#stem": "336ebd2459017c0bdc3a5b9b45e70f51964ef524e19eede7479b454a47fbe75c",
       "video:shot.27#stem": "3a7cbd503606e19ea5b7e773a651266dd1c4e1dd641cfb0d724f0f5c5a23c70c",
       "video:shot.28#stem": "be1065f12672c5e1ec2efbbbf063354fccdd7f716868efbfe2824a48105e98fa",
       "video:shot.29#stem": "dce12cdddc43d914402a78ac8a05fe9c82edfbc92b01ed36908d51f7cb6b7579",
@@ -937,126 +937,60 @@
     }
   },
   "decisions": {
-    "32": "accepted",
-    "38": "accepted",
-    "43": "accepted",
-    "58": "accepted",
-    "08": "accepted"
+    "26": "accepted"
   },
   "cascadeAccepted": [
     {
-      "address": "video:shot.08#stem",
-      "via": "video:shot.08"
+      "address": "video:shot.26#stem",
+      "via": "video:shot.26"
     },
     {
-      "address": "video:shot.32#stem",
-      "via": "video:shot.32"
-    },
-    {
-      "address": "video:shot.38#stem",
-      "via": "video:shot.38"
-    },
-    {
-      "address": "video:shot.43#stem",
-      "via": "video:shot.43"
-    },
-    {
-      "address": "video:shot.58#stem",
-      "via": "video:shot.58"
-    },
-    {
-      "address": "video:shot.08#composition",
-      "via": "video:shot.08"
-    },
-    {
-      "address": "video:shot.32#composition",
-      "via": "video:shot.32"
-    },
-    {
-      "address": "video:shot.38#composition",
-      "via": "video:shot.38"
-    },
-    {
-      "address": "video:shot.43#composition",
-      "via": "video:shot.43"
-    },
-    {
-      "address": "video:shot.58#composition",
-      "via": "video:shot.58"
+      "address": "video:shot.26#composition",
+      "via": "video:shot.26"
     }
   ],
   "notes": [
     {
-      "id": "fb-vn34Q9Tc",
-      "time": 195.13333333333333,
-      "shotId": "26",
-      "address": "video:shot.26",
-      "x": 0.375,
-      "y": 0.124,
-      "text": "まだ画面右見てるね。animatic のパネルがそもそもそういう絵。",
-      "displayedVariants": {
-        "video:shot.26.motion": "v-0vyS71nc"
-      }
-    },
-    {
-      "id": "fb-sZ2cZHD2",
-      "time": 396.8666666666667,
+      "id": "fb-aNnNsQSR",
+      "time": 404.43333333333334,
       "shotId": "46",
       "address": "video:shot.46",
-      "x": 0.271,
-      "y": 0.13,
-      "text": "頭動かして、視線も動かしてるよ",
+      "x": 0.284,
+      "y": 0.121,
+      "text": "画面右見てないよ。指示書きすぎなんじゃない？ 継ぎ足しじゃなくて、ゼロベースで書き直して。",
       "displayedVariants": {
-        "video:shot.46.motion": "v-19q6ol8Y",
+        "video:shot.46.motion": "v-kDkeaGs1",
         "animatic:shot.46#stem": "v-0SlyOrVZ"
       }
     },
     {
-      "id": "fb-xEazWfg5",
-      "time": 33.56666666666667,
+      "id": "fb-ukf54U9A",
+      "time": 32.2,
       "shotId": "04",
       "address": "video:shot.04",
-      "text": "まだペンが動いてる。振り返るまでちょっと間が空いてるから、ペンを動かしちゃってるんじゃない？ ショットが始まってすぐ振り返ったら？",
+      "x": 0.684,
+      "y": 0.49,
+      "text": "まだ動いてる。ペンのことを変に指示書いてるから動くんじゃない？ ゼロベースで指示を書き直して。",
       "displayedVariants": {
-        "video:shot.04.motion": "v-w0d2RXws",
+        "video:shot.04.motion": "v-xJhoOBdr",
         "animatic:shot.04#offFrameStem": "v-6w3RVxyO"
       }
     }
   ],
   "handoffId": "20000101T002306000",
-  "handoffSummary": "前回のご指摘8ショットを直しました。",
+  "handoffSummary": "04・26・46を直しました。",
   "handoffNotes": [
     {
       "address": "video:shot.04",
-      "text": "ペンは紙の上で止めたまま、椅子も動かさず肩越しにゆっくり振り返ります"
-    },
-    {
-      "address": "video:shot.08",
-      "text": "動画側の音を切り、ナレーションだけにしました"
+      "text": "振り返り始めを早めました。それでも最初の2秒弱は背中のままなので、ペンが止まっているか見てください"
     },
     {
       "address": "video:shot.26",
-      "text": "最初から画面右の相手を見るように作り直し"
-    },
-    {
-      "address": "video:shot.32",
-      "text": "31から続けて座った姿で始まり、深く座り直します"
-    },
-    {
-      "address": "video:shot.38",
-      "text": "字幕を台詞に合わせました。「That was…」も台詞の終わりまで残ります"
-    },
-    {
-      "address": "video:shot.43",
-      "text": "承認いただいた絵コンテで作り直し。ジョンの体格が41と揃いました"
+      "text": "承認いただいた新しい絵から作り直し。最初から画面右の相手を見ています"
     },
     {
       "address": "video:shot.46",
-      "text": "最後まで画面右の相手から目を離さないように作り直し"
-    },
-    {
-      "address": "video:shot.58",
-      "text": "パイプを離したあと、煙を吐きます"
+      "text": "頭も視線も止めたまま、最後まで画面右の相手を見ています"
     }
   ]
 }

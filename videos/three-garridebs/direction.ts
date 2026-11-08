@@ -318,6 +318,7 @@ export default defineDirection({
                   "これから話すのは、喜劇とも悲劇ともつかない事件だ。その結末で、一人の男は正気を失い、私は銃弾を受け、もう一人の男は監獄へ送られた。",
               },
             ],
+            telop: ["三人ガリデブ", "The Adventure of the Three Garridebs"],
           },
           {
             id: "02",
@@ -423,7 +424,7 @@ export default defineDirection({
           {
             id: "08",
             role: "sho",
-            action: "ワトスンの指が電話帳の一行の上でぴたりと止まる。",
+            action: "ワトスンの指が電話帳の右頁の一行の上でぴたりと止まる。",
             setup: "directoryInsert",
             join: "continuous",
             duration: 6,

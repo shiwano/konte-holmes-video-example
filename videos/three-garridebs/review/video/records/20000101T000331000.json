@@ -1,0 +1,762 @@
+{
+  "mode": "video-preview",
+  "stage": "video",
+  "createdAt": "2000-01-01T00:03:31.000Z",
+  "context": {
+    "shots": [
+      {
+        "shotId": "01",
+        "start": 0,
+        "duration": 12,
+        "variants": {
+          "motion": "v-dVIfgtck"
+        },
+        "sources": {
+          "video:shot.01.motion": "v-dVIfgtck"
+        }
+      },
+      {
+        "shotId": "02",
+        "start": 12,
+        "duration": 13,
+        "variants": {
+          "motion": "v-1YXdFUmv"
+        },
+        "sources": {
+          "video:shot.02.motion": "v-1YXdFUmv"
+        }
+      },
+      {
+        "shotId": "03",
+        "start": 25,
+        "duration": 6,
+        "variants": {
+          "motion": "v-QIyEDcRo"
+        },
+        "sources": {
+          "video:shot.03.motion": "v-QIyEDcRo"
+        }
+      },
+      {
+        "shotId": "04",
+        "start": 31,
+        "duration": 7,
+        "variants": {
+          "motion": "v-SmzjOByL"
+        },
+        "sources": {
+          "video:shot.04.motion": "v-SmzjOByL"
+        }
+      },
+      {
+        "shotId": "05",
+        "start": 38,
+        "duration": 12,
+        "variants": {
+          "motion": "v-l3s5IKlS"
+        },
+        "sources": {
+          "video:shot.05.motion": "v-l3s5IKlS"
+        }
+      },
+      {
+        "shotId": "06",
+        "start": 50,
+        "duration": 9,
+        "variants": {
+          "motion": "v-RL5pWgOi"
+        },
+        "sources": {
+          "video:shot.06.motion": "v-RL5pWgOi"
+        }
+      },
+      {
+        "shotId": "07",
+        "start": 59,
+        "duration": 7,
+        "variants": {
+          "motion": "v-AlLXMm2N"
+        },
+        "sources": {
+          "video:shot.07.motion": "v-AlLXMm2N"
+        }
+      },
+      {
+        "shotId": "08",
+        "start": 66,
+        "duration": 6,
+        "variants": {
+          "motion": "v-RXwSQXXF"
+        },
+        "sources": {
+          "video:shot.08.motion": "v-RXwSQXXF"
+        }
+      },
+      {
+        "shotId": "09",
+        "start": 72,
+        "duration": 3,
+        "variants": {
+          "motion": "v-Ng01C84y"
+        },
+        "sources": {
+          "video:shot.09.motion": "v-Ng01C84y"
+        }
+      },
+      {
+        "shotId": "10",
+        "start": 75,
+        "duration": 4,
+        "variants": {
+          "motion": "v-XHEmkuUB"
+        },
+        "sources": {
+          "video:shot.10.motion": "v-XHEmkuUB"
+        }
+      },
+      {
+        "shotId": "11",
+        "start": 79,
+        "duration": 13,
+        "variants": {
+          "motion": "v-ROKe1vVe"
+        },
+        "sources": {
+          "video:shot.11.motion": "v-ROKe1vVe"
+        }
+      },
+      {
+        "shotId": "12",
+        "start": 92,
+        "duration": 5,
+        "variants": {
+          "motion": "v-MnZ1PyLl"
+        },
+        "sources": {
+          "video:shot.12.motion": "v-MnZ1PyLl"
+        }
+      },
+      {
+        "shotId": "13",
+        "start": 97,
+        "duration": 10,
+        "variants": {
+          "motion": "v-Y9ui0pIR"
+        },
+        "sources": {
+          "video:shot.13.motion": "v-Y9ui0pIR"
+        }
+      },
+      {
+        "shotId": "14",
+        "start": 107,
+        "duration": 10,
+        "variants": {
+          "motion": "v-y1fKLOLw"
+        },
+        "sources": {
+          "video:shot.14.motion": "v-y1fKLOLw"
+        }
+      },
+      {
+        "shotId": "15",
+        "start": 117,
+        "duration": 9,
+        "variants": {
+          "motion": "v-pSF7vAUp"
+        },
+        "sources": {
+          "video:shot.15.motion": "v-pSF7vAUp"
+        }
+      },
+      {
+        "shotId": "16",
+        "start": 126,
+        "duration": 5,
+        "variants": {
+          "motion": "v-3OSz5nvB"
+        },
+        "sources": {
+          "video:shot.16.motion": "v-3OSz5nvB"
+        }
+      },
+      {
+        "shotId": "17",
+        "start": 131,
+        "duration": 12,
+        "variants": {
+          "motion": "v-IjapwPDf"
+        },
+        "sources": {
+          "video:shot.17.motion": "v-IjapwPDf"
+        }
+      },
+      {
+        "shotId": "18",
+        "start": 143,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "19",
+        "start": 148,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "20",
+        "start": 157,
+        "duration": 4,
+        "variants": {}
+      },
+      {
+        "shotId": "21",
+        "start": 161,
+        "duration": 3,
+        "variants": {}
+      },
+      {
+        "shotId": "22",
+        "start": 164,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "23",
+        "start": 173,
+        "duration": 6,
+        "variants": {}
+      },
+      {
+        "shotId": "24",
+        "start": 179,
+        "duration": 13,
+        "variants": {}
+      },
+      {
+        "shotId": "25",
+        "start": 192,
+        "duration": 10,
+        "variants": {}
+      },
+      {
+        "shotId": "26",
+        "start": 202,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "27",
+        "start": 213,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "28",
+        "start": 218,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "29",
+        "start": 230,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "30",
+        "start": 239,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "30b",
+        "start": 250,
+        "duration": 7,
+        "variants": {}
+      },
+      {
+        "shotId": "31",
+        "start": 257,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "32",
+        "start": 268,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "33",
+        "start": 277,
+        "duration": 13,
+        "variants": {}
+      },
+      {
+        "shotId": "34",
+        "start": 290,
+        "duration": 3,
+        "variants": {}
+      },
+      {
+        "shotId": "35",
+        "start": 293,
+        "duration": 4,
+        "variants": {}
+      },
+      {
+        "shotId": "36",
+        "start": 297,
+        "duration": 13,
+        "variants": {}
+      },
+      {
+        "shotId": "37",
+        "start": 310,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "37b",
+        "start": 321,
+        "duration": 7,
+        "variants": {}
+      },
+      {
+        "shotId": "38",
+        "start": 328,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "39",
+        "start": 340,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "40",
+        "start": 352,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "41",
+        "start": 364,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "41b",
+        "start": 375,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "42",
+        "start": 380,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "43",
+        "start": 392,
+        "duration": 15,
+        "variants": {}
+      },
+      {
+        "shotId": "44",
+        "start": 407,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "45",
+        "start": 412,
+        "duration": 15,
+        "variants": {}
+      },
+      {
+        "shotId": "46",
+        "start": 427,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "47",
+        "start": 439,
+        "duration": 10,
+        "variants": {}
+      },
+      {
+        "shotId": "47b",
+        "start": 449,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "48",
+        "start": 458,
+        "duration": 10,
+        "variants": {}
+      },
+      {
+        "shotId": "49",
+        "start": 468,
+        "duration": 4,
+        "variants": {}
+      },
+      {
+        "shotId": "50",
+        "start": 472,
+        "duration": 7,
+        "variants": {}
+      },
+      {
+        "shotId": "51",
+        "start": 479,
+        "duration": 14,
+        "variants": {}
+      },
+      {
+        "shotId": "52",
+        "start": 493,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "53",
+        "start": 498,
+        "duration": 10,
+        "variants": {}
+      },
+      {
+        "shotId": "54",
+        "start": 508,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "55",
+        "start": 513,
+        "duration": 6,
+        "variants": {}
+      },
+      {
+        "shotId": "56",
+        "start": 519,
+        "duration": 3,
+        "variants": {}
+      },
+      {
+        "shotId": "57",
+        "start": 522,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "58",
+        "start": 527,
+        "duration": 2,
+        "variants": {}
+      },
+      {
+        "shotId": "59",
+        "start": 529,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "60",
+        "start": 538,
+        "duration": 14,
+        "variants": {}
+      },
+      {
+        "shotId": "61",
+        "start": 552,
+        "duration": 14,
+        "variants": {}
+      },
+      {
+        "shotId": "62",
+        "start": 566,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "63",
+        "start": 575,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "64",
+        "start": 584,
+        "duration": 15,
+        "variants": {}
+      },
+      {
+        "shotId": "65",
+        "start": 599,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "66",
+        "start": 604,
+        "duration": 8,
+        "variants": {}
+      }
+    ],
+    "timeline": {},
+    "timelineSources": {},
+    "contentHashes": {
+      "video:shot.01#composition": "7330c41aa51baef9fba879930d36484038a312d6f46967fea6f414b5d620ea7b",
+      "video:shot.02#composition": "e00c860c76da1c18d5a4ec9d71558234148c2a4ba19df997e746c268b98eece7",
+      "video:shot.03#composition": "7341e2e014a0069f7b6163221664098cbf9b89e53e5a784f97c42c5763de709b",
+      "video:shot.04#composition": "6c0f4536d5529aa66bfb6c9ab74c3077214a74f4fdfed6eb2e3492d1da9263f5",
+      "video:shot.05#composition": "15ae693c69522bbd9bb80663acf9d0f86228438eb46a148d42ef7cfd933793a4",
+      "video:shot.06#composition": "be88f348bd5b5ee389c4b6e219874a2c11ec6d065cbbe4c6c5fad605547c58f4",
+      "video:shot.07#composition": "ad2d9412ff10550d9410272105d00cf66a200d891b213c7309c0e442b412b570",
+      "video:shot.08#composition": "03aa8f4a573a48bb37bfe47c914068b89ba72bdb91770024f629df067658ccb4",
+      "video:shot.09#composition": "159884b2e3db1ee3babeefd394a14e8cb9af2c7939284dc453ff7c1186bd0bc3",
+      "video:shot.10#composition": "c4fdbe480da02e6b6afea34eb1c35f0c9f9b15289a6e13ca608860f08c02f609",
+      "video:shot.11#composition": "897e3c66a485f862f102aa6fc95896c438a5a4ac287bc04722ac13d996f04b14",
+      "video:shot.12#composition": "d56d08a1fa5d94301df451d45bf87b34b4e7c5c55b45766c1bfcbec723a32d96",
+      "video:shot.13#composition": "b9ef00b605bfbdb89e43c5ed70109f2274e346cead5e824b6c2e8bd88289358d",
+      "video:shot.14#composition": "06509fd9ae6c297a61eb9380b99ce05c7edc5f681aa39924b0fb1d7e13fdabc2",
+      "video:shot.15#composition": "13e631f7f1d04bcd0dd774af62b124132798532f3f3743bb22d57a161f20f5a9",
+      "video:shot.16#composition": "1843a5e5424d07f681625b5fd547297d7b5c4934e0f35bf3976c21ad929122e1",
+      "video:shot.17#composition": "a5a1515248bd51b592bc328df524939c7043317eb95a0f5c145de80159e252c9",
+      "video:shot.01#stem": "573bef37f2c7c2a386f57e3f1676acd3fa3ff411cc5595d2a3f628e48b4a5968",
+      "video:shot.02#stem": "aad0862073fa1f8e1d5e17f143fb61619e7927c8d9e319c89d7c747661e4234e",
+      "video:shot.03#stem": "493ec1f4711cc6c9eee5abfd94eb55be6862a341802f697c0e0b0048bf0bc70d",
+      "video:shot.04#stem": "be978a6a58d6d1838ca984cc26d241cf9d53caf327b4d94cf6fb340f909936cf",
+      "video:shot.05#stem": "ecabefe90ea761ce25d326a7cadf1063ec86fa47fe87b683bc2dfa06d2c4578a",
+      "video:shot.06#stem": "abe503477dee3553828eecb3b2e07d60ebaaba6dbdd152bbeccee85de8a0a8d9",
+      "video:shot.07#stem": "1210b1e98c254895828daac93af0b5b7df315e83ba6b9be14a5a6c2302cd7b74",
+      "video:shot.08#stem": "5c3b2296f4a8a0be911ffb586e21c1f4637a511feaa2cc5affc29433a32eb0a5",
+      "video:shot.09#stem": "be8084d8bf77f5386799d172e1583dc8d0011d48bb1176827c7d52264e69bfd0",
+      "video:shot.10#stem": "356de0e33f023c367eca3c8692307f7a29460fa75125fef39efbb6b951295a8e",
+      "video:shot.11#stem": "64f124c32ae7aee66b70a8de8e817b89ec2b5d90ca43dc0379a9195222f5b756",
+      "video:shot.12#stem": "6786f9509cf046663056ad764fc626771cbe374e686bad11c876977cbfc18bb8",
+      "video:shot.13#stem": "7c0a049bc8108c9eebc13adccb2e97477cef1b68defe97fb41f27b12bf0ae1a8",
+      "video:shot.14#stem": "f993b2c4e8ad9421726dd35b0a13b87f8ac5fad7a347858555073de367645ad8",
+      "video:shot.15#stem": "d3efe32c129f0e6bf325f4aa695434dfbde5b398b2039f93aef6d2159298bc12",
+      "video:shot.16#stem": "68ad520453323396d10d9ce2e040930a9364e73cc40dacc9606ca799a76dc84b",
+      "video:shot.17#stem": "fb1d460854935b2e9733a33416004046bfc6872d136bac2a2580188c17d00531"
+    }
+  },
+  "decisions": {
+    "11": "accepted",
+    "13": "accepted",
+    "15": "accepted",
+    "16": "accepted",
+    "17": "accepted",
+    "03": "accepted",
+    "04": "accepted",
+    "05": "accepted",
+    "07": "accepted",
+    "08": "accepted",
+    "09": "accepted"
+  },
+  "cascadeAccepted": [
+    {
+      "address": "video:shot.03#stem",
+      "via": "video:shot.03"
+    },
+    {
+      "address": "video:shot.04#stem",
+      "via": "video:shot.04"
+    },
+    {
+      "address": "video:shot.05#stem",
+      "via": "video:shot.05"
+    },
+    {
+      "address": "video:shot.07#stem",
+      "via": "video:shot.07"
+    },
+    {
+      "address": "video:shot.08#stem",
+      "via": "video:shot.08"
+    },
+    {
+      "address": "video:shot.09#stem",
+      "via": "video:shot.09"
+    },
+    {
+      "address": "video:shot.11#stem",
+      "via": "video:shot.11"
+    },
+    {
+      "address": "video:shot.13#stem",
+      "via": "video:shot.13"
+    },
+    {
+      "address": "video:shot.15#stem",
+      "via": "video:shot.15"
+    },
+    {
+      "address": "video:shot.16#stem",
+      "via": "video:shot.16"
+    },
+    {
+      "address": "video:shot.17#stem",
+      "via": "video:shot.17"
+    },
+    {
+      "address": "video:shot.03#composition",
+      "via": "video:shot.03"
+    },
+    {
+      "address": "video:shot.04#composition",
+      "via": "video:shot.04"
+    },
+    {
+      "address": "video:shot.05#composition",
+      "via": "video:shot.05"
+    },
+    {
+      "address": "video:shot.07#composition",
+      "via": "video:shot.07"
+    },
+    {
+      "address": "video:shot.08#composition",
+      "via": "video:shot.08"
+    },
+    {
+      "address": "video:shot.09#composition",
+      "via": "video:shot.09"
+    },
+    {
+      "address": "video:shot.11#composition",
+      "via": "video:shot.11"
+    },
+    {
+      "address": "video:shot.13#composition",
+      "via": "video:shot.13"
+    },
+    {
+      "address": "video:shot.15#composition",
+      "via": "video:shot.15"
+    },
+    {
+      "address": "video:shot.16#composition",
+      "via": "video:shot.16"
+    },
+    {
+      "address": "video:shot.17#composition",
+      "via": "video:shot.17"
+    }
+  ],
+  "notes": [
+    {
+      "id": "fb-5PRP2DLv",
+      "time": 50,
+      "shotId": "06",
+      "address": "video:shot.06",
+      "text": "画面が暗くならないようにして。プロンプトの問題のはず。",
+      "displayedVariants": {
+        "video:shot.06.motion": "v-RL5pWgOi"
+      }
+    },
+    {
+      "id": "fb-dRSWV6NY",
+      "time": 75.26666666666667,
+      "shotId": "10",
+      "address": "video:shot.10",
+      "text": "09が立っているから、10も立っている状態から身をかがめて差し出す形にしたい",
+      "displayedVariants": {
+        "video:shot.10.motion": "v-XHEmkuUB"
+      }
+    },
+    {
+      "id": "fb-oFtpLyrO",
+      "time": 92.1,
+      "shotId": "12",
+      "address": "video:shot.12",
+      "x": 0.233,
+      "y": 0.3,
+      "text": "最初のフレームがカメラ目線なのはおかしい。11では会話していたはず",
+      "displayedVariants": {
+        "video:shot.12.motion": "v-MnZ1PyLl",
+        "animatic:shot.12#narrationStem": "v-9AdaHfZG"
+      }
+    },
+    {
+      "id": "fb-NO6PmNb1",
+      "time": 114.83333333333333,
+      "shotId": "14",
+      "address": "video:shot.14",
+      "text": "音に気付くような芝居をいれたい。自然な感じで。",
+      "displayedVariants": {
+        "video:shot.14.motion": "v-y1fKLOLw"
+      }
+    },
+    {
+      "id": "fb-95u4QhyY",
+      "time": 6.3,
+      "shotId": "01",
+      "address": "video:shot.01",
+      "x": 0.655,
+      "y": 0.756,
+      "text": "署名が一度消えて、また照らされるのがおかしい。ゆっくり這い上がりってのが違うのでは？",
+      "displayedVariants": {
+        "video:shot.01.motion": "v-dVIfgtck",
+        "animatic:shot.01#narrationStem": "v-jkPYtsEW"
+      }
+    },
+    {
+      "id": "fb-neZk885H",
+      "time": 18.666666666666668,
+      "shotId": "02",
+      "address": "video:shot.02",
+      "x": 0.852,
+      "y": 0.579,
+      "text": "ドアを開けてずっと立ってるのがおかしい。赤い椅子に座ろうと歩くぐらいはしてもいいのでは？",
+      "displayedVariants": {
+        "video:shot.02.motion": "v-1YXdFUmv",
+        "animatic:shot.02#narrationStem": "v-muirlTTF"
+      }
+    }
+  ],
+  "handoffId": "20000101T000330000",
+  "handoffSummary": "第1幕（01〜17）の動画です。寄りのカットに部屋の引きが混ざらないよう、画角を守る指示を全ショットに入れてあります。04・14・16は、指示の影響か動きが小さめです。いちばん良い版を案内していますので、実際に見て判断をお願いします。",
+  "handoffNotes": [
+    {
+      "address": "video:shot.03",
+      "text": "画角検証の対象。手紙を胸の高さに保ち、口パクは台詞の区間と合っています。"
+    },
+    {
+      "address": "video:shot.04",
+      "text": "おすすめは、ワトスンが背を向けた姿勢から振り返る版。どの版も首を横に振る動きは出ていません。"
+    },
+    {
+      "address": "video:shot.06",
+      "text": "途中から画面が暗くなっていきます（指示していない変化）。"
+    },
+    {
+      "address": "video:shot.08",
+      "text": "おすすめは、指が列を上下になぞる版。"
+    },
+    {
+      "address": "video:shot.13",
+      "text": "おすすめは最初の版。最後の1秒ほどでお盆が消えます。"
+    },
+    {
+      "address": "video:shot.14",
+      "text": "どの版もホームズの動きが小さく、名刺に目を落とす動きが弱めです。"
+    },
+    {
+      "address": "video:shot.16",
+      "text": "おすすめは、ハドスン夫人が戸口から下がる版。ジョンは最初から部屋の中に立っていて、入ってくる動きはありません。"
+    },
+    {
+      "address": "video:shot.17",
+      "text": "ジョンの線が少し丸く柔らかく見えます。look から外れていないか見てください。"
+    }
+  ]
+}

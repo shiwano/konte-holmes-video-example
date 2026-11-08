@@ -1,4 +1,4 @@
-import { asset, Audio, Composition, defineVideo, soundtrack, Subtitle, Video } from "konte";
+import { Animate, asset, Audio, Composition, defineVideo, soundtrack, Subtitle, Video } from "konte";
 import type { MediaAsset } from "konte";
 import { audioStableAudio3Medium } from "konte/workspace/adapters/comfy/audio_stable_audio_3_medium.js";
 import { videoMinimaxH3R2v4step } from "konte/workspace/adapters/comfy/video_minimax_h3_r2v_4step.js";
@@ -638,6 +638,32 @@ export default defineVideo(direction, {
         <Composition>
           <Video src={m} hasAudio />
           <Audio src={animatic.shot("01").narrationStem} start={0} />
+          <div id="title" className="absolute left-[8%] top-[10%] flex flex-row-reverse items-stretch gap-[1.6vmax]">
+            <h1
+              id="title-ja"
+              className="m-0 whitespace-nowrap text-[3.9vmax] font-semibold leading-none tracking-[0.16em] text-[#f3ead8] [writing-mode:vertical-rl] [text-shadow:0_0_0.6vmax_rgba(201,163,90,0.45),0_0_0.15vmax_#000]"
+            >
+              三人ガリデブ
+            </h1>
+            <div id="title-rule" className="w-px bg-gradient-to-b from-transparent via-[#c9a35a] to-transparent" />
+            <p
+              id="title-en"
+              className="m-0 whitespace-nowrap text-[1.5vmax] font-semibold uppercase leading-[1.7] tracking-[0.28em] text-[#c9a35a] [writing-mode:vertical-rl]"
+            >
+              The Adventure of
+              <br />
+              the Three Garridebs
+            </p>
+          </div>
+          <Animate
+            script={({ timeline, split }) => {
+              const ja = split("#title-ja", { type: "chars", mask: "chars" });
+              timeline.from("#title-rule", { scaleY: 0, transformOrigin: "50% 0%", duration: 1.4, ease: "power2.inOut" }, 1.0);
+              timeline.from(ja.chars, { yPercent: -110, opacity: 0, duration: 0.9, ease: "expo.out", stagger: 0.14 }, 1.4);
+              timeline.from("#title-en", { opacity: 0, letterSpacing: "0.9em", filter: "blur(0.4vmax)", duration: 1.6, ease: "power3.out" }, 2.4);
+              timeline.to("#title", { opacity: 0, filter: "blur(0.3vmax)", duration: 1.0, ease: "power2.in" }, 10.0);
+            }}
+          />
         </Composition>
       );
     })
@@ -730,7 +756,7 @@ export default defineVideo(direction, {
           setting: "",
           partial: ["watson"],
           summary: "Overhead, Watson's hand turns page after page of the telephone directory.",
-          body: "The camera looks straight down at the writing desk top. The thick red-bound London telephone directory lies open, its pages packed with tiny columns of names. From the lower right, <Subject 1>'s hand in a brown tweed cuff turns a page over, then another, slowly and listlessly, each page lifting, curving and falling flat. Toward the end the hand smooths the open spread and the forefinger begins to travel down the left-hand column of names. The camera holds a static overhead shot. " + SILENT_LIPS,
+          body: "The camera looks straight down at the writing desk top. The thick red-bound London telephone directory lies open, its pages packed with tiny columns of names. From the lower right, <Subject 1>'s hand in a brown tweed cuff turns a page over, then another, slowly and listlessly, each page lifting, curving and falling flat. Toward the end the hand smooths the open spread and the forefinger begins to travel down a column of names on the right-hand page. The camera holds a static overhead shot. " + SILENT_LIPS,
           sound: "A quiet room: the dry riffle and soft slap of thin directory pages turning, the faint scrape of a tweed cuff on wood, distant street sounds through the window.",
         });
         return (
@@ -748,7 +774,7 @@ export default defineVideo(direction, {
           setting: "",
           partial: ["watson"],
           summary: "Continuing the same overhead take, Watson's forefinger slides down the names and stops dead on one line.",
-          body: "The same overhead frame continues unbroken. <Subject 1>'s forefinger slides slowly down the left-hand column of tiny printed names, then stops dead on one line and presses there, the other fingers tightening slightly against the page. The hand stays perfectly still for the rest of the shot. The camera holds a static overhead shot. " + SILENT_LIPS,
+          body: "The same overhead frame continues unbroken. <Subject 1>'s forefinger slides slowly down a column of tiny printed names on the right-hand page, then stops dead on one line and presses there, the other fingers tightening slightly against the page. The hand stays perfectly still for the rest of the shot. The camera holds a static overhead shot. " + SILENT_LIPS,
           sound: "A quiet room: the faint whisper of a fingertip sliding over paper, then stillness, distant street sounds through the window.",
         });
         return (

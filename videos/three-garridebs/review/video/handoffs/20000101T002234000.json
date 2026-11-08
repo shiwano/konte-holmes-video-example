@@ -1,0 +1,38 @@
+{
+  "stage": "video",
+  "summary": "前回のご指摘8ショットを直しました。",
+  "notes": [
+    {
+      "address": "video:shot.04",
+      "text": "ペンは紙の上で止めたまま、椅子も動かさず肩越しにゆっくり振り返ります"
+    },
+    {
+      "address": "video:shot.08",
+      "text": "動画側の音を切り、ナレーションだけにしました"
+    },
+    {
+      "address": "video:shot.26",
+      "text": "最初から画面右の相手を見るように作り直し"
+    },
+    {
+      "address": "video:shot.32",
+      "text": "31から続けて座った姿で始まり、深く座り直します"
+    },
+    {
+      "address": "video:shot.38",
+      "text": "字幕を台詞に合わせました。「That was…」も台詞の終わりまで残ります"
+    },
+    {
+      "address": "video:shot.43",
+      "text": "承認いただいた絵コンテで作り直し。ジョンの体格が41と揃いました"
+    },
+    {
+      "address": "video:shot.46",
+      "text": "最後まで画面右の相手から目を離さないように作り直し"
+    },
+    {
+      "address": "video:shot.58",
+      "text": "パイプを離したあと、煙を吐きます"
+    }
+  ]
+}
