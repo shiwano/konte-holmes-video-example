@@ -1,0 +1,81 @@
+{
+  "mode": "reference-preview",
+  "stage": "reference",
+  "createdAt": "2000-01-01T00:00:48.000Z",
+  "context": {
+    "shots": [],
+    "timeline": {
+      "look": "v-0h7q4mGb",
+      "holmes": "v-4DMxY6im",
+      "watson": "v-FH7cm9Pn",
+      "john": "v-wGPmtpcx",
+      "hudson": "v-V5uOWhSu",
+      "letter": "v-dArSQNEc",
+      "directory": "v-J0mYbCFv",
+      "card": "v-RU96ZnM4",
+      "pipe": "v-cUUA3eXX",
+      "sittingRoom": "v-qoyjizpB",
+      "street": "v-NSTADlqH",
+      "holmesVoice": "v-uNmHENDJ",
+      "watsonVoice": "v-Qy6qPKRo",
+      "johnVoice": "v-VFaALCyA",
+      "view.sittingRoom.top": "v-pm3bmWPb"
+    }
+  },
+  "decisions": [
+    {
+      "address": "reference:holmes",
+      "variantId": "v-4DMxY6im",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:watson",
+      "variantId": "v-FH7cm9Pn",
+      "status": "accepted",
+      "feedback": [
+        {
+          "id": "fb-jhxbbHq2",
+          "annotation": null,
+          "text": "ちょっと太すぎ。もっとスマートにしたいな。",
+          "displayedVariants": {
+            "reference:watson": "v-i2dsU6Ap"
+          },
+          "stale": true
+        }
+      ]
+    },
+    {
+      "address": "reference:john",
+      "variantId": "v-wGPmtpcx",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:hudson",
+      "variantId": "v-V5uOWhSu",
+      "status": "accepted",
+      "feedback": []
+    }
+  ],
+  "handoffId": "20000101T000047000",
+  "handoffSummary": "Qwen での描き直しをやめ、Krea だけで描き直しました。輪郭は直線と鋭い角で、細身で長身、ファッション画のような線にしています。何枚か描いた中から、一人一枚ずつ選んでいます。",
+  "handoffNotes": [
+    {
+      "address": "reference:holmes",
+      "text": "髪は原作どおり後ろへ撫でつけた短髪にし、約9頭身の細身にしています。"
+    },
+    {
+      "address": "reference:watson",
+      "text": "細身の体型と、茶のツイードの三つ揃いです。"
+    },
+    {
+      "address": "reference:john",
+      "text": "約6頭身のずんぐりした体型と丸顔は残しつつ、線は他の人物と同じく鋭くしています。"
+    },
+    {
+      "address": "reference:hudson",
+      "text": "頭の先まで画面に収まっている一枚を選びました。"
+    }
+  ]
+}

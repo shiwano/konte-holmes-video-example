@@ -1,0 +1,41 @@
+{
+  "kind": "comfy",
+  "workflow": "image_krea2_turbo_t2i.json",
+  "inputs": {
+    "52.text": "1980s Japanese theatrical anime cel animation in a gothic, aesthetic register: fine, sharp ink linework with long tapering strokes, hard-edged two-tone cel shading, deep indigo and blue-black shadow tones, a restrained palette with deep crimson and lamp-gold accents. Hand-painted background art with dense architectural detail. Baker Street, London, on a June morning in 1902, a quiet, deserted morning street seen from the roadway at eye level. At screen left the black Georgian front door of 221B with a semicircular fanlight above it and three worn stone steps; a terrace of soot-darkened brick houses with white sash windows runs into depth; at screen right a black iron gas street lamp stands at the kerb. Low, sharp morning sunlight rakes across the facades, laying long deep indigo shadows across the pavement and the cobbled road.",
+    "53.width": 2496,
+    "53.height": 1248,
+    "54.seed": "__konte:seed__",
+    "54.steps": 8,
+    "58.vae_name": "qwen_image_vae.safetensors",
+    "57.clip_name": "qwen3vl_4b_fp8_scaled.safetensors",
+    "56.unet_name": "krea2_turbo_int8_convrot.safetensors"
+  },
+  "models": [
+    {
+      "filename": "krea2_turbo_int8_convrot.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/diffusion_models/krea2_turbo_int8_convrot.safetensors"
+    },
+    {
+      "filename": "qwen3vl_4b_fp8_scaled.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/text_encoders/qwen3vl_4b_fp8_scaled.safetensors"
+    },
+    {
+      "filename": "qwen_image_vae.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/vae/qwen_image_vae.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "52.text": "prompt",
+    "53.width": "width",
+    "53.height": "height",
+    "54.seed": "seed",
+    "54.steps": "steps",
+    "58.vae_name": "vaeName",
+    "57.clip_name": "clipName",
+    "56.unet_name": "unetName"
+  }
+}

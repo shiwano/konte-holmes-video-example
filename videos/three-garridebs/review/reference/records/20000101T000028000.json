@@ -1,0 +1,135 @@
+{
+  "mode": "reference-preview",
+  "stage": "reference",
+  "createdAt": "2000-01-01T00:00:28.000Z",
+  "context": {
+    "shots": [],
+    "timeline": {
+      "look": "v-0h7q4mGb",
+      "holmes": "v-DXaghVnw",
+      "watson": "v-i2dsU6Ap",
+      "john": "v-tuQnxtff",
+      "hudson": "v-ta00IQm0",
+      "letter": "v-dArSQNEc",
+      "directory": "v-J0mYbCFv",
+      "card": "v-RU96ZnM4",
+      "pipe": "v-cUUA3eXX",
+      "sittingRoom": "v-qoyjizpB",
+      "street": "v-NSTADlqH",
+      "holmesVoice": "v-uNmHENDJ",
+      "watsonVoice": "v-Qy6qPKRo",
+      "johnVoice": "v-VFaALCyA",
+      "view.sittingRoom.side": "v-ZffhNooI",
+      "view.sittingRoom.top": "v-pm3bmWPb"
+    }
+  },
+  "decisions": [
+    {
+      "address": "reference:letter",
+      "variantId": "v-dArSQNEc",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:directory",
+      "variantId": "v-J0mYbCFv",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:card",
+      "variantId": "v-RU96ZnM4",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:pipe",
+      "variantId": "v-cUUA3eXX",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:sittingRoom",
+      "variantId": "v-qoyjizpB",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:street",
+      "variantId": "v-NSTADlqH",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:view.sittingRoom.top",
+      "variantId": "v-pm3bmWPb",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:holmesVoice",
+      "variantId": "v-uNmHENDJ",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:watsonVoice",
+      "variantId": "v-Qy6qPKRo",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:johnVoice",
+      "variantId": "v-VFaALCyA",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:watson",
+      "feedback": [
+        {
+          "id": "fb-jhxbbHq2",
+          "annotation": null,
+          "text": "ちょっと太すぎ。もっとスマートにしたいな。",
+          "displayedVariants": {
+            "reference:watson": "v-i2dsU6Ap"
+          },
+          "stale": false,
+          "added": true
+        }
+      ]
+    },
+    {
+      "address": "reference:view.sittingRoom.side",
+      "feedback": [
+        {
+          "id": "fb-kV9vF5BK",
+          "annotation": null,
+          "text": "ちょっと窓・机が左手に見えるのはおかしい",
+          "displayedVariants": {
+            "reference:view.sittingRoom.side": "v-ZffhNooI"
+          },
+          "stale": false,
+          "added": true
+        }
+      ]
+    }
+  ],
+  "overallComment": "キャラ絵はなんかジブリぽさというか線の柔らかさが気になる。\nlook とちょっと違うので、もうちょっと練ってみて",
+  "handoffId": "20000101T000027000",
+  "handoffSummary": "キャラクター4人・小道具4点・場所2か所（居間は横と真上の別角度つき）と、声のサンプル3人分です。これらが本編すべての絵と声の基準になります。声は耳でしか判断できないので、特に聞いてみてください。",
+  "handoffNotes": [
+    {
+      "address": "reference:john",
+      "text": "耽美な画風の中で、ジョンだけは原作どおり丸い童顔と張り付いた笑顔にしています。上着の肘の擦り切れは、後の伏線のために描き込んであります。"
+    },
+    {
+      "address": "reference:watsonVoice",
+      "text": "ワトスンの台詞と、要所の語り（ナレーション）の両方に使う声です。"
+    },
+    {
+      "address": "reference:street",
+      "text": "最後の場面で使う通りです。左に221Bの玄関、中央右寄りにガス灯があります。"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "stage": "animatic",
+  "summary": "手直しの絵コンテです。赤い椅子を小さくし、各ショットのご指摘を反映しました。声は複数テイクから選んでください。",
+  "notes": [
+    {
+      "address": "animatic:shot.02",
+      "text": "ナレーションを3テイク取り直しました（1本は誤読のため除外、2本からお選びください）"
+    },
+    {
+      "address": "animatic:shot.03",
+      "text": "02の終わりに合わせて、足を組んだ姿勢にしました"
+    },
+    {
+      "address": "animatic:shot.04",
+      "text": "ペンは右手側に。右腕を椅子の背に掛け、左手は書類の上。ペンは3回描いても消えるため描かない形にしました。ホームズの「かねになる」を3テイク"
+    },
+    {
+      "address": "animatic:shot.12",
+      "text": "11に合わせて、電話帳をホームズの膝に開いたままにしました"
+    },
+    {
+      "address": "animatic:shot.13",
+      "text": "ワトスンの声に、発見の喜びと読み上げる芝居を足して3テイク"
+    },
+    {
+      "address": "animatic:shot.14",
+      "text": "足音をなくし、薄い笑みのまま終える形に。尺を10秒→7秒に縮めました"
+    },
+    {
+      "address": "animatic:shot.15",
+      "text": "足音なし。名刺の主がすぐ上がってくると承知して扉を見据える芝居に。椅子を小さく"
+    },
+    {
+      "address": "animatic:shot.17",
+      "text": "「写真」→「挿絵」に変更"
+    },
+    {
+      "address": "animatic:shot.28",
+      "text": "「商売」→「ビジネス」に変更"
+    },
+    {
+      "address": "animatic:shot.21",
+      "text": "赤い椅子を小さく"
+    },
+    {
+      "address": "animatic:shot.27",
+      "text": "赤い椅子を小さく"
+    },
+    {
+      "address": "animatic:shot.30",
+      "text": "赤い椅子を小さく（27の顔の位置を引き継ぐよう接続）"
+    },
+    {
+      "address": "animatic:shot.41b",
+      "text": "赤い椅子を小さく"
+    },
+    {
+      "address": "animatic:shot.51",
+      "text": "赤い椅子を小さく"
+    },
+    {
+      "address": "animatic:shot.57",
+      "text": "赤い椅子を小さく（2枚からお選びください）"
+    },
+    {
+      "address": "animatic:shot.59",
+      "text": "赤い椅子を小さく（2枚からお選びください）"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "stage": "video",
+  "summary": "前回のご指摘11ショットを直した動画です。",
+  "notes": [
+    {
+      "address": "video:shot.03",
+      "text": "画面左のワトスンへ顔を向けるよう作り直し。絵コンテが正面向きのため視線はまだ控えめです。足りなければ絵コンテから描き直します"
+    },
+    {
+      "address": "video:shot.04",
+      "text": "背を向けて書き物→画面右へ振り返って首を振る芝居に"
+    },
+    {
+      "address": "video:shot.12",
+      "text": "差し込む光の筋をなくし、柔らかい光に"
+    },
+    {
+      "address": "video:shot.13",
+      "text": "「がっしゅうこく」の読みに"
+    },
+    {
+      "address": "video:shot.21",
+      "text": "視線を下ではなく画面右のジョンへ"
+    },
+    {
+      "address": "video:shot.27",
+      "text": "画面右のジョンを見る絵コンテから作り直し"
+    },
+    {
+      "address": "video:shot.28",
+      "text": "最後まで目線を画面左のホームズに据えたまま"
+    },
+    {
+      "address": "video:shot.30",
+      "text": "承認いただいた27の絵を使い、画面右のジョンを見る形に"
+    },
+    {
+      "address": "video:shot.51",
+      "text": "椅子を小さくした絵コンテ（お選びいただいた絵）から作り直し"
+    },
+    {
+      "address": "video:shot.59",
+      "text": "目を伏せて思案する芝居に"
+    },
+    {
+      "address": "video:shot.62",
+      "text": "パイプを短い曲がりパイプの形に"
+    }
+  ]
+}

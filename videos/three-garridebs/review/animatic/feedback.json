@@ -1,0 +1,1765 @@
+{
+  "schemaVersion": 1,
+  "feedback": {
+    "animatic:shot.02": [
+      {
+        "id": "fb-yzMuqdnc",
+        "displayedVariants": {
+          "animatic:shot.02.key": "v-EOZnEKpb",
+          "animatic:shot.02.narration": "v-ozrgIiz2"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.02#composition": "0c632aacde95",
+          "animatic:shot.02#narrationStem": "d32934a3b60d"
+        },
+        "annotation": null,
+        "time": 11.566666666666666,
+        "text": "02とあわせて冒頭のセリフがあってない気がする",
+        "createdAt": "2000-01-01T00:01:42.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-Ty4ebNrl",
+        "displayedVariants": {
+          "animatic:shot.02.key": "v-EOZnEKpb",
+          "animatic:shot.02.narration": "v-yXpZPrOc",
+          "animatic:shot.02#composition": "v-Jeraf1u0"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.02#composition": "0c632aacde95",
+          "animatic:shot.02#narrationStem": "d32934a3b60d"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.199,
+          "y": 0.68
+        },
+        "time": 12,
+        "text": "椅子に背もたれがない。",
+        "createdAt": "2000-01-01T00:02:43.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.03": [
+      {
+        "id": "fb-2l5JEBTJ",
+        "displayedVariants": {
+          "animatic:shot.03.key": "v-u7693C4x",
+          "animatic:shot.03.holmes": "v-Y5VPF6YA"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.03#composition": "91f32f6a1410",
+          "animatic:shot.03#stem": "cdc0b05f8767"
+        },
+        "annotation": null,
+        "time": 26.233333333333334,
+        "text": "「かねもうけ」じゃなくて「かなもうけ」になってる",
+        "createdAt": "2000-01-01T00:01:42.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-2EDtczrX",
+        "displayedVariants": {
+          "animatic:shot.03.key": "v-u7693C4x",
+          "animatic:shot.03.holmes": "v-9AKnf6ZM",
+          "animatic:shot.03#composition": "v-lgUzo2dI"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.03#composition": "91f32f6a1410",
+          "animatic:shot.03#stem": "cdc0b05f8767"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.081,
+          "y": 0.853
+        },
+        "time": 25,
+        "text": "この plate のショット、ここの赤い椅子が写ってるのがよくない。ワトスンが座っているのに座っていない",
+        "createdAt": "2000-01-01T00:02:43.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.04": [
+      {
+        "id": "fb-NWxcjulc",
+        "displayedVariants": {
+          "animatic:shot.04.key": "v-VJqDJl55",
+          "animatic:shot.04.watson": "v-nCg84lsL",
+          "animatic:shot.04.holmes": "v-kufIQ8RG"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.04#composition": "88967ace3684",
+          "animatic:shot.04#stem": "5ce64be48181"
+        },
+        "annotation": null,
+        "time": 35.233333333333334,
+        "text": "「かねになる」じゃなくて「きんになる」になってる",
+        "createdAt": "2000-01-01T00:01:42.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-gruKrWiP",
+        "displayedVariants": {
+          "animatic:shot.04.key": "v-VJqDJl55",
+          "animatic:shot.04.watson": "v-nCg84lsL",
+          "animatic:shot.04.holmes": "v-vETF7AmB"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.04#composition": "88967ace3684",
+          "animatic:shot.04#stem": "5ce64be48181"
+        },
+        "annotation": null,
+        "time": 37.266666666666666,
+        "text": "「かね」の発音が変",
+        "createdAt": "2000-01-01T00:02:16.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-5yEtly15",
+        "displayedVariants": {
+          "animatic:shot.04.key": "v-VJqDJl55",
+          "animatic:shot.04.watson": "v-nCg84lsL",
+          "animatic:shot.04.holmes": "v-a9ETghla"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.04#composition": "88967ace3684",
+          "animatic:shot.04#stem": "5ce64be48181"
+        },
+        "annotation": null,
+        "time": 37.43333333333333,
+        "text": "発音変わらないな「カネ」とか「鐘」とかにしてみて。",
+        "createdAt": "2000-01-01T00:02:43.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.05": [
+      {
+        "id": "fb-lo6J7iij",
+        "displayedVariants": {
+          "animatic:shot.05.key": "v-i0JN77VW",
+          "animatic:shot.05.watson": "v-7W0BwgHh",
+          "animatic:shot.05.holmes": "v-X4I7Av6W"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.05#composition": "99178b371b64",
+          "animatic:shot.05#stem": "0b39cfe9ac62"
+        },
+        "annotation": null,
+        "time": 41.766666666666666,
+        "text": "「ふうがわりな話だ」が「かんがわりな話だ」になってる",
+        "createdAt": "2000-01-01T00:01:42.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-VSlEORAk",
+        "displayedVariants": {
+          "animatic:shot.05.key": "v-i0JN77VW",
+          "animatic:shot.05.watson": "v-7W0BwgHh",
+          "animatic:shot.05.holmes": "v-X4I7Av6W"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.05#composition": "99178b371b64",
+          "animatic:shot.05#stem": "0b39cfe9ac62"
+        },
+        "annotation": null,
+        "time": 47.4,
+        "text": "ここショットの後ろの無音期間が長い気がする",
+        "createdAt": "2000-01-01T00:01:42.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.07": [
+      {
+        "id": "fb-2mAOoeOq",
+        "displayedVariants": {
+          "animatic:shot.07.key": "v-lFcU5E3m",
+          "animatic:shot.07.narration": "v-E1rsaH3B"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.07#composition": "6f0a3c58a9d2",
+          "animatic:shot.07#narrationStem": "83364af3533d"
+        },
+        "annotation": null,
+        "time": 64.33333333333333,
+        "text": "「頁」は「ページ」にしたい読めてない",
+        "createdAt": "2000-01-01T00:01:42.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.08": [
+      {
+        "id": "fb-4uGZXhnG",
+        "displayedVariants": {
+          "animatic:shot.08.key": "v-BtOI2FUM",
+          "animatic:shot.08.narration": "v-SHDzqi5N"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.08#composition": "30a255efe545",
+          "animatic:shot.08#narrationStem": "8e10c1ae7aaf"
+        },
+        "annotation": null,
+        "time": 68.3,
+        "text": "ナレーションの声音が07とあってないからテイク取り直してほしい",
+        "createdAt": "2000-01-01T00:01:42.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-1c0z9xBf",
+        "displayedVariants": {
+          "animatic:shot.08.key": "v-BtOI2FUM",
+          "animatic:shot.08.narration": "v-SHDzqi5N"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.08#composition": "30a255efe545",
+          "animatic:shot.08#narrationStem": "8e10c1ae7aaf"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.038,
+          "y": 0.875
+        },
+        "time": 66.43333333333334,
+        "text": "テーブルの色が違っている",
+        "createdAt": "2000-01-01T00:01:42.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-1mLhypy6",
+        "displayedVariants": {
+          "animatic:shot.08.key": "v-m1Gy0Tkw",
+          "animatic:shot.08.narration": "v-hiHYEf8Q"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.08#composition": "30a255efe545",
+          "animatic:shot.08#narrationStem": "8e10c1ae7aaf"
+        },
+        "annotation": null,
+        "time": 67.56666666666666,
+        "text": "07と似たような画角なのに、絵がつながっていないので変に感じる。参照つけて同じ絵にするか、画角変えるかしてほしい",
+        "createdAt": "2000-01-01T00:02:16.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-qx94Oz15",
+        "displayedVariants": {
+          "animatic:shot.08.key": "v-m1Gy0Tkw",
+          "animatic:shot.08.narration": "v-hiHYEf8Q"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.08#composition": "30a255efe545",
+          "animatic:shot.08#narrationStem": "8e10c1ae7aaf"
+        },
+        "annotation": null,
+        "time": 70.23333333333333,
+        "text": "ナレーションも声音がちょっと違うのでテイク取り直してほしい",
+        "createdAt": "2000-01-01T00:02:16.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.11": [
+      {
+        "id": "fb-SJ1sEqMJ",
+        "displayedVariants": {
+          "animatic:shot.11.key": "v-6yKFVsEp",
+          "animatic:shot.11.holmes": "v-VtL5psGc"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.11#composition": "1ec745f14961",
+          "animatic:shot.11#stem": "6854946ce145"
+        },
+        "annotation": null,
+        "time": 86.9,
+        "text": "「さしだしにん」が「さいでにん」になってる",
+        "createdAt": "2000-01-01T00:01:42.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-fHj66qJ0",
+        "displayedVariants": {
+          "animatic:shot.11.key": "v-6yKFVsEp",
+          "animatic:shot.11.holmes": "v-VtL5psGc"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.11#composition": "1ec745f14961",
+          "animatic:shot.11#stem": "6854946ce145"
+        },
+        "annotation": null,
+        "time": 90.26666666666667,
+        "text": "「ついになるもの」が「たいになるもの」になってる",
+        "createdAt": "2000-01-01T00:01:42.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-ZjB0CXEw",
+        "displayedVariants": {
+          "animatic:shot.11.key": "v-6yKFVsEp",
+          "animatic:shot.11.holmes": "v-3lPb3UnS"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.11#composition": "1ec745f14961",
+          "animatic:shot.11#stem": "6854946ce145"
+        },
+        "annotation": null,
+        "time": 83.33333333333333,
+        "text": "さしだしにんの発音がちょっと変なので、別テイクとってみてほしい",
+        "createdAt": "2000-01-01T00:02:16.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-RKQ8WD8y",
+        "displayedVariants": {
+          "animatic:shot.11.key": "v-6yKFVsEp",
+          "animatic:shot.11.holmes": "v-iXYif15U"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.11#composition": "1ec745f14961",
+          "animatic:shot.11#stem": "6854946ce145"
+        },
+        "annotation": null,
+        "time": 79,
+        "text": "発音変わらないな。「サシダシニン」で撮ってみて。",
+        "createdAt": "2000-01-01T00:02:43.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.13": [
+      {
+        "id": "fb-D1iOEV3l",
+        "displayedVariants": {
+          "animatic:shot.13.key": "v-PMWClAEs",
+          "animatic:shot.13.watson": "v-nwtxxwpS"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.13#composition": "81359f65c101",
+          "animatic:shot.13#stem": "926de84a7517"
+        },
+        "annotation": null,
+        "time": 100.06666666666666,
+        "text": "「かしらもじ」が「あたまもじ」になってる",
+        "createdAt": "2000-01-01T00:01:42.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.15": [
+      {
+        "id": "fb-okkDdG4s",
+        "displayedVariants": {
+          "animatic:shot.15.key": "v-Ici4qCbA",
+          "animatic:shot.15.holmes": "v-AVLy64h0"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.15#composition": "e5fc4ef94dd9",
+          "animatic:shot.15#stem": "6f165ac13f8b"
+        },
+        "annotation": null,
+        "time": 116,
+        "text": "14と15の流れがわからん。なんで表情が消えたの？",
+        "createdAt": "2000-01-01T00:01:42.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-Ii7sJFiv",
+        "displayedVariants": {
+          "animatic:shot.15.key": "v-Ici4qCbA",
+          "animatic:shot.15.footsteps": "v-RKDZdSbY",
+          "animatic:shot.15.holmes": "v-AVLy64h0"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.15#composition": "f8ebe6816465",
+          "animatic:shot.15#stem": "3817e2737b4a"
+        },
+        "annotation": null,
+        "time": 120.7,
+        "text": "階段の音がわかりにくい",
+        "createdAt": "2000-01-01T00:02:16.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.01": [
+      {
+        "id": "fb-ViyNb8WH",
+        "displayedVariants": {
+          "animatic:shot.01.key": "v-rJ0le9wU",
+          "animatic:shot.01.narration": "v-BkUIIoDJ"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.01#composition": "18d7f87cb5eb",
+          "animatic:shot.01#narrationStem": "d00bde7cd500"
+        },
+        "annotation": null,
+        "time": 9.533333333333333,
+        "text": "このセリフ、冒頭でくるにはちょっと意味不明かも。セリフなおせない？",
+        "createdAt": "2000-01-01T00:01:42.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.14": [
+      {
+        "id": "fb-6GmITSmv",
+        "displayedVariants": {
+          "animatic:shot.14.key": "v-dkNbIDeZ",
+          "animatic:shot.14.holmes": "v-InQpPUa0"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.14#composition": "fad648d4de09",
+          "animatic:shot.14#stem": "9ba6e8ace7f6"
+        },
+        "annotation": null,
+        "time": 106,
+        "text": "15とのつながりがわからん",
+        "createdAt": "2000-01-01T00:01:42.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-N4SUYqtj",
+        "displayedVariants": {
+          "animatic:shot.14.key": "v-dkNbIDeZ",
+          "animatic:shot.14.holmes": "v-InQpPUa0"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.14#composition": "fad648d4de09",
+          "animatic:shot.14#stem": "9ba6e8ace7f6"
+        },
+        "annotation": null,
+        "time": 114.46666666666667,
+        "text": "末尾の無音が長い。ここの末尾で階段の音鳴らしたら？ 15まで続けてもいいけど",
+        "createdAt": "2000-01-01T00:02:16.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.19": [
+      {
+        "id": "fb-OWYYNGyD",
+        "displayedVariants": {
+          "animatic:shot.19.key": "v-6E4g2fiQ",
+          "animatic:shot.19.holmes": "v-9RiSj8JA"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.19#composition": "c779ff728a89",
+          "animatic:shot.19#stem": "3ece3ebc9844"
+        },
+        "annotation": null,
+        "time": 155.93333333333334,
+        "text": "末尾に無音の期間が長いので、ショット切り詰めてもよさそう",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.22": [
+      {
+        "id": "fb-szS7dXwo",
+        "displayedVariants": {
+          "animatic:shot.22.key": "v-Lw4tBNt9",
+          "animatic:shot.22.john": "v-KsVtW4yp"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.22#composition": "467e8a7e8dc0",
+          "animatic:shot.22#stem": "77c11cf20a89"
+        },
+        "annotation": null,
+        "time": 172.26666666666668,
+        "text": "末尾の無音期間が長いので、duration カットしてもよさそう",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.23": [
+      {
+        "id": "fb-xBLRnMyS",
+        "displayedVariants": {
+          "animatic:shot.23.key": "v-FznBZq84",
+          "animatic:shot.23.holmes": "v-5QN1zcAI"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.23#composition": "6a5ce6bee4bb",
+          "animatic:shot.23#stem": "73213ca41557"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.388,
+          "y": 0.421
+        },
+        "time": 177.93333333333334,
+        "text": "ガリデブは椅子に座っているはず。これは椅子に座っている絵じゃない",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-GABf5ALr",
+        "displayedVariants": {
+          "animatic:shot.23.key": "v-hIfDz2fw",
+          "animatic:shot.23.holmes": "v-5QN1zcAI"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.23#composition": "6a5ce6bee4bb",
+          "animatic:shot.23#stem": "73213ca41557"
+        },
+        "annotation": null,
+        "time": 169,
+        "text": "v-VIcEjza9 みたいなのがいいんだけど、イマジナリーラインを壊してるから、画面左向きで生成しなおしてほしい",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-NIz79Yb0",
+        "displayedVariants": {
+          "animatic:shot.23.key": "v-LEPKHCON",
+          "animatic:shot.23.holmes": "v-5QN1zcAI"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.23#composition": "6a5ce6bee4bb",
+          "animatic:shot.23#stem": "73213ca41557"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.276,
+          "y": 0.097
+        },
+        "time": 169,
+        "text": "ここが椅子の座面なのに、そこにジョンが座ってないのがおかしいの。椅子のひじ掛けには左腕を載せてないといけないのに、今右腕をのせているから変。根本的に作り直して。",
+        "createdAt": "2000-01-01T00:11:21.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-MvsBO3B8",
+        "displayedVariants": {
+          "animatic:shot.23.key": "v-t2A8eqa3",
+          "animatic:shot.23.holmes": "v-5QN1zcAI"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.23#composition": "6a5ce6bee4bb",
+          "animatic:shot.23#stem": "73213ca41557"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.515,
+          "y": 0.278
+        },
+        "time": 174.16666666666666,
+        "text": "擦り切れて光っているって原作の描写？ 絵にするとちょっと変だな",
+        "createdAt": "2000-01-01T00:12:29.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-jBOz8bWj",
+        "displayedVariants": {
+          "animatic:shot.23.key": "v-t2A8eqa3",
+          "animatic:shot.23.holmes": "v-5QN1zcAI"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.23#composition": "6a5ce6bee4bb",
+          "animatic:shot.23#stem": "73213ca41557"
+        },
+        "annotation": null,
+        "time": 172.5,
+        "text": "もうちょっと椅子に深く座っている絵にしたい。これだと、尻だけ載せている絵にみえて、22と違う印象をうける",
+        "createdAt": "2000-01-01T00:12:29.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.24": [
+      {
+        "id": "fb-kA6Fsu05",
+        "displayedVariants": {
+          "animatic:shot.24.key": "v-9EgwHg3q",
+          "animatic:shot.24.john": "v-U4EqORlB"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.24#composition": "3fec0e97c6f7",
+          "animatic:shot.24#stem": "d291d77b4de6"
+        },
+        "annotation": null,
+        "time": 182.53333333333333,
+        "text": "「英国人」が「えいごくじん」と聞こえる",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-1RYAJ0na",
+        "displayedVariants": {
+          "animatic:shot.24.key": "v-9EgwHg3q",
+          "animatic:shot.24.john": "v-U4EqORlB"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.24#composition": "3fec0e97c6f7",
+          "animatic:shot.24#stem": "d291d77b4de6"
+        },
+        "annotation": null,
+        "time": 187.33333333333334,
+        "text": "「見えるとはね」の後に変な声が聞こえる。",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.25": [
+      {
+        "id": "fb-eFcEprZV",
+        "displayedVariants": {
+          "animatic:shot.25.key": "v-6wuRg2UL",
+          "animatic:shot.25.john": "v-cRPtLLhM"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.25#composition": "d4b1914ab9dc",
+          "animatic:shot.25#stem": "1893a940c4e9"
+        },
+        "annotation": null,
+        "time": 195.13333333333333,
+        "text": "「靴下」が「くつか」に聞こえる",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-1pw0pa4v",
+        "displayedVariants": {
+          "animatic:shot.25.key": "v-6wuRg2UL",
+          "animatic:shot.25.john": "v-VnEaORdc"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.25#composition": "d4b1914ab9dc",
+          "animatic:shot.25#stem": "1893a940c4e9"
+        },
+        "annotation": null,
+        "time": 191.5,
+        "text": "靴下がまだ言えてない。全部カタカナかひらがなにしたら？",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-8amskZ1s",
+        "displayedVariants": {
+          "animatic:shot.25.key": "v-6wuRg2UL",
+          "animatic:shot.25.john": "v-qv43htwr"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.25#composition": "d4b1914ab9dc",
+          "animatic:shot.25#stem": "1893a940c4e9"
+        },
+        "annotation": null,
+        "time": 190.5,
+        "text": "仕立てがうまく読めてない",
+        "createdAt": "2000-01-01T00:11:21.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.26": [
+      {
+        "id": "fb-aRrUUFjf",
+        "displayedVariants": {
+          "animatic:shot.26.key": "v-JAdbiku4",
+          "animatic:shot.26.holmes": "v-TH43lVqp"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "e6ac0016fec8",
+          "animatic:shot.26#stem": "a3f702afc368"
+        },
+        "annotation": null,
+        "time": 210.7,
+        "text": "末尾の無音期間が長いのでカットして",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.28": [
+      {
+        "id": "fb-LUeFTTqX",
+        "displayedVariants": {
+          "animatic:shot.28.key": "v-2EJDdQ7h",
+          "animatic:shot.28.john": "v-XPI6MDbE"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "eed23750f2da",
+          "animatic:shot.28#stem": "3bcc7e5c59e3"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.527,
+          "y": 0.381
+        },
+        "time": 218,
+        "text": "「赤黒い」がちょっと絵で見ると変なので、その表現はやめたほうがいいかも",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-KnNUTi6V",
+        "displayedVariants": {
+          "animatic:shot.28.key": "v-2EJDdQ7h",
+          "animatic:shot.28.john": "v-XPI6MDbE"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "eed23750f2da",
+          "animatic:shot.28#stem": "3bcc7e5c59e3"
+        },
+        "annotation": null,
+        "time": 222.46666666666667,
+        "text": "もうちょっと怒鳴ってる感の芝居がほしい",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-KC0nt6O9",
+        "displayedVariants": {
+          "animatic:shot.28.key": "v-feavpZ7V",
+          "animatic:shot.28.john": "v-XPI6MDbE"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "eed23750f2da",
+          "animatic:shot.28#stem": "3bcc7e5c59e3"
+        },
+        "annotation": null,
+        "time": 220.93333333333334,
+        "text": "違う、前にしてきした怒鳴ってる芝居ってのは音声のこと。絵はちょっと怒りすぎなので、絵の芝居は元に戻して",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-upCYR1QT",
+        "displayedVariants": {
+          "animatic:shot.28.key": "v-Al9LmAKo",
+          "animatic:shot.28.john": "v-zlso0Qjs"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "eed23750f2da",
+          "animatic:shot.28#stem": "3bcc7e5c59e3"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.428,
+          "y": 0.463
+        },
+        "time": 222.63333333333333,
+        "text": "椅子に座ってない",
+        "createdAt": "2000-01-01T00:11:21.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-iDu9p2Hr",
+        "displayedVariants": {
+          "animatic:shot.28.key": "v-V46vSnbL",
+          "animatic:shot.28.john": "v-zlso0Qjs"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.28#composition": "eed23750f2da",
+          "animatic:shot.28#stem": "3bcc7e5c59e3"
+        },
+        "annotation": null,
+        "time": 221.23333333333332,
+        "text": "末尾の無音が長い",
+        "createdAt": "2000-01-01T00:12:29.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.29": [
+      {
+        "id": "fb-UVblXO3M",
+        "displayedVariants": {
+          "animatic:shot.29.key": "v-zJ0Wboz9",
+          "animatic:shot.29.john": "v-FOo3xIhf"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.29#composition": "12c6dd50ec3e",
+          "animatic:shot.29#stem": "7c42ef749dca"
+        },
+        "annotation": null,
+        "time": 238.2,
+        "text": "末尾の無音をカットして",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-7O57I1Cn",
+        "displayedVariants": {
+          "animatic:shot.29.key": "v-m1Tcc4RR",
+          "animatic:shot.29.john": "v-FOo3xIhf"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.29#composition": "4a3b701ceed4",
+          "animatic:shot.29#stem": "a89314d72f35"
+        },
+        "annotation": null,
+        "time": 230.56666666666666,
+        "text": "声の芝居を、もっと怒ってる風にして",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.30": [
+      {
+        "id": "fb-SoWihf7i",
+        "displayedVariants": {
+          "animatic:shot.30.key": "v-sGfSz4dy",
+          "animatic:shot.30.holmes": "v-xGjtrDr9"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.30#composition": "e5357292b8a1",
+          "animatic:shot.30#stem": "0e37778f8386"
+        },
+        "annotation": null,
+        "time": 248.36666666666667,
+        "text": "ここも末尾をカットして",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-t7rtaFlF",
+        "displayedVariants": {
+          "animatic:shot.30.key": "v-QCHgmkUz",
+          "animatic:shot.30.holmes": "v-xGjtrDr9",
+          "animatic:shot.30#composition": "v-dmd7yt93"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.30#composition": "ef411c3299af",
+          "animatic:shot.30#stem": "ebf8e3cdad08"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.468,
+          "y": 0.3
+        },
+        "time": 230.63333333333333,
+        "text": "画面右みてないけど",
+        "createdAt": "2000-01-01T00:20:44.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.31": [
+      {
+        "id": "fb-3uddGpLv",
+        "displayedVariants": {
+          "animatic:shot.31.key": "v-hiojx3Jw",
+          "animatic:shot.31.john": "v-qOMg4NC1"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.31#composition": "f60a3ceb74c2",
+          "animatic:shot.31#stem": "3bc5b6ee6015"
+        },
+        "annotation": null,
+        "time": 267.06666666666666,
+        "text": "末尾をカットして",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.33": [
+      {
+        "id": "fb-fqwFu0O9",
+        "displayedVariants": {
+          "animatic:shot.33.key": "v-5Hwwa6Ms",
+          "animatic:shot.33.holmes": "v-oB347tLo"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.33#composition": "ad009b42a477",
+          "animatic:shot.33#stem": "7cc1c42b7300"
+        },
+        "annotation": null,
+        "time": 288.43333333333334,
+        "text": "末尾の無音をカットして",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.34": [
+      {
+        "id": "fb-OHb8K3py",
+        "displayedVariants": {
+          "animatic:shot.34.key": "v-TZA4Y7J2",
+          "animatic:shot.34.john": "v-JnLaCDPd"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.34#composition": "a52d2377a557",
+          "animatic:shot.34#stem": "5856ca2f3e27"
+        },
+        "annotation": null,
+        "time": 290,
+        "text": "ワトスンは前にいるので、左下を見るのは変かも",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-p3WjhR78",
+        "displayedVariants": {
+          "animatic:shot.34.key": "v-xj3NYxS5",
+          "animatic:shot.34.john": "v-JnLaCDPd"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.34#composition": "a52d2377a557",
+          "animatic:shot.34#stem": "5856ca2f3e27"
+        },
+        "annotation": null,
+        "time": 278.6333333333333,
+        "text": "ちがう、ワトスンがいるのは画面左",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.36": [
+      {
+        "id": "fb-TkVjW1la",
+        "displayedVariants": {
+          "animatic:shot.36.key": "v-5rPn2DnB",
+          "animatic:shot.36.john": "v-hk8nw8EU"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.36#composition": "e654afe687a9",
+          "animatic:shot.36#stem": "88d298d94340"
+        },
+        "annotation": null,
+        "time": 297,
+        "text": "末尾の無音が長いのでカットして",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.37": [
+      {
+        "id": "fb-A0laqMdt",
+        "displayedVariants": {
+          "animatic:shot.37.key": "v-vvGdOx2w",
+          "animatic:shot.37.john": "v-0nAfiR0c"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.37#composition": "d301b1b3fb51",
+          "animatic:shot.37#stem": "9977c7b2e981"
+        },
+        "annotation": null,
+        "time": 314.1333333333333,
+        "text": "「相場」が「おおば」になっている",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-1oOcRVYb",
+        "displayedVariants": {
+          "animatic:shot.37.key": "v-vvGdOx2w",
+          "animatic:shot.37.john": "v-0nAfiR0c"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.37#composition": "d301b1b3fb51",
+          "animatic:shot.37#stem": "9977c7b2e981"
+        },
+        "annotation": null,
+        "time": 315.73333333333335,
+        "text": "「金」が「かん」になっている",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-BQlg6TAi",
+        "displayedVariants": {
+          "animatic:shot.37.key": "v-vvGdOx2w",
+          "animatic:shot.37.john": "v-0nAfiR0c"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.37#composition": "d301b1b3fb51",
+          "animatic:shot.37#stem": "9977c7b2e981"
+        },
+        "annotation": null,
+        "time": 319.03333333333336,
+        "text": "「買い占めた」が「かいじめた」になっている",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.39": [
+      {
+        "id": "fb-PCnEoERL",
+        "displayedVariants": {
+          "animatic:shot.39.key": "v-dASgHt1E",
+          "animatic:shot.39.john": "v-QlH3hk2s"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.39#composition": "6030eec2aa52",
+          "animatic:shot.39#stem": "324ba831e551"
+        },
+        "annotation": null,
+        "time": 348.96666666666664,
+        "text": "「トピーカで弁護士をしていたんだが」が丸っと抜けてる",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-qgYvLOPR",
+        "displayedVariants": {
+          "animatic:shot.39.key": "v-dASgHt1E",
+          "animatic:shot.39.john": "v-6zAF55qV"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.39#composition": "6030eec2aa52",
+          "animatic:shot.39#stem": "324ba831e551"
+        },
+        "annotation": null,
+        "time": 328.8,
+        "text": "「訪ねてきた」が言えてない",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-fCGbR544",
+        "displayedVariants": {
+          "animatic:shot.39.key": "v-dASgHt1E",
+          "animatic:shot.39.john": "v-6zAF55qV"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.39#composition": "6030eec2aa52",
+          "animatic:shot.39#stem": "324ba831e551"
+        },
+        "annotation": null,
+        "time": 328.8,
+        "text": "「私」が「わたくし」になっている",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.41": [
+      {
+        "id": "fb-h1g3p9hi",
+        "displayedVariants": {
+          "animatic:shot.41.key": "v-flkVAcGC",
+          "animatic:shot.41.john": "v-ZeE1Giej"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.41#composition": "b0befd6a364b",
+          "animatic:shot.41#stem": "a315d5f445b9"
+        },
+        "annotation": null,
+        "time": 367.5,
+        "text": "「して回る暇はないと言ったら、爺さんは」がちゃんと言えてない",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.42": [
+      {
+        "id": "fb-exGb6DWi",
+        "displayedVariants": {
+          "animatic:shot.42.key": "v-ExV2Agkm",
+          "animatic:shot.42.john": "v-MO7l7sww"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.42#composition": "262b9476538b",
+          "animatic:shot.42#stem": "9306383a4616"
+        },
+        "annotation": null,
+        "time": 384.2,
+        "text": "「遺言」が「いごん」となっている",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-C6eold2R",
+        "displayedVariants": {
+          "animatic:shot.42.key": "v-ExV2Agkm",
+          "animatic:shot.42.john": "v-MO7l7sww"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.42#composition": "262b9476538b",
+          "animatic:shot.42#stem": "9306383a4616"
+        },
+        "annotation": null,
+        "time": 389.8666666666667,
+        "text": "あっとdurationが長い気がする",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.43": [
+      {
+        "id": "fb-bdIKx3fr",
+        "displayedVariants": {
+          "animatic:shot.43.key": "v-TaSwLFQL",
+          "animatic:shot.43.john1": "v-2gUC6Hib",
+          "animatic:shot.43.john2": "v-oQNysLPj"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.43#composition": "f12b79d6034a",
+          "animatic:shot.43#stem": "7b9ec3561f4d"
+        },
+        "annotation": null,
+        "time": 405.9,
+        "text": "末尾の無音をカットして",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-fLPr75JE",
+        "displayedVariants": {
+          "animatic:shot.43.key": "v-TaSwLFQL",
+          "animatic:shot.43.john1": "v-2gUC6Hib",
+          "animatic:shot.43.john2": "v-oQNysLPj"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.43#composition": "d5aee81ccdf7",
+          "animatic:shot.43#stem": "50e3f8d1e6eb"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.368,
+          "y": 0.313
+        },
+        "time": 375.9,
+        "text": "指が4本たてられている",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-meYpk7JH",
+        "displayedVariants": {
+          "animatic:shot.43.key": "v-hlXbwVla",
+          "animatic:shot.43.john1": "v-2gUC6Hib",
+          "animatic:shot.43.john2": "v-oQNysLPj"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.43#composition": "d5aee81ccdf7",
+          "animatic:shot.43#stem": "50e3f8d1e6eb"
+        },
+        "annotation": null,
+        "time": 382.8,
+        "text": "5百万ドルのところで、5本の指をたてる芝居にするか",
+        "createdAt": "2000-01-01T00:11:21.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-M1BjhYY0",
+        "displayedVariants": {
+          "animatic:shot.43.key": "v-a00Fpd6f",
+          "animatic:shot.43.john1": "v-2gUC6Hib",
+          "animatic:shot.43.john2": "v-oQNysLPj",
+          "animatic:shot.43#composition": "v-6ZUq3xX3"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.43#composition": "d5aee81ccdf7",
+          "animatic:shot.43#stem": "50e3f8d1e6eb"
+        },
+        "annotation": null,
+        "time": 365.06666666666666,
+        "text": "あんま前の絵と変わらないけど。41と違うよ。ジョンの身体はもっと大きい気がする",
+        "createdAt": "2000-01-01T00:22:49.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-ISuTdP5b",
+        "displayedVariants": {
+          "animatic:shot.43.key": "v-a00Fpd6f",
+          "animatic:shot.43.john1": "v-2gUC6Hib",
+          "animatic:shot.43.john2": "v-oQNysLPj",
+          "animatic:shot.43#composition": "v-6ZUq3xX3"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.43#composition": "d5aee81ccdf7",
+          "animatic:shot.43#stem": "50e3f8d1e6eb"
+        },
+        "annotation": null,
+        "time": 364.8,
+        "text": "これでいいよ",
+        "createdAt": "2000-01-01T00:22:57.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.47": [
+      {
+        "id": "fb-69LMWoCW",
+        "displayedVariants": {
+          "animatic:shot.47.key": "v-b2p357Wj",
+          "animatic:shot.47.john": "v-1TM27csL"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.47#composition": "550982f265e9",
+          "animatic:shot.47#stem": "d82b5f81a060"
+        },
+        "annotation": null,
+        "time": 447.26666666666665,
+        "text": "「私と同じ一人者でね。女の親戚はいるが、」が言えてない。duration が足りない気がする",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-IlPaPRFZ",
+        "displayedVariants": {
+          "animatic:shot.47.key": "v-b2p357Wj",
+          "animatic:shot.47.john": "v-ysTMWLBG"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.47#composition": "54e3a5971cb8",
+          "animatic:shot.47#stem": "a2f98564dbfb"
+        },
+        "annotation": null,
+        "time": 418.6333333333333,
+        "text": "「私」が「わたくし」になっている",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-0Ra7p4BT",
+        "displayedVariants": {
+          "animatic:shot.47.key": "v-b2p357Wj",
+          "animatic:shot.47.john": "v-ysTMWLBG"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.47#composition": "54e3a5971cb8",
+          "animatic:shot.47#stem": "a2f98564dbfb"
+        },
+        "annotation": null,
+        "time": 425.76666666666665,
+        "text": "遺言が「いごん」になっている",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-guR2iWmH",
+        "displayedVariants": {
+          "animatic:shot.47.key": "v-b2p357Wj",
+          "animatic:shot.47.john": "v-ysTMWLBG"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.47#composition": "54e3a5971cb8",
+          "animatic:shot.47#stem": "a2f98564dbfb"
+        },
+        "annotation": null,
+        "time": 420.1666666666667,
+        "text": "「ひとりもの」の発音がへん。「独り者」とか「一人者」とか読めるかもしれないから試してみて。駄目ならカタカナとか。",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-RdH0fpVB",
+        "displayedVariants": {
+          "animatic:shot.47.key": "v-b2p357Wj",
+          "animatic:shot.47.john": "v-DHzmbolV"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.47#composition": "54e3a5971cb8",
+          "animatic:shot.47#stem": "a2f98564dbfb"
+        },
+        "annotation": null,
+        "time": 424.9,
+        "text": "遺言の発音が変、ユイ言や、ユイゴンなどテイクとってみて",
+        "createdAt": "2000-01-01T00:11:21.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.48": [
+      {
+        "id": "fb-6COuSm6p",
+        "displayedVariants": {
+          "animatic:shot.48.key": "v-nTMGrxZ2",
+          "animatic:shot.48.holmes1": "v-lhHUdfSf",
+          "animatic:shot.48.holmes2": "v-I7jAp3ll"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.48#composition": "8feac0d3dff1",
+          "animatic:shot.48#stem": "b104b217ef6e"
+        },
+        "annotation": null,
+        "time": 460.1333333333333,
+        "text": "「風変り」が「かぜがわり」になっている",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-05wMcUue",
+        "displayedVariants": {
+          "animatic:shot.48.key": "v-nTMGrxZ2",
+          "animatic:shot.48.holmes1": "v-lhHUdfSf",
+          "animatic:shot.48.holmes2": "v-I7jAp3ll"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.48#composition": "8feac0d3dff1",
+          "animatic:shot.48#stem": "b104b217ef6e"
+        },
+        "annotation": null,
+        "time": 467.6,
+        "text": "「近道」が「ちかどう」になっている",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.49": [
+      {
+        "id": "fb-dUwx53f1",
+        "displayedVariants": {
+          "animatic:shot.49.key": "v-d0t14kPF",
+          "animatic:shot.49.john": "v-4JpNRLyb"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.49#composition": "c40031622820",
+          "animatic:shot.49#stem": "b78c04236085"
+        },
+        "annotation": null,
+        "time": 468,
+        "text": "「返事」の発音が変かも。",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.52": [
+      {
+        "id": "fb-WsLJIAQt",
+        "displayedVariants": {
+          "animatic:shot.52.key": "v-az5Vc7is",
+          "animatic:shot.52.john": "v-IYUhZxrF"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.52#composition": "161003e10873",
+          "animatic:shot.52#stem": "674d7ec71322"
+        },
+        "annotation": null,
+        "time": 495.3,
+        "text": "「博士」がちゃんと読めてない",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-1UxeZh58",
+        "displayedVariants": {
+          "animatic:shot.52.key": "v-az5Vc7is",
+          "animatic:shot.52.john": "v-IYUhZxrF"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.52#composition": "161003e10873",
+          "animatic:shot.52#stem": "674d7ec71322"
+        },
+        "annotation": null,
+        "time": 497.06666666666666,
+        "text": "もうちょっと喜んでる芝居にしてほしい",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-DOvKBaTD",
+        "displayedVariants": {
+          "animatic:shot.52.key": "v-zSeDoLEd",
+          "animatic:shot.52.john": "v-kVlcqUcG"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.52#composition": "6f4daa023be8",
+          "animatic:shot.52#stem": "5afcf24ea176"
+        },
+        "annotation": null,
+        "time": 475.76666666666665,
+        "text": "「あのかた」の発音が変。「あの人」とかにしてみて。",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.53": [
+      {
+        "id": "fb-h3CeIPBv",
+        "displayedVariants": {
+          "animatic:shot.53.key": "v-cmAQ0RBW",
+          "animatic:shot.53.john": "v-CHVDg7UB"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.53#composition": "b37388437426",
+          "animatic:shot.53#stem": "e53f1087f0af"
+        },
+        "annotation": null,
+        "time": 505.5,
+        "text": "「ホームズさん」が読まれていない",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.59": [
+      {
+        "id": "fb-AUhLcvlm",
+        "displayedVariants": {
+          "animatic:shot.59.key": "v-r8dYrqFV",
+          "animatic:shot.59.holmes": "v-oYkl4kVf"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.59#composition": "a19a2441c8a8",
+          "animatic:shot.59#stem": "abae98b92faf"
+        },
+        "annotation": null,
+        "time": 536.2333333333333,
+        "text": "末尾の無音が長いのでかっとして",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.60": [
+      {
+        "id": "fb-wnJTDG2z",
+        "displayedVariants": {
+          "animatic:shot.60.key": "v-dwWJX8fE",
+          "animatic:shot.60.holmes": "v-gfv5ubg9"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.60#composition": "2642d6d12f8c",
+          "animatic:shot.60#stem": "fe78d841b3d4"
+        },
+        "annotation": null,
+        "time": 540.7333333333333,
+        "text": "「面」が「ぜん」になっている",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-5nom7lX7",
+        "displayedVariants": {
+          "animatic:shot.60.key": "v-dwWJX8fE",
+          "animatic:shot.60.holmes": "v-gfv5ubg9"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.60#composition": "2642d6d12f8c",
+          "animatic:shot.60#stem": "fe78d841b3d4"
+        },
+        "annotation": null,
+        "time": 551.3,
+        "text": "末尾の無音が長い",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.61": [
+      {
+        "id": "fb-o6baoIVm",
+        "displayedVariants": {
+          "animatic:shot.23.key": "v-FznBZq84",
+          "animatic:shot.61.holmes": "v-TZTTNdIl"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.61#composition": "616674cc551e",
+          "animatic:shot.61#stem": "8b47d7907616"
+        },
+        "annotation": null,
+        "time": 554.3,
+        "text": "ここのカットは同様に作り直して",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-zCPi6rcG",
+        "displayedVariants": {
+          "animatic:shot.23.key": "v-FznBZq84",
+          "animatic:shot.61.holmes": "v-TZTTNdIl"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.61#composition": "616674cc551e",
+          "animatic:shot.61#stem": "8b47d7907616"
+        },
+        "annotation": null,
+        "time": 555.9,
+        "text": "「英国製の上着」が「えいごくせいのうわがき」になっている",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-ZtVvEztr",
+        "displayedVariants": {
+          "animatic:shot.23.key": "v-hIfDz2fw",
+          "animatic:shot.61.holmes": "v-XpU3dszC"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.61#composition": "616674cc551e",
+          "animatic:shot.61#stem": "8b47d7907616"
+        },
+        "annotation": null,
+        "time": 529.2,
+        "text": "「擦り切れた」が「こすりきれた」になっている",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.62": [
+      {
+        "id": "fb-cfaO02Yn",
+        "displayedVariants": {
+          "animatic:shot.62.key": "v-NcqXA9FZ",
+          "animatic:shot.62.holmes": "v-Rmhdadej"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.62#composition": "18a21ffbc3d8",
+          "animatic:shot.62#stem": "01511c2c777f"
+        },
+        "annotation": null,
+        "time": 566,
+        "text": "座っている絵を first frame にしないとうまく生成できなさそう",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.63": [
+      {
+        "id": "fb-rxisl1ao",
+        "displayedVariants": {
+          "animatic:shot.52.key": "v-az5Vc7is",
+          "animatic:shot.63.holmes": "v-Bp4YuRh9"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.63#composition": "004a980ee84b",
+          "animatic:shot.63#stem": "8b990e7f94fd"
+        },
+        "annotation": null,
+        "time": 577.8666666666667,
+        "text": "「博士」がちゃんといえてない",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-92ZFSnmZ",
+        "displayedVariants": {
+          "animatic:shot.52.key": "v-zSeDoLEd",
+          "animatic:shot.63.holmes": "v-QYAo4fbW"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.63#composition": "004a980ee84b",
+          "animatic:shot.63#stem": "8b990e7f94fd"
+        },
+        "annotation": null,
+        "time": 548,
+        "text": "末尾の無音をカットして",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.64": [
+      {
+        "id": "fb-gEdtjdaN",
+        "displayedVariants": {
+          "animatic:shot.64.key": "v-06WEvTdY",
+          "animatic:shot.64.holmes": "v-pGY1vYOb"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.64#composition": "74200f1bfa4a",
+          "animatic:shot.64#stem": "f46b2a7de8fe"
+        },
+        "annotation": null,
+        "time": 596.7333333333333,
+        "text": "狙いはなんだ、の後に変な音が入っている",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.54": [
+      {
+        "id": "fb-skwAckWq",
+        "displayedVariants": {
+          "animatic:shot.54.key": "v-8J6Cdebg"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.54#composition": "6b32596a5257"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.876,
+          "y": 0.33
+        },
+        "time": 509.06666666666666,
+        "text": "ドアは開いてないほうがいい",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-NfKjfhFE",
+        "displayedVariants": {
+          "animatic:shot.54.key": "v-8J6Cdebg"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.54#composition": "6b32596a5257"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.916,
+          "y": 0.588
+        },
+        "time": 509.06666666666666,
+        "text": "一礼するから、ホームズ、ワトスンのほうを向いているほうがいい",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-B7K0QKau",
+        "displayedVariants": {
+          "animatic:shot.54.key": "v-8J6Cdebg"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.54#composition": "6b32596a5257"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.178,
+          "y": 0.579
+        },
+        "time": 509.06666666666666,
+        "text": "ワトスンもガリデブをみているべき",
+        "createdAt": "2000-01-01T00:07:07.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-dQHZi7ol",
+        "displayedVariants": {
+          "animatic:shot.54.key": "v-mEQHEVBx"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.54#composition": "6b32596a5257"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.201,
+          "y": 0.532
+        },
+        "time": 489.9,
+        "text": "ワトスンがガリデブをみていない",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-dtpJbEGi",
+        "displayedVariants": {
+          "animatic:shot.54.key": "v-PgDbffAw"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.54#composition": "6b32596a5257"
+        },
+        "annotation": null,
+        "time": 491.5,
+        "text": "「ワトスンが椅子ごと右を向いて」、画面右を向いている絵が一枚もないけど",
+        "createdAt": "2000-01-01T00:11:21.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.21": [
+      {
+        "id": "fb-xh8akpET",
+        "displayedVariants": {
+          "animatic:shot.21.key": "v-AbCWIa2D",
+          "animatic:shot.21.holmes": "v-d8mOJgaf",
+          "animatic:shot.21#composition": "v-57yO4bdR"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.21#composition": "eab19abe7744",
+          "animatic:shot.21#stem": "2164ec2c5ae7"
+        },
+        "annotation": null,
+        "time": 160.96666666666667,
+        "text": "「英国」が「えいごく」になっている",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.37b": [
+      {
+        "id": "fb-l28laGt1",
+        "displayedVariants": {
+          "animatic:shot.37b.key": "v-Bto9p7rt",
+          "animatic:shot.37b.john": "v-0eYlq03I",
+          "animatic:shot.37b#composition": "v-Lcn6AGOX"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.37b#composition": "ca677ca9adbc",
+          "animatic:shot.37b#stem": "7468e385f14b"
+        },
+        "annotation": null,
+        "time": 309.06666666666666,
+        "text": "「畑」が「け」になって言えてない",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.55": [
+      {
+        "id": "fb-5u67diS4",
+        "displayedVariants": {
+          "animatic:shot.55.key": "v-hY1tRlbp",
+          "animatic:shot.55#composition": "v-8aqSkGaM"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.55#composition": "c01f1eb0dd16"
+        },
+        "annotation": null,
+        "time": 494.5,
+        "text": "ここ6秒は長いな",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.65": [
+      {
+        "id": "fb-rsyUbrYd",
+        "displayedVariants": {
+          "animatic:shot.65.key": "v-GM8pwLGB",
+          "animatic:shot.65.holmes": "v-TMui1ciw",
+          "animatic:shot.65#composition": "v-17ra7tXg"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.65#composition": "26003202477c",
+          "animatic:shot.65#stem": "d78b2c472953"
+        },
+        "annotation": null,
+        "time": 572,
+        "text": "末尾の無音をカットしてほしい",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.66": [
+      {
+        "id": "fb-ykPn7fy3",
+        "displayedVariants": {
+          "animatic:shot.66.key": "v-Uoy2Quro",
+          "animatic:shot.66.holmes": "v-bOEwSjr4",
+          "animatic:shot.66#composition": "v-nG11nANS"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.66#composition": "aa29def8471e",
+          "animatic:shot.66#stem": "1882354c717d"
+        },
+        "annotation": null,
+        "time": 585,
+        "text": "末尾の無音をカットしてほしい",
+        "createdAt": "2000-01-01T00:09:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.51": [
+      {
+        "id": "fb-rTZpwtlL",
+        "displayedVariants": {
+          "animatic:shot.51.key": "v-jAo8zBis",
+          "animatic:shot.51.holmes": "v-NHT1Lhk6",
+          "animatic:shot.51#composition": "v-fHOzUCUK"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.51#composition": "478f2d6f6236",
+          "animatic:shot.51#stem": "1820902a279a"
+        },
+        "annotation": null,
+        "time": 448.5,
+        "text": "v-jAo8zBis にしたい",
+        "createdAt": "2000-01-01T00:20:44.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.27b": [
+      {
+        "id": "fb-1uokBs9n",
+        "displayedVariants": {
+          "animatic:shot.27b.key": "v-cvkGNniC"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.27b#composition": "9830786f707c"
+        },
+        "annotation": null,
+        "text": "2秒は長すぎる。何秒がいいだろう。1秒ぐらい？",
+        "time": 206.5,
+        "createdAt": "2000-01-01T00:24:14.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-9mbGTkDo",
+        "displayedVariants": {
+          "animatic:shot.27b.key": "v-cvkGNniC"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.27b#composition": "9830786f707c"
+        },
+        "annotation": null,
+        "text": "v-4M87cvA8 のほうがいい。こっちの絵は右手になってる",
+        "time": 206.5,
+        "createdAt": "2000-01-01T00:24:14.000Z",
+        "createdBy": "local"
+      }
+    ]
+  }
+}

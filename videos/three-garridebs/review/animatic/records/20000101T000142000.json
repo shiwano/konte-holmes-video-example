@@ -1,0 +1,862 @@
+{
+  "mode": "animatic-preview",
+  "stage": "animatic",
+  "createdAt": "2000-01-01T00:01:42.000Z",
+  "context": {
+    "shots": [
+      {
+        "shotId": "01",
+        "start": 0,
+        "duration": 10,
+        "variants": {
+          "key": "v-rJ0le9wU",
+          "narration": "v-BkUIIoDJ"
+        },
+        "sources": {
+          "animatic:shot.01.key": "v-rJ0le9wU",
+          "animatic:shot.01.narration": "v-BkUIIoDJ"
+        }
+      },
+      {
+        "shotId": "02",
+        "start": 10,
+        "duration": 13,
+        "variants": {
+          "key": "v-EOZnEKpb",
+          "narration": "v-ozrgIiz2"
+        },
+        "sources": {
+          "animatic:shot.02.key": "v-EOZnEKpb",
+          "animatic:shot.02.narration": "v-ozrgIiz2"
+        }
+      },
+      {
+        "shotId": "03",
+        "start": 23,
+        "duration": 6,
+        "variants": {
+          "key": "v-u7693C4x",
+          "holmes": "v-Y5VPF6YA"
+        },
+        "sources": {
+          "animatic:shot.03.key": "v-u7693C4x",
+          "animatic:shot.03.holmes": "v-Y5VPF6YA"
+        }
+      },
+      {
+        "shotId": "04",
+        "start": 29,
+        "duration": 7,
+        "variants": {
+          "key": "v-VJqDJl55",
+          "watson": "v-nCg84lsL",
+          "holmes": "v-kufIQ8RG"
+        },
+        "sources": {
+          "animatic:shot.04.key": "v-VJqDJl55",
+          "animatic:shot.04.watson": "v-nCg84lsL",
+          "animatic:shot.04.holmes": "v-kufIQ8RG"
+        }
+      },
+      {
+        "shotId": "05",
+        "start": 36,
+        "duration": 13,
+        "variants": {
+          "key": "v-i0JN77VW",
+          "watson": "v-7W0BwgHh",
+          "holmes": "v-X4I7Av6W"
+        },
+        "sources": {
+          "animatic:shot.05.key": "v-i0JN77VW",
+          "animatic:shot.05.watson": "v-7W0BwgHh",
+          "animatic:shot.05.holmes": "v-X4I7Av6W"
+        }
+      },
+      {
+        "shotId": "06",
+        "start": 49,
+        "duration": 9,
+        "variants": {
+          "key": "v-zBKnHVSd",
+          "holmes": "v-u096bgQC"
+        },
+        "sources": {
+          "animatic:shot.06.key": "v-zBKnHVSd",
+          "animatic:shot.06.holmes": "v-u096bgQC"
+        }
+      },
+      {
+        "shotId": "07",
+        "start": 58,
+        "duration": 7,
+        "variants": {
+          "key": "v-lFcU5E3m",
+          "narration": "v-E1rsaH3B"
+        },
+        "sources": {
+          "animatic:shot.07.key": "v-lFcU5E3m",
+          "animatic:shot.07.narration": "v-E1rsaH3B"
+        }
+      },
+      {
+        "shotId": "08",
+        "start": 65,
+        "duration": 6,
+        "variants": {
+          "key": "v-BtOI2FUM",
+          "narration": "v-SHDzqi5N"
+        },
+        "sources": {
+          "animatic:shot.08.key": "v-BtOI2FUM",
+          "animatic:shot.08.narration": "v-SHDzqi5N"
+        }
+      },
+      {
+        "shotId": "09",
+        "start": 71,
+        "duration": 3,
+        "variants": {
+          "key": "v-IkQa3FzG",
+          "watson": "v-j4LzNYny"
+        },
+        "sources": {
+          "animatic:shot.09.key": "v-IkQa3FzG",
+          "animatic:shot.09.watson": "v-j4LzNYny"
+        }
+      },
+      {
+        "shotId": "10",
+        "start": 74,
+        "duration": 4,
+        "variants": {
+          "key": "v-fymNpccN"
+        },
+        "sources": {
+          "animatic:shot.10.key": "v-fymNpccN"
+        }
+      },
+      {
+        "shotId": "11",
+        "start": 78,
+        "duration": 13,
+        "variants": {
+          "key": "v-6yKFVsEp",
+          "holmes": "v-VtL5psGc"
+        },
+        "sources": {
+          "animatic:shot.11.key": "v-6yKFVsEp",
+          "animatic:shot.11.holmes": "v-VtL5psGc"
+        }
+      },
+      {
+        "shotId": "12",
+        "start": 91,
+        "duration": 5,
+        "variants": {
+          "key": "v-N301sA5z",
+          "narration": "v-qkhL8ASh"
+        },
+        "sources": {
+          "animatic:shot.12.key": "v-N301sA5z",
+          "animatic:shot.12.narration": "v-qkhL8ASh"
+        }
+      },
+      {
+        "shotId": "13",
+        "start": 96,
+        "duration": 10,
+        "variants": {
+          "key": "v-PMWClAEs",
+          "watson": "v-nwtxxwpS"
+        },
+        "sources": {
+          "animatic:shot.13.key": "v-PMWClAEs",
+          "animatic:shot.13.watson": "v-nwtxxwpS"
+        }
+      },
+      {
+        "shotId": "14",
+        "start": 106,
+        "duration": 10,
+        "variants": {
+          "key": "v-dkNbIDeZ",
+          "holmes": "v-InQpPUa0"
+        },
+        "sources": {
+          "animatic:shot.14.key": "v-dkNbIDeZ",
+          "animatic:shot.14.holmes": "v-InQpPUa0"
+        }
+      },
+      {
+        "shotId": "15",
+        "start": 116,
+        "duration": 9,
+        "variants": {
+          "key": "v-Ici4qCbA",
+          "holmes": "v-AVLy64h0"
+        },
+        "sources": {
+          "animatic:shot.15.key": "v-Ici4qCbA",
+          "animatic:shot.15.holmes": "v-AVLy64h0"
+        }
+      },
+      {
+        "shotId": "16",
+        "start": 125,
+        "duration": 5,
+        "variants": {
+          "key": "v-YXS0lYxq",
+          "narration": "v-VCqHsRB4"
+        },
+        "sources": {
+          "animatic:shot.16.key": "v-YXS0lYxq",
+          "animatic:shot.16.narration": "v-VCqHsRB4"
+        }
+      },
+      {
+        "shotId": "17",
+        "start": 130,
+        "duration": 12,
+        "variants": {
+          "key": "v-55tRrfOa",
+          "john": "v-Vyq2NG50"
+        },
+        "sources": {
+          "animatic:shot.17.key": "v-55tRrfOa",
+          "animatic:shot.17.john": "v-Vyq2NG50"
+        }
+      },
+      {
+        "shotId": "18",
+        "start": 142,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "19",
+        "start": 147,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "20",
+        "start": 156,
+        "duration": 4,
+        "variants": {}
+      },
+      {
+        "shotId": "21",
+        "start": 160,
+        "duration": 3,
+        "variants": {}
+      },
+      {
+        "shotId": "22",
+        "start": 163,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "23",
+        "start": 172,
+        "duration": 6,
+        "variants": {}
+      },
+      {
+        "shotId": "24",
+        "start": 178,
+        "duration": 13,
+        "variants": {}
+      },
+      {
+        "shotId": "25",
+        "start": 191,
+        "duration": 10,
+        "variants": {}
+      },
+      {
+        "shotId": "26",
+        "start": 201,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "27",
+        "start": 212,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "28",
+        "start": 217,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "29",
+        "start": 229,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "30",
+        "start": 238,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "30b",
+        "start": 249,
+        "duration": 7,
+        "variants": {}
+      },
+      {
+        "shotId": "31",
+        "start": 256,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "32",
+        "start": 267,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "33",
+        "start": 276,
+        "duration": 13,
+        "variants": {}
+      },
+      {
+        "shotId": "34",
+        "start": 289,
+        "duration": 3,
+        "variants": {}
+      },
+      {
+        "shotId": "35",
+        "start": 292,
+        "duration": 4,
+        "variants": {}
+      },
+      {
+        "shotId": "36",
+        "start": 296,
+        "duration": 13,
+        "variants": {}
+      },
+      {
+        "shotId": "37",
+        "start": 309,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "37b",
+        "start": 320,
+        "duration": 7,
+        "variants": {}
+      },
+      {
+        "shotId": "38",
+        "start": 327,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "39",
+        "start": 339,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "40",
+        "start": 351,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "41",
+        "start": 363,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "41b",
+        "start": 374,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "42",
+        "start": 379,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "43",
+        "start": 391,
+        "duration": 15,
+        "variants": {}
+      },
+      {
+        "shotId": "44",
+        "start": 406,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "45",
+        "start": 411,
+        "duration": 15,
+        "variants": {}
+      },
+      {
+        "shotId": "46",
+        "start": 426,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "47",
+        "start": 438,
+        "duration": 10,
+        "variants": {}
+      },
+      {
+        "shotId": "47b",
+        "start": 448,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "48",
+        "start": 457,
+        "duration": 10,
+        "variants": {}
+      },
+      {
+        "shotId": "49",
+        "start": 467,
+        "duration": 4,
+        "variants": {}
+      },
+      {
+        "shotId": "50",
+        "start": 471,
+        "duration": 7,
+        "variants": {}
+      },
+      {
+        "shotId": "51",
+        "start": 478,
+        "duration": 14,
+        "variants": {}
+      },
+      {
+        "shotId": "52",
+        "start": 492,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "53",
+        "start": 497,
+        "duration": 10,
+        "variants": {}
+      },
+      {
+        "shotId": "54",
+        "start": 507,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "55",
+        "start": 512,
+        "duration": 6,
+        "variants": {}
+      },
+      {
+        "shotId": "56",
+        "start": 518,
+        "duration": 3,
+        "variants": {}
+      },
+      {
+        "shotId": "57",
+        "start": 521,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "58",
+        "start": 526,
+        "duration": 2,
+        "variants": {}
+      },
+      {
+        "shotId": "59",
+        "start": 528,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "60",
+        "start": 537,
+        "duration": 14,
+        "variants": {}
+      },
+      {
+        "shotId": "61",
+        "start": 551,
+        "duration": 14,
+        "variants": {}
+      },
+      {
+        "shotId": "62",
+        "start": 565,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "63",
+        "start": 574,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "64",
+        "start": 583,
+        "duration": 15,
+        "variants": {}
+      },
+      {
+        "shotId": "65",
+        "start": 598,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "66",
+        "start": 603,
+        "duration": 8,
+        "variants": {}
+      }
+    ],
+    "timeline": {},
+    "timelineSources": {},
+    "contentHashes": {
+      "animatic:shot.01#composition": "744bd6a80ac6540a7dda5ef88be5a53c1d978a932507eb6016ef1c63696b4134",
+      "animatic:shot.02#composition": "0455e74f3105cd464d4a15fc6c90a9d829e391147d5b910cd72da7be447a5c03",
+      "animatic:shot.03#composition": "0c06c3fbc2aca4345879336e9773621e8b18659bb132fc8b676fe9fa377abccb",
+      "animatic:shot.04#composition": "2f7940b2b1f332f0e49e1e25a41772631b088c582462dbce828e84834e2cddd8",
+      "animatic:shot.05#composition": "0b50f3fc72936c63272286df060f9b6a4c0a83af6120a5e613e4b35d90236edb",
+      "animatic:shot.06#composition": "60c381f445871904ad6f8ce78a03f45089897de26bfc079dcccd80c99cdef447",
+      "animatic:shot.07#composition": "9589b270eb3fd0b461bc51bed34eeb28eca3f8f1cf2fe80e0b5a20ce4a7df8a9",
+      "animatic:shot.08#composition": "d148db689745b2cb0649feabfa970c0f48adc269848e7798bd1157c991a05535",
+      "animatic:shot.09#composition": "d7ca9c6ea7557e1bb1973c32066aa0d505174a296ea7a0b97489d28745f81766",
+      "animatic:shot.10#composition": "774e8bfd9fde137a9c4a9391d0edd0b0bf848157dd3ee3a2a5f50be3addbf544",
+      "animatic:shot.11#composition": "40a5bc56135ce231e9640e81a7bf9a4661c4dc63371ea2a984da403cc2fedd38",
+      "animatic:shot.12#composition": "7f0071ac2e301e83c8b477362c2ad598aa594e8f19e050fb43e2b8e0113031c0",
+      "animatic:shot.13#composition": "348bab570df73c47fd910d201040d0ea8cfdc5e1c7b5e07d6190723c81782211",
+      "animatic:shot.14#composition": "e12de235cf29ca8005d61dc7e807eae1a180b1a65c7cb35a28df111aeffaf569",
+      "animatic:shot.15#composition": "364583b33e2a38cf85c392188eb82dba6804c8787dfb620914b858d2fb2348c1",
+      "animatic:shot.16#composition": "baa199b5ed883844b7820ddc064bdb5ce36e3fbc4045bd289692674177264525",
+      "animatic:shot.17#composition": "12ab279e194e51c45615dcb955ebceded60ea4232fe914f0ae977f0531e47401",
+      "animatic:shot.01#narrationStem": "507cde6c7bf8427c7f609ce10e3dede1f4c793fdc8c754e5f5dfcb871047102b",
+      "animatic:shot.02#narrationStem": "c444136dcd438f73e70e2d25ce7b7cfb5deb01f5571d9df7deaabed74e87977d",
+      "animatic:shot.03#stem": "4eeb727388bbcae701bfaec37619b622f35bcb40ae817bff3b954acd61dfeee0",
+      "animatic:shot.04#stem": "feb0c87e6b26359c5d625435e84139f4ff639f4caa15605d5ccbc02ba4aedce2",
+      "animatic:shot.05#stem": "ae1fdb4e6f01467a14695fe1dbad153265b3cbb009bc40cb3e3d9d6cefe43938",
+      "animatic:shot.06#stem": "a83a96896a8db0f600a270f36e8c07b44e8f87d658b952d6957fa61e0015b82e",
+      "animatic:shot.07#narrationStem": "dccd6ccfa4132ec4ec2b770f5d5d50178aad05167aa26019e256bb4082e92263",
+      "animatic:shot.08#narrationStem": "5901916e70b01f6c76661e969812a90254188704c6b60a70b494534cc246e6d6",
+      "animatic:shot.09#stem": "b23223295e4a5432307c8c886481d77d34894889336c5180de3373afc4c015b8",
+      "animatic:shot.11#stem": "477fd4594a886ad2457fab42f36297acc9e371a0da1d74e634a6889dd5a59de8",
+      "animatic:shot.12#narrationStem": "11d55d568cb0296f0672d6436b3721281f8b923b51c35272f94b9177dbe36ff2",
+      "animatic:shot.13#stem": "b3935628a0d822192e272bb50709c037198b940b0ad4397ce8458dbfe8facd11",
+      "animatic:shot.14#stem": "f7221830cc35795944a30e380415fab79176f952851197425c3e2a7a564e71a3",
+      "animatic:shot.15#stem": "7002f7c0ae1fc89a76d9c4fec9d1fead899a2332752311b64b5d9e2d2b92b5de",
+      "animatic:shot.16#narrationStem": "ab1b1a8033aa970c28f57913732761a51b50b890fda6e5596609cc527da26066",
+      "animatic:shot.17#stem": "b034be741cc41f34b2e1f59801b8dce7a8d0fdac046e83a695fa5048d9824a1c"
+    }
+  },
+  "decisions": {
+    "10": "accepted",
+    "12": "accepted",
+    "16": "accepted",
+    "17": "accepted",
+    "06": "accepted",
+    "09": "accepted"
+  },
+  "cascadeAccepted": [
+    {
+      "address": "animatic:shot.06.holmes",
+      "via": "animatic:shot.06#stem"
+    },
+    {
+      "address": "animatic:shot.09.watson",
+      "via": "animatic:shot.09#stem"
+    },
+    {
+      "address": "animatic:shot.12.narration",
+      "via": "animatic:shot.12#narrationStem"
+    },
+    {
+      "address": "animatic:shot.16.narration",
+      "via": "animatic:shot.16#narrationStem"
+    },
+    {
+      "address": "animatic:shot.17.john",
+      "via": "animatic:shot.17#stem"
+    },
+    {
+      "address": "animatic:shot.06#stem",
+      "via": "animatic:shot.06"
+    },
+    {
+      "address": "animatic:shot.09#stem",
+      "via": "animatic:shot.09"
+    },
+    {
+      "address": "animatic:shot.12#narrationStem",
+      "via": "animatic:shot.12"
+    },
+    {
+      "address": "animatic:shot.16#narrationStem",
+      "via": "animatic:shot.16"
+    },
+    {
+      "address": "animatic:shot.17#stem",
+      "via": "animatic:shot.17"
+    },
+    {
+      "address": "animatic:shot.06#composition",
+      "via": "animatic:shot.06"
+    },
+    {
+      "address": "animatic:shot.09#composition",
+      "via": "animatic:shot.09"
+    },
+    {
+      "address": "animatic:shot.10#composition",
+      "via": "animatic:shot.10"
+    },
+    {
+      "address": "animatic:shot.12#composition",
+      "via": "animatic:shot.12"
+    },
+    {
+      "address": "animatic:shot.16#composition",
+      "via": "animatic:shot.16"
+    },
+    {
+      "address": "animatic:shot.17#composition",
+      "via": "animatic:shot.17"
+    },
+    {
+      "address": "direction:sequence",
+      "via": "animatic:shot.06"
+    },
+    {
+      "address": "direction:sequence.sequences.act1.shots.12",
+      "via": "animatic:shot.12"
+    },
+    {
+      "address": "direction:setups.johnClose",
+      "via": "animatic:shot.17"
+    }
+  ],
+  "notes": [
+    {
+      "id": "fb-yzMuqdnc",
+      "time": 11.566666666666666,
+      "shotId": "02",
+      "address": "animatic:shot.02",
+      "text": "02とあわせて冒頭のセリフがあってない気がする",
+      "displayedVariants": {
+        "animatic:shot.02.key": "v-EOZnEKpb",
+        "animatic:shot.02.narration": "v-ozrgIiz2"
+      }
+    },
+    {
+      "id": "fb-2l5JEBTJ",
+      "time": 26.233333333333334,
+      "shotId": "03",
+      "address": "animatic:shot.03",
+      "text": "「かねもうけ」じゃなくて「かなもうけ」になってる",
+      "displayedVariants": {
+        "animatic:shot.03.key": "v-u7693C4x",
+        "animatic:shot.03.holmes": "v-Y5VPF6YA"
+      }
+    },
+    {
+      "id": "fb-NWxcjulc",
+      "time": 35.233333333333334,
+      "shotId": "04",
+      "address": "animatic:shot.04",
+      "text": "「かねになる」じゃなくて「きんになる」になってる",
+      "displayedVariants": {
+        "animatic:shot.04.key": "v-VJqDJl55",
+        "animatic:shot.04.watson": "v-nCg84lsL",
+        "animatic:shot.04.holmes": "v-kufIQ8RG"
+      }
+    },
+    {
+      "id": "fb-lo6J7iij",
+      "time": 41.766666666666666,
+      "shotId": "05",
+      "address": "animatic:shot.05",
+      "text": "「ふうがわりな話だ」が「かんがわりな話だ」になってる",
+      "displayedVariants": {
+        "animatic:shot.05.key": "v-i0JN77VW",
+        "animatic:shot.05.watson": "v-7W0BwgHh",
+        "animatic:shot.05.holmes": "v-X4I7Av6W"
+      }
+    },
+    {
+      "id": "fb-VSlEORAk",
+      "time": 47.4,
+      "shotId": "05",
+      "address": "animatic:shot.05",
+      "text": "ここショットの後ろの無音期間が長い気がする",
+      "displayedVariants": {
+        "animatic:shot.05.key": "v-i0JN77VW",
+        "animatic:shot.05.watson": "v-7W0BwgHh",
+        "animatic:shot.05.holmes": "v-X4I7Av6W"
+      }
+    },
+    {
+      "id": "fb-2mAOoeOq",
+      "time": 64.33333333333333,
+      "shotId": "07",
+      "address": "animatic:shot.07",
+      "text": "「頁」は「ページ」にしたい読めてない",
+      "displayedVariants": {
+        "animatic:shot.07.key": "v-lFcU5E3m",
+        "animatic:shot.07.narration": "v-E1rsaH3B"
+      }
+    },
+    {
+      "id": "fb-4uGZXhnG",
+      "time": 68.3,
+      "shotId": "08",
+      "address": "animatic:shot.08",
+      "text": "ナレーションの声音が07とあってないからテイク取り直してほしい",
+      "displayedVariants": {
+        "animatic:shot.08.key": "v-BtOI2FUM",
+        "animatic:shot.08.narration": "v-SHDzqi5N"
+      }
+    },
+    {
+      "id": "fb-1c0z9xBf",
+      "time": 66.43333333333334,
+      "shotId": "08",
+      "address": "animatic:shot.08",
+      "x": 0.038,
+      "y": 0.875,
+      "text": "テーブルの色が違っている",
+      "displayedVariants": {
+        "animatic:shot.08.key": "v-BtOI2FUM",
+        "animatic:shot.08.narration": "v-SHDzqi5N"
+      }
+    },
+    {
+      "id": "fb-SJ1sEqMJ",
+      "time": 86.9,
+      "shotId": "11",
+      "address": "animatic:shot.11",
+      "text": "「さしだしにん」が「さいでにん」になってる",
+      "displayedVariants": {
+        "animatic:shot.11.key": "v-6yKFVsEp",
+        "animatic:shot.11.holmes": "v-VtL5psGc"
+      }
+    },
+    {
+      "id": "fb-fHj66qJ0",
+      "time": 90.26666666666667,
+      "shotId": "11",
+      "address": "animatic:shot.11",
+      "text": "「ついになるもの」が「たいになるもの」になってる",
+      "displayedVariants": {
+        "animatic:shot.11.key": "v-6yKFVsEp",
+        "animatic:shot.11.holmes": "v-VtL5psGc"
+      }
+    },
+    {
+      "id": "fb-D1iOEV3l",
+      "time": 100.06666666666666,
+      "shotId": "13",
+      "address": "animatic:shot.13",
+      "text": "「かしらもじ」が「あたまもじ」になってる",
+      "displayedVariants": {
+        "animatic:shot.13.key": "v-PMWClAEs",
+        "animatic:shot.13.watson": "v-nwtxxwpS"
+      }
+    },
+    {
+      "id": "fb-okkDdG4s",
+      "time": 116,
+      "shotId": "15",
+      "address": "animatic:shot.15",
+      "text": "14と15の流れがわからん。なんで表情が消えたの？",
+      "displayedVariants": {
+        "animatic:shot.15.key": "v-Ici4qCbA",
+        "animatic:shot.15.holmes": "v-AVLy64h0"
+      }
+    },
+    {
+      "id": "fb-ViyNb8WH",
+      "time": 9.533333333333333,
+      "shotId": "01",
+      "address": "animatic:shot.01",
+      "text": "このセリフ、冒頭でくるにはちょっと意味不明かも。セリフなおせない？",
+      "displayedVariants": {
+        "animatic:shot.01.key": "v-rJ0le9wU",
+        "animatic:shot.01.narration": "v-BkUIIoDJ"
+      }
+    },
+    {
+      "id": "fb-6GmITSmv",
+      "time": 106,
+      "shotId": "14",
+      "address": "animatic:shot.14",
+      "text": "15とのつながりがわからん",
+      "displayedVariants": {
+        "animatic:shot.14.key": "v-dkNbIDeZ",
+        "animatic:shot.14.holmes": "v-InQpPUa0"
+      }
+    }
+  ],
+  "handoffId": "20000101T000141000",
+  "handoffSummary": "第1幕（ガリデブ探しからジョンの入室まで、17ショット）の絵コンテです。各ショット一枚の絵と、台詞・語りの声が入っています。声は耳でしか確かめられないので、読み間違いがないか聞いてみてください。",
+  "handoffNotes": [
+    {
+      "address": "animatic:shot.02",
+      "text": "語りが収まるよう、尺を9秒から13秒に延ばしました。「千九百二年」の読みをご確認ください。"
+    },
+    {
+      "address": "animatic:shot.11",
+      "text": "「ガリデブ、エヌ」「リトル・ライダーガイ」と読むよう指定しています。読みをご確認ください。"
+    },
+    {
+      "address": "animatic:shot.12",
+      "text": "ハドスン夫人が扉から入ってくる構図にし、構成の並び順もこれに合わせました。"
+    },
+    {
+      "address": "animatic:shot.13",
+      "text": "「ムアヴィル」の読みをご確認ください。"
+    },
+    {
+      "address": "animatic:shot.17",
+      "text": "「ネイサン」が正しく読まれているかご確認ください。"
+    },
+    {
+      "address": "animatic:shot.08",
+      "text": "前のカットとひと続きの長回しです。机の背景が薄く出ていますが、指が止まる瞬間は読めると判断しました。"
+    }
+  ]
+}

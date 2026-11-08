@@ -1,0 +1,70 @@
+{
+  "stage": "video",
+  "summary": "手直しした動画です。ご指摘の各ショットと、赤い椅子を小さくした「ホームズの顔」8ショットを作り直しました。",
+  "notes": [
+    {
+      "address": "video:shot.02",
+      "text": "動画は前のまま、ナレーションだけ選んでいただいたテイクに差し替え"
+    },
+    {
+      "address": "video:shot.03",
+      "text": "02の終わりに合わせ、足を組んだ姿勢から"
+    },
+    {
+      "address": "video:shot.04",
+      "text": "右腕を椅子の背に、左手を書類の上に。ペンは描かない形。ホームズの「かねになる」を差し替え"
+    },
+    {
+      "address": "video:shot.12",
+      "text": "電話帳をホームズの膝に開いたまま"
+    },
+    {
+      "address": "video:shot.13",
+      "text": "ワトスンの読み上げに芝居を足した声に差し替え"
+    },
+    {
+      "address": "video:shot.14",
+      "text": "足音とホームズの振り向きをなくし、薄い笑みのまま。10秒→7秒"
+    },
+    {
+      "address": "video:shot.15",
+      "text": "足音なし。名刺の主を待ち受けて扉を見据える芝居。椅子を小さく"
+    },
+    {
+      "address": "video:shot.17",
+      "text": "「挿絵」に変更"
+    },
+    {
+      "address": "video:shot.28",
+      "text": "「ビジネス」に変更"
+    },
+    {
+      "address": "video:shot.21",
+      "text": "赤い椅子を小さく"
+    },
+    {
+      "address": "video:shot.27",
+      "text": "赤い椅子を小さく"
+    },
+    {
+      "address": "video:shot.30",
+      "text": "赤い椅子を小さく"
+    },
+    {
+      "address": "video:shot.41b",
+      "text": "赤い椅子を小さく"
+    },
+    {
+      "address": "video:shot.51",
+      "text": "赤い椅子を小さく"
+    },
+    {
+      "address": "video:shot.57",
+      "text": "赤い椅子を小さく"
+    },
+    {
+      "address": "video:shot.59",
+      "text": "赤い椅子を小さく"
+    }
+  ]
+}

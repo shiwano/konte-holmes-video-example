@@ -1,0 +1,65 @@
+{
+  "kind": "comfy",
+  "workflow": "audio_minimax_h3_r2a.json",
+  "inputs": {
+    "31.audio": "__konte:reference:holmesVoice__",
+    "10.prompt": "subject_definitions: <Subject 1> is Holmes, a tall, gaunt detective in his late forties.\n<Audio 1> is the voice-timbre reference for <Subject 1> (S1).\n\nsummary: [reference generation + audio reference] Holmes, a tall, gaunt detective in his late forties speaks one line in the sitting room.\n\nretention_analysis: <Subject 1> (appears in [Shot 1]): partially_preserved - the speaker as described, his performance acted from the scene.\n<Audio 1>: weak_reference - the speaker keeps its timbre; the delivery comes from the scene.\n\ndetailed_description: 2D-animated, 1980s Japanese gothic theatrical anime cel style: razor-thin angular ink lines, hard-edged two-tone cel shadows in deep indigo and blue-black, hand-painted background art with dense detail. [Shot 1] Holmes passes judgement to his friend, off screen. <Subject 1> (S1), a man in his late forties with a low, clear, crisp voice, low, condemning, says off-screen, <d>[Japanese] トピーカのライサンダー・スター・ハカセなんて人物も、私は知らない。どこを突いても、あの男は偽物だった。</d> Then his lips close and he falls silent.\n\noverall_soundscape: A first-floor sitting room in Baker Street on a June morning in 1902: a quiet room with heavy curtains, faint carriage wheels and hooves on the street below, the tick of a mantel clock.\n\nnon_diegetic_music: N/A",
+    "10.width": 128,
+    "10.height": 128,
+    "10.length": 158,
+    "11.noise_seed": "__konte:seed__",
+    "13.steps": 20,
+    "1.unet_name": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+    "2.clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+    "3.vae_name": "minimax_h3_video_vae_int8_convrot.safetensors",
+    "4.vae_name": "minimax_h3_audio_vae_fp32.safetensors"
+  },
+  "prunedNodes": [
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "32",
+    "33"
+  ],
+  "models": [
+    {
+      "filename": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors"
+    },
+    {
+      "filename": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors"
+    },
+    {
+      "filename": "minimax_h3_video_vae_int8_convrot.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_video_vae_int8_convrot.safetensors"
+    },
+    {
+      "filename": "minimax_h3_audio_vae_fp32.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_audio_vae_fp32.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "31.audio": "audio1",
+    "10.prompt": "prompt",
+    "10.width": "width",
+    "10.height": "height",
+    "10.length": "length",
+    "11.noise_seed": "seed",
+    "13.steps": "steps",
+    "1.unet_name": "unetName",
+    "2.clip_name": "clipName",
+    "3.vae_name": "vaeName",
+    "4.vae_name": "audioVaeName"
+  }
+}

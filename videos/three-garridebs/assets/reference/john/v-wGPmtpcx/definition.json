@@ -1,0 +1,41 @@
+{
+  "kind": "comfy",
+  "workflow": "image_krea2_turbo_t2i.json",
+  "inputs": {
+    "52.text": "Stylish 1980s Japanese gothic OVA anime character design with the elegance of a fashion illustration: razor-thin, wiry black ink lines in which every contour breaks into straight segments and sharp corners, elongated figures about nine heads tall with small heads, long necks and long tapering hands, pointed chins and sharp jawlines, long narrow almond eyes under a single sharp upper lash line, hair drawn as long fine separate strands, hard angular cel shadows cut like paper in deep indigo and blue-black, a restrained palette with deep crimson and lamp-gold accents. Character reference of a short, stocky, powerfully built American man who looks about forty, a single figure standing alone, compact at about six heads tall, drawn in the same wiry, angular line: a round, fresh, clean-shaven, chubby and almost childlike face outlined in crisp straight segments set in a broad fixed smile, with strikingly bright, alert, piercing narrow eyes; short light-brown hair neatly combed. He wears a grey English-cut lounge suit whose coat is worn shiny and frayed at the elbows, trousers bagged at the knees, a white collar, a dark blue tie and black boots, and holds a black bowler hat in the hand at screen right. He stands upright in a three-quarter view turned toward screen left, feet planted wide. Plain flat pale blue-grey background, even soft frontal light, the figure filling the frame from head to feet.",
+    "53.width": 1024,
+    "53.height": 1536,
+    "54.seed": "__konte:seed__",
+    "54.steps": 8,
+    "58.vae_name": "qwen_image_vae.safetensors",
+    "57.clip_name": "qwen3vl_4b_fp8_scaled.safetensors",
+    "56.unet_name": "krea2_turbo_int8_convrot.safetensors"
+  },
+  "models": [
+    {
+      "filename": "krea2_turbo_int8_convrot.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/diffusion_models/krea2_turbo_int8_convrot.safetensors"
+    },
+    {
+      "filename": "qwen3vl_4b_fp8_scaled.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/text_encoders/qwen3vl_4b_fp8_scaled.safetensors"
+    },
+    {
+      "filename": "qwen_image_vae.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/vae/qwen_image_vae.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "52.text": "prompt",
+    "53.width": "width",
+    "53.height": "height",
+    "54.seed": "seed",
+    "54.steps": "steps",
+    "58.vae_name": "vaeName",
+    "57.clip_name": "clipName",
+    "56.unet_name": "unetName"
+  }
+}

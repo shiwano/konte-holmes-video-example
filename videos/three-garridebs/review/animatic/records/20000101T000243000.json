@@ -1,0 +1,716 @@
+{
+  "mode": "animatic-preview",
+  "stage": "animatic",
+  "createdAt": "2000-01-01T00:02:43.000Z",
+  "context": {
+    "shots": [
+      {
+        "shotId": "01",
+        "start": 0,
+        "duration": 12,
+        "variants": {
+          "key": "v-rJ0le9wU",
+          "narration": "v-TWyi1efs"
+        },
+        "sources": {
+          "animatic:shot.01.key": "v-rJ0le9wU",
+          "animatic:shot.01.narration": "v-TWyi1efs"
+        }
+      },
+      {
+        "shotId": "02",
+        "start": 12,
+        "duration": 13,
+        "variants": {
+          "key": "v-EOZnEKpb",
+          "narration": "v-yXpZPrOc"
+        },
+        "sources": {
+          "animatic:shot.02.key": "v-EOZnEKpb",
+          "animatic:shot.02.narration": "v-yXpZPrOc"
+        }
+      },
+      {
+        "shotId": "03",
+        "start": 25,
+        "duration": 6,
+        "variants": {
+          "key": "v-u7693C4x",
+          "holmes": "v-9AKnf6ZM"
+        },
+        "sources": {
+          "animatic:shot.03.key": "v-u7693C4x",
+          "animatic:shot.03.holmes": "v-9AKnf6ZM"
+        }
+      },
+      {
+        "shotId": "04",
+        "start": 31,
+        "duration": 7,
+        "variants": {
+          "key": "v-VJqDJl55",
+          "watson": "v-nCg84lsL",
+          "holmes": "v-a9ETghla"
+        },
+        "sources": {
+          "animatic:shot.04.key": "v-VJqDJl55",
+          "animatic:shot.04.watson": "v-nCg84lsL",
+          "animatic:shot.04.holmes": "v-a9ETghla"
+        }
+      },
+      {
+        "shotId": "05",
+        "start": 38,
+        "duration": 12,
+        "variants": {
+          "key": "v-i0JN77VW",
+          "watson": "v-7W0BwgHh",
+          "holmes": "v-33Uq8afC"
+        },
+        "sources": {
+          "animatic:shot.05.key": "v-i0JN77VW",
+          "animatic:shot.05.watson": "v-7W0BwgHh",
+          "animatic:shot.05.holmes": "v-33Uq8afC"
+        }
+      },
+      {
+        "shotId": "06",
+        "start": 50,
+        "duration": 9,
+        "variants": {
+          "key": "v-zBKnHVSd",
+          "holmes": "v-u096bgQC"
+        },
+        "sources": {
+          "animatic:shot.06.key": "v-zBKnHVSd",
+          "animatic:shot.06.holmes": "v-u096bgQC"
+        }
+      },
+      {
+        "shotId": "07",
+        "start": 59,
+        "duration": 7,
+        "variants": {
+          "key": "v-lFcU5E3m",
+          "narration": "v-5gMsuc7t"
+        },
+        "sources": {
+          "animatic:shot.07.key": "v-lFcU5E3m",
+          "animatic:shot.07.narration": "v-5gMsuc7t"
+        }
+      },
+      {
+        "shotId": "08",
+        "start": 66,
+        "duration": 6,
+        "variants": {
+          "key": "v-kCgINDHJ",
+          "narration": "v-8IDDXjdn"
+        },
+        "sources": {
+          "animatic:shot.08.key": "v-kCgINDHJ",
+          "animatic:shot.08.narration": "v-8IDDXjdn"
+        }
+      },
+      {
+        "shotId": "09",
+        "start": 72,
+        "duration": 3,
+        "variants": {
+          "key": "v-IkQa3FzG",
+          "watson": "v-j4LzNYny"
+        },
+        "sources": {
+          "animatic:shot.09.key": "v-IkQa3FzG",
+          "animatic:shot.09.watson": "v-j4LzNYny"
+        }
+      },
+      {
+        "shotId": "10",
+        "start": 75,
+        "duration": 4,
+        "variants": {
+          "key": "v-fymNpccN"
+        },
+        "sources": {
+          "animatic:shot.10.key": "v-fymNpccN"
+        }
+      },
+      {
+        "shotId": "11",
+        "start": 79,
+        "duration": 13,
+        "variants": {
+          "key": "v-6yKFVsEp",
+          "holmes": "v-iXYif15U"
+        },
+        "sources": {
+          "animatic:shot.11.key": "v-6yKFVsEp",
+          "animatic:shot.11.holmes": "v-iXYif15U"
+        }
+      },
+      {
+        "shotId": "12",
+        "start": 92,
+        "duration": 5,
+        "variants": {
+          "key": "v-N301sA5z",
+          "narration": "v-qkhL8ASh"
+        },
+        "sources": {
+          "animatic:shot.12.key": "v-N301sA5z",
+          "animatic:shot.12.narration": "v-qkhL8ASh"
+        }
+      },
+      {
+        "shotId": "13",
+        "start": 97,
+        "duration": 10,
+        "variants": {
+          "key": "v-PMWClAEs",
+          "watson": "v-0XPzA2kt"
+        },
+        "sources": {
+          "animatic:shot.13.key": "v-PMWClAEs",
+          "animatic:shot.13.watson": "v-0XPzA2kt"
+        }
+      },
+      {
+        "shotId": "14",
+        "start": 107,
+        "duration": 10,
+        "variants": {
+          "key": "v-dkNbIDeZ",
+          "holmes": "v-InQpPUa0",
+          "footsteps": "v-BJvWjp0B"
+        },
+        "sources": {
+          "animatic:shot.14.key": "v-dkNbIDeZ",
+          "animatic:shot.14.holmes": "v-InQpPUa0",
+          "animatic:shot.14.footsteps": "v-BJvWjp0B"
+        }
+      },
+      {
+        "shotId": "15",
+        "start": 117,
+        "duration": 9,
+        "variants": {
+          "key": "v-Ici4qCbA",
+          "holmes": "v-AVLy64h0"
+        },
+        "sources": {
+          "animatic:shot.15.key": "v-Ici4qCbA",
+          "animatic:shot.14.footsteps": "v-BJvWjp0B",
+          "animatic:shot.15.holmes": "v-AVLy64h0"
+        }
+      },
+      {
+        "shotId": "16",
+        "start": 126,
+        "duration": 5,
+        "variants": {
+          "key": "v-YXS0lYxq",
+          "narration": "v-VCqHsRB4"
+        },
+        "sources": {
+          "animatic:shot.16.key": "v-YXS0lYxq",
+          "animatic:shot.16.narration": "v-VCqHsRB4"
+        }
+      },
+      {
+        "shotId": "17",
+        "start": 131,
+        "duration": 12,
+        "variants": {
+          "key": "v-55tRrfOa",
+          "john": "v-Vyq2NG50"
+        },
+        "sources": {
+          "animatic:shot.17.key": "v-55tRrfOa",
+          "animatic:shot.17.john": "v-Vyq2NG50"
+        }
+      },
+      {
+        "shotId": "18",
+        "start": 143,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "19",
+        "start": 148,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "20",
+        "start": 157,
+        "duration": 4,
+        "variants": {}
+      },
+      {
+        "shotId": "21",
+        "start": 161,
+        "duration": 3,
+        "variants": {}
+      },
+      {
+        "shotId": "22",
+        "start": 164,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "23",
+        "start": 173,
+        "duration": 6,
+        "variants": {}
+      },
+      {
+        "shotId": "24",
+        "start": 179,
+        "duration": 13,
+        "variants": {}
+      },
+      {
+        "shotId": "25",
+        "start": 192,
+        "duration": 10,
+        "variants": {}
+      },
+      {
+        "shotId": "26",
+        "start": 202,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "27",
+        "start": 213,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "28",
+        "start": 218,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "29",
+        "start": 230,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "30",
+        "start": 239,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "30b",
+        "start": 250,
+        "duration": 7,
+        "variants": {}
+      },
+      {
+        "shotId": "31",
+        "start": 257,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "32",
+        "start": 268,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "33",
+        "start": 277,
+        "duration": 13,
+        "variants": {}
+      },
+      {
+        "shotId": "34",
+        "start": 290,
+        "duration": 3,
+        "variants": {}
+      },
+      {
+        "shotId": "35",
+        "start": 293,
+        "duration": 4,
+        "variants": {}
+      },
+      {
+        "shotId": "36",
+        "start": 297,
+        "duration": 13,
+        "variants": {}
+      },
+      {
+        "shotId": "37",
+        "start": 310,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "37b",
+        "start": 321,
+        "duration": 7,
+        "variants": {}
+      },
+      {
+        "shotId": "38",
+        "start": 328,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "39",
+        "start": 340,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "40",
+        "start": 352,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "41",
+        "start": 364,
+        "duration": 11,
+        "variants": {}
+      },
+      {
+        "shotId": "41b",
+        "start": 375,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "42",
+        "start": 380,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "43",
+        "start": 392,
+        "duration": 15,
+        "variants": {}
+      },
+      {
+        "shotId": "44",
+        "start": 407,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "45",
+        "start": 412,
+        "duration": 15,
+        "variants": {}
+      },
+      {
+        "shotId": "46",
+        "start": 427,
+        "duration": 12,
+        "variants": {}
+      },
+      {
+        "shotId": "47",
+        "start": 439,
+        "duration": 10,
+        "variants": {}
+      },
+      {
+        "shotId": "47b",
+        "start": 449,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "48",
+        "start": 458,
+        "duration": 10,
+        "variants": {}
+      },
+      {
+        "shotId": "49",
+        "start": 468,
+        "duration": 4,
+        "variants": {}
+      },
+      {
+        "shotId": "50",
+        "start": 472,
+        "duration": 7,
+        "variants": {}
+      },
+      {
+        "shotId": "51",
+        "start": 479,
+        "duration": 14,
+        "variants": {}
+      },
+      {
+        "shotId": "52",
+        "start": 493,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "53",
+        "start": 498,
+        "duration": 10,
+        "variants": {}
+      },
+      {
+        "shotId": "54",
+        "start": 508,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "55",
+        "start": 513,
+        "duration": 6,
+        "variants": {}
+      },
+      {
+        "shotId": "56",
+        "start": 519,
+        "duration": 3,
+        "variants": {}
+      },
+      {
+        "shotId": "57",
+        "start": 522,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "58",
+        "start": 527,
+        "duration": 2,
+        "variants": {}
+      },
+      {
+        "shotId": "59",
+        "start": 529,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "60",
+        "start": 538,
+        "duration": 14,
+        "variants": {}
+      },
+      {
+        "shotId": "61",
+        "start": 552,
+        "duration": 14,
+        "variants": {}
+      },
+      {
+        "shotId": "62",
+        "start": 566,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "63",
+        "start": 575,
+        "duration": 9,
+        "variants": {}
+      },
+      {
+        "shotId": "64",
+        "start": 584,
+        "duration": 15,
+        "variants": {}
+      },
+      {
+        "shotId": "65",
+        "start": 599,
+        "duration": 5,
+        "variants": {}
+      },
+      {
+        "shotId": "66",
+        "start": 604,
+        "duration": 8,
+        "variants": {}
+      }
+    ],
+    "timeline": {},
+    "timelineSources": {},
+    "contentHashes": {
+      "animatic:shot.01#composition": "03df77f63ddd190e6516070fe08ba8d8089ae23ec326308e08c0d11dac9f3a99",
+      "animatic:shot.02#composition": "fea845a30a9072d4d7dd402a45ca30eeab1b7b219d27e84ad6cc496609509cbb",
+      "animatic:shot.03#composition": "8529d413e45ea2d59f8e8bacc85ea7681d68a9e6b611e21fbad846c1890ab3b1",
+      "animatic:shot.04#composition": "f6e5b47e85fd70c3ce37d8463560835cdac4d89ad63f8c15bf0880fc73b8fe07",
+      "animatic:shot.05#composition": "899367526d2e0db0303b9fd4506eb64654bf6c930fbacafedb0cb2764e31923a",
+      "animatic:shot.06#composition": "60c381f445871904ad6f8ce78a03f45089897de26bfc079dcccd80c99cdef447",
+      "animatic:shot.07#composition": "56bfb84fe8d683924a280143f349e62aa6e01bcbb0da424a7a96abf2b19eedbe",
+      "animatic:shot.08#composition": "e0b2ed7d191035a394a83d562a8df988a49cdbab4ca3965ee3c874e63d41e3b9",
+      "animatic:shot.09#composition": "d7ca9c6ea7557e1bb1973c32066aa0d505174a296ea7a0b97489d28745f81766",
+      "animatic:shot.10#composition": "774e8bfd9fde137a9c4a9391d0edd0b0bf848157dd3ee3a2a5f50be3addbf544",
+      "animatic:shot.11#composition": "7fce55460ffcd4aa5c5459809294472d1afea8fb10758197cb6ac3a93a893e9b",
+      "animatic:shot.12#composition": "7f0071ac2e301e83c8b477362c2ad598aa594e8f19e050fb43e2b8e0113031c0",
+      "animatic:shot.13#composition": "f3d35bbc9f0871cb213eb2bf485a7dc0dc87f140bc524758ae7ca63c3e454f27",
+      "animatic:shot.14#composition": "a40bfe0da6c19713658debca59fded58563281cd05cce89ac1c01bc5abaefc35",
+      "animatic:shot.15#composition": "1ebeadcfff2ec32cc249a1ce65156660d5a79e06c51fb45f85520e3214fa4f7f",
+      "animatic:shot.16#composition": "baa199b5ed883844b7820ddc064bdb5ce36e3fbc4045bd289692674177264525",
+      "animatic:shot.17#composition": "12ab279e194e51c45615dcb955ebceded60ea4232fe914f0ae977f0531e47401",
+      "animatic:shot.01#narrationStem": "fa3bfa52959eb9f8d645f959d186cafce40e3cb557701847ab596b0c377ba95c",
+      "animatic:shot.02#narrationStem": "db9060892bd2defc98f4e202dda54a6243c139dd2695d9ceafdc8cd8ff6d829a",
+      "animatic:shot.03#stem": "e9d51e4e4cfe1f6a88a98461eeedadadcba790110c15926cc4f2fe8899b4e461",
+      "animatic:shot.04#stem": "fbc5193bd6d9b82e81c20066b3f7beba04510d84fde6d574ef0632700596008f",
+      "animatic:shot.05#stem": "1ec597483f6ca269c44a5cc8d4c77f2704312f53a27196dbaa7ceeab55ec2b22",
+      "animatic:shot.06#stem": "a83a96896a8db0f600a270f36e8c07b44e8f87d658b952d6957fa61e0015b82e",
+      "animatic:shot.07#narrationStem": "6449732dc2cc6248da3c57fe5ffdfb836a7680ea043846f27d2db9d80af23710",
+      "animatic:shot.08#narrationStem": "8da2935cef3ad74eba24d90937fede98c9fb36005dfa56ae7be42220713cbf4d",
+      "animatic:shot.09#stem": "b23223295e4a5432307c8c886481d77d34894889336c5180de3373afc4c015b8",
+      "animatic:shot.11#stem": "3bec2f7c50c8ac85c0d81b45381ea403aa98651ab85fb3e2e9c51a89fcbaa8ab",
+      "animatic:shot.12#narrationStem": "11d55d568cb0296f0672d6436b3721281f8b923b51c35272f94b9177dbe36ff2",
+      "animatic:shot.13#stem": "c1e9b97ad7893d334a0bb9a4e80cd038cbf655ab57d2d01ad66154a588f0f653",
+      "animatic:shot.14#stem": "d0179c60bcd856e54ac603d221fa199ffa77b19b1e966a0d00f615d4e07dd138",
+      "animatic:shot.15#stem": "be03c48722f0f13641e8e2f0b39f92c7e9f145b620a253287acc0dbcc5c4a131",
+      "animatic:shot.16#narrationStem": "ab1b1a8033aa970c28f57913732761a51b50b890fda6e5596609cc527da26066",
+      "animatic:shot.17#stem": "b034be741cc41f34b2e1f59801b8dce7a8d0fdac046e83a695fa5048d9824a1c"
+    }
+  },
+  "decisions": {
+    "14": "accepted",
+    "15": "accepted",
+    "08": "accepted",
+    "02": "none",
+    "03": "none"
+  },
+  "cascadeAccepted": [
+    {
+      "address": "animatic:shot.08.narration",
+      "via": "animatic:shot.08#narrationStem"
+    },
+    {
+      "address": "animatic:shot.14.holmes",
+      "via": "animatic:shot.14#stem"
+    },
+    {
+      "address": "animatic:shot.14.footsteps",
+      "via": "animatic:shot.14#stem"
+    },
+    {
+      "address": "animatic:shot.15.holmes",
+      "via": "animatic:shot.15#stem"
+    },
+    {
+      "address": "animatic:shot.08#narrationStem",
+      "via": "animatic:shot.08"
+    },
+    {
+      "address": "animatic:shot.14#stem",
+      "via": "animatic:shot.14"
+    },
+    {
+      "address": "animatic:shot.15#stem",
+      "via": "animatic:shot.15"
+    },
+    {
+      "address": "animatic:shot.08#composition",
+      "via": "animatic:shot.08"
+    },
+    {
+      "address": "animatic:shot.14#composition",
+      "via": "animatic:shot.14"
+    },
+    {
+      "address": "animatic:shot.15#composition",
+      "via": "animatic:shot.15"
+    }
+  ],
+  "notes": [
+    {
+      "id": "fb-5yEtly15",
+      "time": 37.43333333333333,
+      "shotId": "04",
+      "address": "animatic:shot.04",
+      "text": "発音変わらないな「カネ」とか「鐘」とかにしてみて。",
+      "displayedVariants": {
+        "animatic:shot.04.key": "v-VJqDJl55",
+        "animatic:shot.04.watson": "v-nCg84lsL",
+        "animatic:shot.04.holmes": "v-a9ETghla"
+      }
+    },
+    {
+      "id": "fb-RKQ8WD8y",
+      "time": 79,
+      "shotId": "11",
+      "address": "animatic:shot.11",
+      "text": "発音変わらないな。「サシダシニン」で撮ってみて。",
+      "displayedVariants": {
+        "animatic:shot.11.key": "v-6yKFVsEp",
+        "animatic:shot.11.holmes": "v-iXYif15U"
+      }
+    },
+    {
+      "id": "fb-2EDtczrX",
+      "time": 25,
+      "shotId": "03",
+      "address": "animatic:shot.03",
+      "x": 0.081,
+      "y": 0.853,
+      "text": "この plate のショット、ここの赤い椅子が写ってるのがよくない。ワトスンが座っているのに座っていない",
+      "displayedVariants": {
+        "animatic:shot.03.key": "v-u7693C4x",
+        "animatic:shot.03.holmes": "v-9AKnf6ZM",
+        "animatic:shot.03#composition": "v-lgUzo2dI"
+      }
+    },
+    {
+      "id": "fb-Ty4ebNrl",
+      "time": 12,
+      "shotId": "02",
+      "address": "animatic:shot.02",
+      "x": 0.199,
+      "y": 0.68,
+      "text": "椅子に背もたれがない。",
+      "displayedVariants": {
+        "animatic:shot.02.key": "v-EOZnEKpb",
+        "animatic:shot.02.narration": "v-yXpZPrOc",
+        "animatic:shot.02#composition": "v-Jeraf1u0"
+      }
+    }
+  ],
+  "handoffId": "20000101T000242000",
+  "handoffSummary": "残り5ショットを直しました。04・08・11の声は、別テイクを複数用意しています。聞き比べて、良いテイクを選んでください。",
+  "handoffNotes": [
+    {
+      "address": "animatic:shot.04",
+      "text": "「かね」の発音違いで3テイク録り直しました。"
+    },
+    {
+      "address": "animatic:shot.08",
+      "text": "07の絵を手がかりに、同じ画角・机・光のまま手だけが動く絵に描き直しました。語りも数テイク録り直しています。"
+    },
+    {
+      "address": "animatic:shot.11",
+      "text": "「さしだしにん」の発音違いで3テイク録り直しました。"
+    },
+    {
+      "address": "animatic:shot.14",
+      "text": "台詞のあとから階段の足音を鳴らし始め、15へ途切れずにつなげました。足音は一歩ずつはっきり聞こえる重い靴音に作り直しています。"
+    },
+    {
+      "address": "animatic:shot.15",
+      "text": "14から続く足音を頭に置き、聞き取りやすく音量を上げました。"
+    }
+  ]
+}

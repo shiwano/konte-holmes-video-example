@@ -1,0 +1,49 @@
+{
+  "kind": "comfy",
+  "workflow": "audio_stable_audio_3_medium.json",
+  "inputs": {
+    "69.value": "gothic chamber music, solo harpsichord, light pizzicato strings, soft solo cello line, curious playful mystery, unhurried 80 bpm, sparse intimate room recording",
+    "58.text": "",
+    "70.choice": "Music",
+    "74.value": false,
+    "75.value": 95,
+    "61.seed": 12,
+    "61.steps": 8,
+    "61.cfg": 1,
+    "61.denoise": 1,
+    "76.ckpt_name": "stable_audio_3_medium.safetensors",
+    "62.clip_name": "qwen3.5_2b_bf16.safetensors",
+    "77.clip_name": "t5gemma_b_b_ul2.safetensors"
+  },
+  "models": [
+    {
+      "filename": "qwen3.5_2b_bf16.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/Qwen3.5/resolve/main/text_encoders/qwen3.5_2b_bf16.safetensors"
+    },
+    {
+      "filename": "stable_audio_3_medium.safetensors",
+      "type": "checkpoint",
+      "url": "https://huggingface.co/Comfy-Org/stable-audio-3/resolve/main/checkpoints/stable_audio_3_medium.safetensors"
+    },
+    {
+      "filename": "t5gemma_b_b_ul2.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/stable-audio-3/resolve/main/text_encoders/t5gemma_b_b_ul2.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "69.value": "prompt",
+    "58.text": "negativePrompt",
+    "70.choice": "category",
+    "74.value": "enhancePrompt",
+    "75.value": "duration",
+    "61.seed": "seed",
+    "61.steps": "steps",
+    "61.cfg": "cfg",
+    "61.denoise": "denoise",
+    "76.ckpt_name": "ckptName",
+    "62.clip_name": "llmName",
+    "77.clip_name": "clipName"
+  }
+}

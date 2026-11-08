@@ -1,0 +1,15 @@
+{
+  "kind": "local",
+  "operation": "crop",
+  "mediaType": "image",
+  "inputs": {
+    "image": "__konte:reference:street__",
+    "x": 0,
+    "y": 100,
+    "width": 1920,
+    "height": 1080,
+    "outWidth": 1248,
+    "outHeight": 704
+  },
+  "deterministic": true
+}

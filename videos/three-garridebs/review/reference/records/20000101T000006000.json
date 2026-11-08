@@ -1,0 +1,27 @@
+{
+  "mode": "reference-preview",
+  "stage": "reference",
+  "createdAt": "2000-01-01T00:00:06.000Z",
+  "context": {
+    "shots": [],
+    "timeline": {
+      "look": "v-0h7q4mGb"
+    }
+  },
+  "decisions": [
+    {
+      "address": "reference:look",
+      "variantId": "v-0h7q4mGb",
+      "status": "accepted",
+      "feedback": []
+    }
+  ],
+  "handoffId": "20000101T000005000",
+  "handoffSummary": "ルックの見本です。本編の一場面ではなく、作品世界の質感（線・色・光・影）だけを確かめるための一枚です。承認していただいたら、この質感でキャラクター・小道具・場所の設定画と声のサンプルを作ります。",
+  "handoffNotes": [
+    {
+      "address": "reference:look",
+      "text": "耽美なゴシック・アニメのセル画。藍と黒の影、朝の金色の光の筋、深紅の差し色、細く長い人物の線。この人物はキャストではなく、世界の住人の一人です。"
+    }
+  ]
+}

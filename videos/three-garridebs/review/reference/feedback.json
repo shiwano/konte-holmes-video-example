@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "feedback": {
+    "reference:watson": [
+      {
+        "id": "fb-jhxbbHq2",
+        "displayedVariants": {
+          "reference:watson": "v-i2dsU6Ap"
+        },
+        "annotation": null,
+        "text": "ちょっと太すぎ。もっとスマートにしたいな。",
+        "createdAt": "2000-01-01T00:00:28.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "reference": [
+      {
+        "id": "fb-3EbXC5Qi",
+        "displayedVariants": {},
+        "annotation": null,
+        "text": "キャラ絵はなんかジブリぽさというか線の柔らかさが気になる。\nlook とちょっと違うので、もうちょっと練ってみて",
+        "createdAt": "2000-01-01T00:00:28.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-g9OiIUkh",
+        "displayedVariants": {},
+        "annotation": null,
+        "text": "qwen は使わず krea だけでやって。\nスタイルの変更がちゃんとできていない。全体的に線の丸みを落として、スタイリッシュな感じにして。",
+        "createdAt": "2000-01-01T00:00:38.000Z",
+        "createdBy": "local"
+      }
+    ]
+  }
+}

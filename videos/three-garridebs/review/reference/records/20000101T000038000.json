@@ -1,0 +1,47 @@
+{
+  "mode": "reference-preview",
+  "stage": "reference",
+  "createdAt": "2000-01-01T00:00:38.000Z",
+  "context": {
+    "shots": [],
+    "timeline": {
+      "look": "v-0h7q4mGb",
+      "holmes": "v-KfsXLkqs",
+      "watson": "v-CgxDPLu9",
+      "john": "v-eSNiDF3Q",
+      "hudson": "v-5FjqEIMj",
+      "letter": "v-dArSQNEc",
+      "directory": "v-J0mYbCFv",
+      "card": "v-RU96ZnM4",
+      "pipe": "v-cUUA3eXX",
+      "sittingRoom": "v-qoyjizpB",
+      "street": "v-NSTADlqH",
+      "holmesVoice": "v-uNmHENDJ",
+      "watsonVoice": "v-Qy6qPKRo",
+      "johnVoice": "v-VFaALCyA",
+      "view.sittingRoom.top": "v-pm3bmWPb"
+    }
+  },
+  "decisions": [],
+  "overallComment": "qwen は使わず krea だけでやって。\nスタイルの変更がちゃんとできていない。全体的に線の丸みを落として、スタイリッシュな感じにして。",
+  "handoffId": "20000101T000037000",
+  "handoffSummary": "キャラクター4人を作り直しました。ルックの絵をお手本として描き直す工程を加え、線を細く硬く、顔を角ばった面で描くようにしています。横から見た居間の図は、肘のカットを正面から撮る構図に変えたため不要になり、取り下げました。",
+  "handoffNotes": [
+    {
+      "address": "reference:holmes",
+      "text": "ルックの絵柄に寄せて描き直しました。線を硬く、顔を鋭くしています。深紅の帯と藍のガウンの色は残しました。"
+    },
+    {
+      "address": "reference:watson",
+      "text": "細身で背筋の伸びた、軍人上がりらしい体型に変えました。茶のツイードの色はそのままです。"
+    },
+    {
+      "address": "reference:john",
+      "text": "線は硬くしましたが、丸い童顔と張り付いた笑顔はあえて残し、耽美な画面から浮くようにしています。"
+    },
+    {
+      "address": "reference:hudson",
+      "text": "細面の老婦人として、ルックの線に合わせて描き直しました。"
+    }
+  ]
+}

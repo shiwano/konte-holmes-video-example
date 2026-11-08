@@ -1,0 +1,14 @@
+{
+  "stage": "video",
+  "summary": "音楽を楽器だけのモデル（Stable Audio 3）で5曲作り直しました。04〜14に新しく曲を足し、音楽なしはジョンが去ったあとの沈黙（55〜58）だけです。",
+  "notes": [
+    {
+      "address": "video:timeline.bgm-study",
+      "text": "04〜14、手紙をめぐるホームズとワトスンの会話の曲です。"
+    },
+    {
+      "address": "video:timeline.bgm-intrigue-b",
+      "text": "39の頭（5分16秒あたり）で、曲が静かになる約1.5秒だけ、音がほぼ途切れます。"
+    }
+  ]
+}

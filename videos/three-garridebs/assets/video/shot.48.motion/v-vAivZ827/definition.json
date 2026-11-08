@@ -1,0 +1,98 @@
+{
+  "kind": "comfy",
+  "workflow": "video_minimax_h3_r2v.json",
+  "inputs": {
+    "137.image": "__konte:animatic:shot.48.key__",
+    "139.image": "__konte:reference:holmes__",
+    "163.audio": "__konte:animatic:shot.48#stem__",
+    "136.prompt": "subject_definitions: <Picture 1> is the animatic keyframe for [Shot 1], defining its viewpoint, subject placement, set and light.\n<Subject 1> is the tall gaunt Victorian detective with slicked-back black hair, a narrow angular face and pale grey eyes, in a deep indigo dressing gown with a dark crimson sash, drawn from <Picture 2>.\n\nsummary: [keyframe completion + reference generation] Holmes turns to his friend with amusement, then back to his visitor with a suggestion.\n\nretention_analysis: <Picture 1> ([Shot 1] keyframe): partially_preserved - the camera position, angle and framing hold exactly for the whole shot: the same shot size, the same set and light, each figure and landmark at the same place in the frame; only the figures' pose and expression move, as the description writes them.\n<Subject 1> (appears in [Shot 1]): fully_preserved - face, hair, build and clothing hold; the expression and pose are acted as the description writes them.\n\ndetailed_description: 2D-animated, 1980s Japanese gothic theatrical anime cel animation: razor-thin angular ink lines, hard-edged two-tone cel shadows in deep indigo and blue-black, painted backgrounds. Limited, restrained animation: poses are held and only what the shot names moves, with small drifts of hair, cloth and dust in the light; the camera stays locked off unless the shot writes a move. [Shot 1] A medium frame at seated eye level on <Subject 1>, seen from head to knees on the left half of the frame in the worn dark-red leather armchair, his torso turned three-quarters toward screen right, the foolscap letter on his knee under the hand farther from the lens; the white marble fireplace with its black iron grate fills the right half, a dark bookshelf behind his head. Calm, even morning light lies on him and on the bookshelf behind him, the book spines at the upper left clear and plainly lit. From the first frame his head is turned back over his shoulder toward the upper left, toward his friend off screen, his face amused, one eyebrow raised, a sly, conspiratorial smile on his thin lips. <Subject 1> (S1), a man in his late forties with a low, clear, crisp voice, delighted, with a wink in his voice, says <d>[Japanese] どうだい、ワトスン、風変わりだと言っただろう？</d> then he turns his head and shoulders fully round toward screen right, his face in profile toward his visitor at the right edge of the frame, and holding that turn, lightly, as a casual piece of advice, says <d>[Japanese] しかし、それなら新聞の尋ね人欄に広告を出すのが、一番の近道だと思いますがね。</d> then his lips meet and he stops speaking, his face still turned toward screen right. The camera holds a static shot.\n\noverall_soundscape: A quiet first-floor room in Baker Street on a summer morning: soft room tone, faint carriage wheels and hooves on the street below through the window, the slow tick of a mantel clock, the rustle of paper and cloth when someone moves.\n\nnon_diegetic_music: N/A",
+    "136.width": 1248,
+    "136.height": 704,
+    "136.length": 243,
+    "136.ref_image_size": "max",
+    "129.noise_seed": "__konte:seed__",
+    "143.value": 20,
+    "146.value": false,
+    "130.fps": 24,
+    "127.unet_name": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+    "128.clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+    "119.vae_name": "minimax_h3_video_vae_int8_convrot.safetensors",
+    "120.vae_name": "minimax_h3_audio_vae_fp32.safetensors",
+    "145.lora_name": "minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors"
+  },
+  "prunedNodes": [
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159",
+    "169",
+    "170",
+    "171",
+    "160",
+    "161",
+    "162",
+    "165",
+    "166",
+    "167",
+    "168"
+  ],
+  "prunedPassThroughs": {
+    "166": "positive",
+    "168": "positive"
+  },
+  "models": [
+    {
+      "filename": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors"
+    },
+    {
+      "filename": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors"
+    },
+    {
+      "filename": "minimax_h3_video_vae_int8_convrot.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_video_vae_int8_convrot.safetensors"
+    },
+    {
+      "filename": "minimax_h3_audio_vae_fp32.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_audio_vae_fp32.safetensors"
+    },
+    {
+      "filename": "minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors",
+      "type": "lora",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/loras/minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "137.image": "image1",
+    "139.image": "image2",
+    "163.audio": "audioStem",
+    "136.prompt": "prompt",
+    "136.width": "width",
+    "136.height": "height",
+    "136.length": "length",
+    "136.ref_image_size": "refImageSize",
+    "129.noise_seed": "seed",
+    "143.value": "steps",
+    "146.value": "useTurbo",
+    "130.fps": "fps",
+    "127.unet_name": "unetName",
+    "128.clip_name": "clipName",
+    "119.vae_name": "vaeName",
+    "120.vae_name": "audioVaeName",
+    "145.lora_name": "loraName"
+  }
+}

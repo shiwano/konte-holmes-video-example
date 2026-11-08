@@ -1,0 +1,41 @@
+{
+  "kind": "comfy",
+  "workflow": "image_krea2_turbo_t2i.json",
+  "inputs": {
+    "52.text": "1980s Japanese theatrical anime cel animation in a gothic, aesthetic register: fine, sharp ink linework with long tapering strokes, hard-edged two-tone cel shading, deep indigo and blue-black shadow tones, a restrained palette with deep crimson and lamp-gold accents. Hand-painted background art with dense architectural detail. The first-floor sitting room of 221B Baker Street on a late June morning in 1902, a still, unoccupied room seen at eye level from the wall opposite the fireplace, wide. From screen left to screen right: a tall Victorian bay window with lace curtains blazing with low morning sunlight; in front of it a cluttered writing desk heaped with papers and books; a worn dark-red leather armchair angled toward screen right; at the centre a Victorian fireplace whose mantelpiece is cluttered with pipes, letters pinned by a jack-knife and chemical bottles; a green velvet armchair to the right of the fireplace angled toward screen left, facing the red armchair across the crimson Turkish hearth rug; at the far right a dark wooden panelled door. Dark patterned wallpaper, crowded bookshelves and chemistry apparatus along the walls. Long diagonal shafts of gold sunlight cross the room from the bay window, the corners sunk in deep indigo shadow, the crimson Turkish hearth rug glowing between the chairs.",
+    "53.width": 2496,
+    "53.height": 1248,
+    "54.seed": "__konte:seed__",
+    "54.steps": 8,
+    "58.vae_name": "qwen_image_vae.safetensors",
+    "57.clip_name": "qwen3vl_4b_fp8_scaled.safetensors",
+    "56.unet_name": "krea2_turbo_int8_convrot.safetensors"
+  },
+  "models": [
+    {
+      "filename": "krea2_turbo_int8_convrot.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/diffusion_models/krea2_turbo_int8_convrot.safetensors"
+    },
+    {
+      "filename": "qwen3vl_4b_fp8_scaled.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/text_encoders/qwen3vl_4b_fp8_scaled.safetensors"
+    },
+    {
+      "filename": "qwen_image_vae.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/vae/qwen_image_vae.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "52.text": "prompt",
+    "53.width": "width",
+    "53.height": "height",
+    "54.seed": "seed",
+    "54.steps": "steps",
+    "58.vae_name": "vaeName",
+    "57.clip_name": "clipName",
+    "56.unet_name": "unetName"
+  }
+}

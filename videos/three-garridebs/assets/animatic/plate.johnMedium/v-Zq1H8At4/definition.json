@@ -1,0 +1,15 @@
+{
+  "kind": "local",
+  "operation": "crop",
+  "mediaType": "image",
+  "inputs": {
+    "image": "__konte:reference:sittingRoom__",
+    "x": 1150,
+    "y": 480,
+    "width": 1110,
+    "height": 624,
+    "outWidth": 1248,
+    "outHeight": 704
+  },
+  "deterministic": true
+}

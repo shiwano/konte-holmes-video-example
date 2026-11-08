@@ -1,0 +1,99 @@
+{
+  "kind": "comfy",
+  "workflow": "video_minimax_h3_r2v.json",
+  "inputs": {
+    "137.image": "__konte:animatic:shot.65.key__",
+    "139.image": "__konte:reference:john__",
+    "136.prompt": "subject_definitions: <Picture 1> is the animatic keyframe for [Shot 1], defining its viewpoint, subject placement, set and light.\n<Subject 1> is the short stocky clean-shaven man with a round boyish face, an American with a broad fixed smile and sharp bright eyes, in a grey English-cut lounge suit, drawn from <Picture 2>.\n\nsummary: [keyframe completion + reference generation] John Garrideb walks briskly away along the Baker Street pavement from the door of 221B toward the gas lamp, still smiling.\n\nretention_analysis: <Picture 1> ([Shot 1] keyframe): partially_preserved - the camera position, angle and framing hold exactly for the whole shot: the same shot size, the same set and light, each figure and landmark at the same place in the frame; only the figures' pose and expression move, as the description writes them.\n<Subject 1> (appears in [Shot 1]): fully_preserved - face, hair, build and clothing hold; the expression and pose are acted as the description writes them.\n\ndetailed_description: 2D-animated, 1980s Japanese gothic theatrical anime cel animation: razor-thin angular ink lines, hard-edged two-tone cel shadows in deep indigo and blue-black, painted backgrounds. Limited, restrained animation: poses are held and only what the shot names moves, with small drifts of hair, cloth and dust in the light; the camera stays locked off unless the shot writes a move. [Shot 1] A medium frame at eye level from the roadway on a London street of brick terraced houses with black iron railings. The black door of 221B stands at the left and an iron gas lamp at the right. From the first frame <Subject 1> strides quickly along the stone pavement toward screen right, covering the whole way from the door of 221B to the iron gas lamp, and by the last frame he reaches the lamp post at the right, his black bowler hat on his head, his stride brisk and jaunty, his round face in profile with a broad, easy smile, his mouth closed. Low morning sunlight rakes across the facades, laying long indigo shadows across the pavement. The camera holds a static shot.\n\noverall_soundscape: A Baker Street pavement on a summer morning: iron-shod carriage wheels and hooves on the cobbles, a distant street cry, brisk footsteps on stone.\n\nnon_diegetic_music: N/A",
+    "136.width": 1248,
+    "136.height": 704,
+    "136.length": 90,
+    "136.ref_image_size": "max",
+    "129.noise_seed": "__konte:seed__",
+    "143.value": 20,
+    "146.value": false,
+    "130.fps": 24,
+    "127.unet_name": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+    "128.clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+    "119.vae_name": "minimax_h3_video_vae_int8_convrot.safetensors",
+    "120.vae_name": "minimax_h3_audio_vae_fp32.safetensors",
+    "145.lora_name": "minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors"
+  },
+  "prunedNodes": [
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159",
+    "169",
+    "170",
+    "171",
+    "160",
+    "161",
+    "162",
+    "163",
+    "164",
+    "165",
+    "166",
+    "167",
+    "168"
+  ],
+  "prunedPassThroughs": {
+    "164": "positive",
+    "166": "positive",
+    "168": "positive"
+  },
+  "models": [
+    {
+      "filename": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors"
+    },
+    {
+      "filename": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors"
+    },
+    {
+      "filename": "minimax_h3_video_vae_int8_convrot.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_video_vae_int8_convrot.safetensors"
+    },
+    {
+      "filename": "minimax_h3_audio_vae_fp32.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_audio_vae_fp32.safetensors"
+    },
+    {
+      "filename": "minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors",
+      "type": "lora",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/loras/minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "137.image": "image1",
+    "139.image": "image2",
+    "136.prompt": "prompt",
+    "136.width": "width",
+    "136.height": "height",
+    "136.length": "length",
+    "136.ref_image_size": "refImageSize",
+    "129.noise_seed": "seed",
+    "143.value": "steps",
+    "146.value": "useTurbo",
+    "130.fps": "fps",
+    "127.unet_name": "unetName",
+    "128.clip_name": "clipName",
+    "119.vae_name": "vaeName",
+    "120.vae_name": "audioVaeName",
+    "145.lora_name": "loraName"
+  }
+}
