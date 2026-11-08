@@ -1,0 +1,110 @@
+{
+  "kind": "comfy",
+  "workflow": "video_minimax_h3_r2v.json",
+  "workflowHash": "f2ec132fbc93",
+  "inputs": {
+    "137.image": "__konte:animatic:plate.doorInsert__",
+    "136.prompt": "subject_definitions: <Picture 1> is the animatic keyframe for [Shot 1], defining its viewpoint, subject placement, set and light.\n\nsummary: [keyframe completion + reference generation] Inside the sunlit sitting room, the panelled door is pushed from outside and eases open a crack, a thin strip of the dim landing showing in the gap.\n\nretention_analysis: <Picture 1> ([Shot 1] keyframe): partially_preserved - the camera position, angle and framing hold exactly for the whole shot, and the armchair, bookshelf, fireplace, wallpaper and light stay as it shows them; only the door swings open.\n\ndetailed_description: 2D-animated, 1980s Japanese gothic theatrical anime cel animation: razor-thin angular ink lines, hard-edged two-tone cel shadows in deep indigo and blue-black, painted backgrounds. Limited, restrained animation: poses are held and only what the shot names moves, with small drifts of hair, cloth and dust in the light; the camera stays locked off unless the shot writes a move. [Shot 1] A close frame from inside the sitting room on its dark wooden panelled door, at the right of the frame in its blue-grey moulded frame, the green velvet armchair's tufted back and the bookshelf of glass flasks and old books at the left, the edge of the white marble fireplace at the far left. The shot opens on the frame <Picture 1> shows: the door stands shut, a shaft of gold morning light lying across its lower panels and the round brass knob at its left edge. The knob turns with a click, and the door is pushed from outside: it swings inward into the room, toward the lens, on hinges at its right edge, only a little, its free edge with the brass knob easing a hand's breadth toward the camera and stopping there. A narrow upright gap opens between that edge and the door frame at its left, about as wide as the knob's backplate, showing a thin strip of the landing beyond in dim blue-grey shade, the moulded blue-grey wooden panelling of its wall faint in the strip. The door rests ajar on that narrow gap to the last frame, the leaf still nearly square to the wall, its six panels and the gold light on them almost unchanged. The armchair, the bookshelf, the flasks, the fireplace and the wallpaper hold still and unchanged throughout, only dust motes drifting in the shaft of light. The camera holds a static shot.\n\noverall_soundscape: A quiet first-floor room: the click of a turning brass doorknob, the short creak of old hinges as a heavy wooden door eases ajar, a heavy footstep on the landing beyond it, faint carriage wheels in the street below.\n\nnon_diegetic_music: N/A",
+    "136.width": 1248,
+    "136.height": 704,
+    "136.length": 39,
+    "136.ref_image_size": "max",
+    "129.noise_seed": "__konte:seed__",
+    "143.value": 20,
+    "146.value": false,
+    "130.fps": 24,
+    "127.unet_name": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+    "128.clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+    "119.vae_name": "minimax_h3_video_vae_int8_convrot.safetensors",
+    "120.vae_name": "minimax_h3_audio_vae_fp32.safetensors",
+    "145.lora_name": "minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors"
+  },
+  "prunedNodes": [
+    "139",
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159",
+    "169",
+    "170",
+    "171",
+    "160",
+    "161",
+    "162",
+    "163",
+    "164",
+    "165",
+    "166",
+    "167",
+    "168"
+  ],
+  "prunedPassThroughs": {
+    "164": "positive",
+    "166": "positive",
+    "168": "positive"
+  },
+  "models": [
+    {
+      "filename": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors"
+    },
+    {
+      "filename": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors"
+    },
+    {
+      "filename": "minimax_h3_video_vae_int8_convrot.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_video_vae_int8_convrot.safetensors"
+    },
+    {
+      "filename": "minimax_h3_audio_vae_fp32.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_audio_vae_fp32.safetensors"
+    },
+    {
+      "filename": "minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors",
+      "type": "lora",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/loras/minimax_h3_ref2v_turbo_4step_v0.1_comfyui_bf16.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "137.image": "image1",
+    "136.prompt": "prompt",
+    "136.width": "width",
+    "136.height": "height",
+    "136.length": "length",
+    "136.ref_image_size": "refImageSize",
+    "129.noise_seed": "seed",
+    "143.value": "steps",
+    "146.value": "useTurbo",
+    "130.fps": "fps",
+    "127.unet_name": "unetName",
+    "128.clip_name": "clipName",
+    "119.vae_name": "vaeName",
+    "120.vae_name": "audioVaeName",
+    "145.lora_name": "loraName"
+  },
+  "adapterSuppliedInputs": [
+    "136.ref_image_size",
+    "143.value",
+    "146.value",
+    "130.fps",
+    "127.unet_name",
+    "128.clip_name",
+    "119.vae_name",
+    "120.vae_name",
+    "145.lora_name"
+  ]
+}

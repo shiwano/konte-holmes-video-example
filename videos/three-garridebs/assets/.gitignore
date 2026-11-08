@@ -9,6 +9,7 @@
 !/video/patch/v-*/
 /video/patch/v-*/*/v-*/
 !/animatic/plate.directoryInsert/v-CMClkcyn/
+!/animatic/plate.doorInsert/v-W4CPv77V/
 !/animatic/plate.elbowInsert/v-AEUHz8w2/
 !/animatic/plate.holmesClose/v-1iOE4OYN/
 !/animatic/plate.holmesClose/v-ZtiHR813/
@@ -85,6 +86,7 @@
 !/animatic/shot.15.holmes/v-AVLy64h0/
 !/animatic/shot.15.key/v-Ici4qCbA/
 !/animatic/shot.15.key/v-as23TGl2/
+!/animatic/shot.15b#composition/v-XiHZhWIl/
 !/animatic/shot.16#composition/v-WNEJ0Bp2/
 !/animatic/shot.16#narrationStem/v-TBVGaZhR/
 !/animatic/shot.16.key/v-YXS0lYxq/
@@ -367,6 +369,9 @@
 !/video/shot.15#composition/v-K3a5hXPO/
 !/video/shot.15#stem/v-VTFR9EnM/
 !/video/shot.15.motion/v-gz6zkxjR/
+!/video/shot.15b#composition/v-vvjKqkeh/
+!/video/shot.15b#stem/v-WWfxyetY/
+!/video/shot.15b.motion/v-RaERlPBf/
 !/video/shot.16#composition/v-y3lDs9ln/
 !/video/shot.16#stem/v-TVRV1mJF/
 !/video/shot.16.motion/v-3OSz5nvB/
@@ -536,7 +541,7 @@
 !/video/shot.66#composition/v-Az9SDx9K/
 !/video/shot.66#stem/v-KluRgXkU/
 !/video/shot.66.motion/v-P42u2J43/
-!/video/timeline#overlay/v-iPoJFJqH/
+!/video/timeline#overlay/v-lgEQEpXh/
 !/video/timeline#stem/v-tsVN9kxy/
 !/video/timeline.bgm-intrigue-a/v-YTJj0aWz/
 !/video/timeline.bgm-intrigue-b/v-3KQd7Ueb/

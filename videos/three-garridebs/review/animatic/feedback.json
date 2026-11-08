@@ -51,9 +51,9 @@
           "animatic:shot.02#narrationStem": "d32934a3b60d"
         },
         "annotation": null,
-        "text": "もうちょっとテイク出してみて",
         "time": 23.233333333333334,
-        "createdAt": "2000-01-01T00:24:13.000Z",
+        "text": "もうちょっとテイク出してみて",
+        "createdAt": "2000-01-01T00:24:12.000Z",
         "createdBy": "local"
       }
     ],
@@ -458,7 +458,7 @@
         "annotation": null,
         "time": 155.93333333333334,
         "text": "末尾に無音の期間が長いので、ショット切り詰めてもよさそう",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -476,7 +476,7 @@
         "annotation": null,
         "time": 172.26666666666668,
         "text": "末尾の無音期間が長いので、duration カットしてもよさそう",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -498,7 +498,7 @@
         },
         "time": 177.93333333333334,
         "text": "ガリデブは椅子に座っているはず。これは椅子に座っている絵じゃない",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -514,7 +514,7 @@
         "annotation": null,
         "time": 169,
         "text": "v-VIcEjza9 みたいなのがいいんだけど、イマジナリーラインを壊してるから、画面左向きで生成しなおしてほしい",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       },
       {
@@ -534,7 +534,7 @@
         },
         "time": 169,
         "text": "ここが椅子の座面なのに、そこにジョンが座ってないのがおかしいの。椅子のひじ掛けには左腕を載せてないといけないのに、今右腕をのせているから変。根本的に作り直して。",
-        "createdAt": "2000-01-01T00:11:01.000Z",
+        "createdAt": "2000-01-01T00:11:00.000Z",
         "createdBy": "local"
       },
       {
@@ -554,7 +554,7 @@
         },
         "time": 174.16666666666666,
         "text": "擦り切れて光っているって原作の描写？ 絵にするとちょっと変だな",
-        "createdAt": "2000-01-01T00:12:09.000Z",
+        "createdAt": "2000-01-01T00:12:08.000Z",
         "createdBy": "local"
       },
       {
@@ -570,7 +570,7 @@
         "annotation": null,
         "time": 172.5,
         "text": "もうちょっと椅子に深く座っている絵にしたい。これだと、尻だけ載せている絵にみえて、22と違う印象をうける",
-        "createdAt": "2000-01-01T00:12:09.000Z",
+        "createdAt": "2000-01-01T00:12:08.000Z",
         "createdBy": "local"
       }
     ],
@@ -588,7 +588,7 @@
         "annotation": null,
         "time": 182.53333333333333,
         "text": "「英国人」が「えいごくじん」と聞こえる",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -604,7 +604,7 @@
         "annotation": null,
         "time": 187.33333333333334,
         "text": "「見えるとはね」の後に変な声が聞こえる。",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -622,7 +622,7 @@
         "annotation": null,
         "time": 195.13333333333333,
         "text": "「靴下」が「くつか」に聞こえる",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -638,7 +638,7 @@
         "annotation": null,
         "time": 191.5,
         "text": "靴下がまだ言えてない。全部カタカナかひらがなにしたら？",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       },
       {
@@ -654,7 +654,7 @@
         "annotation": null,
         "time": 190.5,
         "text": "仕立てがうまく読めてない",
-        "createdAt": "2000-01-01T00:11:01.000Z",
+        "createdAt": "2000-01-01T00:11:00.000Z",
         "createdBy": "local"
       }
     ],
@@ -672,7 +672,7 @@
         "annotation": null,
         "time": 210.7,
         "text": "末尾の無音期間が長いのでカットして",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -694,7 +694,7 @@
         },
         "time": 218,
         "text": "「赤黒い」がちょっと絵で見ると変なので、その表現はやめたほうがいいかも",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -710,7 +710,7 @@
         "annotation": null,
         "time": 222.46666666666667,
         "text": "もうちょっと怒鳴ってる感の芝居がほしい",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -726,7 +726,7 @@
         "annotation": null,
         "time": 220.93333333333334,
         "text": "違う、前にしてきした怒鳴ってる芝居ってのは音声のこと。絵はちょっと怒りすぎなので、絵の芝居は元に戻して",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       },
       {
@@ -746,7 +746,7 @@
         },
         "time": 222.63333333333333,
         "text": "椅子に座ってない",
-        "createdAt": "2000-01-01T00:11:01.000Z",
+        "createdAt": "2000-01-01T00:11:00.000Z",
         "createdBy": "local"
       },
       {
@@ -762,7 +762,7 @@
         "annotation": null,
         "time": 221.23333333333332,
         "text": "末尾の無音が長い",
-        "createdAt": "2000-01-01T00:12:09.000Z",
+        "createdAt": "2000-01-01T00:12:08.000Z",
         "createdBy": "local"
       }
     ],
@@ -780,7 +780,7 @@
         "annotation": null,
         "time": 238.2,
         "text": "末尾の無音をカットして",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -796,7 +796,7 @@
         "annotation": null,
         "time": 230.56666666666666,
         "text": "声の芝居を、もっと怒ってる風にして",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       }
     ],
@@ -814,7 +814,7 @@
         "annotation": null,
         "time": 248.36666666666667,
         "text": "ここも末尾をカットして",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -835,7 +835,7 @@
         },
         "time": 230.63333333333333,
         "text": "画面右みてないけど",
-        "createdAt": "2000-01-01T00:20:12.000Z",
+        "createdAt": "2000-01-01T00:20:11.000Z",
         "createdBy": "local"
       }
     ],
@@ -853,7 +853,7 @@
         "annotation": null,
         "time": 267.06666666666666,
         "text": "末尾をカットして",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -871,7 +871,7 @@
         "annotation": null,
         "time": 288.43333333333334,
         "text": "末尾の無音をカットして",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -889,7 +889,7 @@
         "annotation": null,
         "time": 290,
         "text": "ワトスンは前にいるので、左下を見るのは変かも",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -905,7 +905,7 @@
         "annotation": null,
         "time": 278.6333333333333,
         "text": "ちがう、ワトスンがいるのは画面左",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       }
     ],
@@ -923,7 +923,7 @@
         "annotation": null,
         "time": 297,
         "text": "末尾の無音が長いのでカットして",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -941,7 +941,7 @@
         "annotation": null,
         "time": 314.1333333333333,
         "text": "「相場」が「おおば」になっている",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -957,7 +957,7 @@
         "annotation": null,
         "time": 315.73333333333335,
         "text": "「金」が「かん」になっている",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -973,7 +973,7 @@
         "annotation": null,
         "time": 319.03333333333336,
         "text": "「買い占めた」が「かいじめた」になっている",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -991,7 +991,7 @@
         "annotation": null,
         "time": 348.96666666666664,
         "text": "「トピーカで弁護士をしていたんだが」が丸っと抜けてる",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -1007,7 +1007,7 @@
         "annotation": null,
         "time": 328.8,
         "text": "「訪ねてきた」が言えてない",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       },
       {
@@ -1023,7 +1023,7 @@
         "annotation": null,
         "time": 328.8,
         "text": "「私」が「わたくし」になっている",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       }
     ],
@@ -1041,7 +1041,7 @@
         "annotation": null,
         "time": 367.5,
         "text": "「して回る暇はないと言ったら、爺さんは」がちゃんと言えてない",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -1059,7 +1059,7 @@
         "annotation": null,
         "time": 384.2,
         "text": "「遺言」が「いごん」となっている",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -1075,7 +1075,7 @@
         "annotation": null,
         "time": 389.8666666666667,
         "text": "あっとdurationが長い気がする",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -1094,7 +1094,7 @@
         "annotation": null,
         "time": 405.9,
         "text": "末尾の無音をカットして",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -1115,7 +1115,7 @@
         },
         "time": 375.9,
         "text": "指が4本たてられている",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       },
       {
@@ -1132,7 +1132,7 @@
         "annotation": null,
         "time": 382.8,
         "text": "5百万ドルのところで、5本の指をたてる芝居にするか",
-        "createdAt": "2000-01-01T00:11:01.000Z",
+        "createdAt": "2000-01-01T00:11:00.000Z",
         "createdBy": "local"
       },
       {
@@ -1150,7 +1150,7 @@
         "annotation": null,
         "time": 365.06666666666666,
         "text": "あんま前の絵と変わらないけど。41と違うよ。ジョンの身体はもっと大きい気がする",
-        "createdAt": "2000-01-01T00:22:17.000Z",
+        "createdAt": "2000-01-01T00:22:16.000Z",
         "createdBy": "local"
       },
       {
@@ -1168,7 +1168,7 @@
         "annotation": null,
         "time": 364.8,
         "text": "これでいいよ",
-        "createdAt": "2000-01-01T00:22:25.000Z",
+        "createdAt": "2000-01-01T00:22:24.000Z",
         "createdBy": "local"
       }
     ],
@@ -1186,7 +1186,7 @@
         "annotation": null,
         "time": 447.26666666666665,
         "text": "「私と同じ一人者でね。女の親戚はいるが、」が言えてない。duration が足りない気がする",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -1202,7 +1202,7 @@
         "annotation": null,
         "time": 418.6333333333333,
         "text": "「私」が「わたくし」になっている",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       },
       {
@@ -1218,7 +1218,7 @@
         "annotation": null,
         "time": 425.76666666666665,
         "text": "遺言が「いごん」になっている",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       },
       {
@@ -1234,7 +1234,7 @@
         "annotation": null,
         "time": 420.1666666666667,
         "text": "「ひとりもの」の発音がへん。「独り者」とか「一人者」とか読めるかもしれないから試してみて。駄目ならカタカナとか。",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       },
       {
@@ -1250,7 +1250,7 @@
         "annotation": null,
         "time": 424.9,
         "text": "遺言の発音が変、ユイ言や、ユイゴンなどテイクとってみて",
-        "createdAt": "2000-01-01T00:11:01.000Z",
+        "createdAt": "2000-01-01T00:11:00.000Z",
         "createdBy": "local"
       }
     ],
@@ -1269,7 +1269,7 @@
         "annotation": null,
         "time": 460.1333333333333,
         "text": "「風変り」が「かぜがわり」になっている",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -1286,7 +1286,7 @@
         "annotation": null,
         "time": 467.6,
         "text": "「近道」が「ちかどう」になっている",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -1304,7 +1304,7 @@
         "annotation": null,
         "time": 468,
         "text": "「返事」の発音が変かも。",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -1322,7 +1322,7 @@
         "annotation": null,
         "time": 495.3,
         "text": "「博士」がちゃんと読めてない",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -1338,7 +1338,7 @@
         "annotation": null,
         "time": 497.06666666666666,
         "text": "もうちょっと喜んでる芝居にしてほしい",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -1354,7 +1354,7 @@
         "annotation": null,
         "time": 475.76666666666665,
         "text": "「あのかた」の発音が変。「あの人」とかにしてみて。",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       }
     ],
@@ -1372,7 +1372,7 @@
         "annotation": null,
         "time": 505.5,
         "text": "「ホームズさん」が読まれていない",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -1390,7 +1390,7 @@
         "annotation": null,
         "time": 536.2333333333333,
         "text": "末尾の無音が長いのでかっとして",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -1408,7 +1408,7 @@
         "annotation": null,
         "time": 540.7333333333333,
         "text": "「面」が「ぜん」になっている",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -1424,7 +1424,7 @@
         "annotation": null,
         "time": 551.3,
         "text": "末尾の無音が長い",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -1442,7 +1442,7 @@
         "annotation": null,
         "time": 554.3,
         "text": "ここのカットは同様に作り直して",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -1458,7 +1458,7 @@
         "annotation": null,
         "time": 555.9,
         "text": "「英国製の上着」が「えいごくせいのうわがき」になっている",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -1474,7 +1474,7 @@
         "annotation": null,
         "time": 529.2,
         "text": "「擦り切れた」が「こすりきれた」になっている",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       }
     ],
@@ -1492,7 +1492,7 @@
         "annotation": null,
         "time": 566,
         "text": "座っている絵を first frame にしないとうまく生成できなさそう",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -1510,7 +1510,7 @@
         "annotation": null,
         "time": 577.8666666666667,
         "text": "「博士」がちゃんといえてない",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -1526,7 +1526,7 @@
         "annotation": null,
         "time": 548,
         "text": "末尾の無音をカットして",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       }
     ],
@@ -1544,7 +1544,7 @@
         "annotation": null,
         "time": 596.7333333333333,
         "text": "狙いはなんだ、の後に変な音が入っている",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       }
     ],
@@ -1564,7 +1564,7 @@
         },
         "time": 509.06666666666666,
         "text": "ドアは開いてないほうがいい",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -1582,7 +1582,7 @@
         },
         "time": 509.06666666666666,
         "text": "一礼するから、ホームズ、ワトスンのほうを向いているほうがいい",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -1600,7 +1600,7 @@
         },
         "time": 509.06666666666666,
         "text": "ワトスンもガリデブをみているべき",
-        "createdAt": "2000-01-01T00:06:47.000Z",
+        "createdAt": "2000-01-01T00:06:46.000Z",
         "createdBy": "local"
       },
       {
@@ -1618,7 +1618,7 @@
         },
         "time": 489.9,
         "text": "ワトスンがガリデブをみていない",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       },
       {
@@ -1632,7 +1632,7 @@
         "annotation": null,
         "time": 491.5,
         "text": "「ワトスンが椅子ごと右を向いて」、画面右を向いている絵が一枚もないけど",
-        "createdAt": "2000-01-01T00:11:01.000Z",
+        "createdAt": "2000-01-01T00:11:00.000Z",
         "createdBy": "local"
       }
     ],
@@ -1651,7 +1651,7 @@
         "annotation": null,
         "time": 160.96666666666667,
         "text": "「英国」が「えいごく」になっている",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       }
     ],
@@ -1670,7 +1670,7 @@
         "annotation": null,
         "time": 309.06666666666666,
         "text": "「畑」が「け」になって言えてない",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       }
     ],
@@ -1687,7 +1687,7 @@
         "annotation": null,
         "time": 494.5,
         "text": "ここ6秒は長いな",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       }
     ],
@@ -1706,7 +1706,7 @@
         "annotation": null,
         "time": 572,
         "text": "末尾の無音をカットしてほしい",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       }
     ],
@@ -1725,7 +1725,7 @@
         "annotation": null,
         "time": 585,
         "text": "末尾の無音をカットしてほしい",
-        "createdAt": "2000-01-01T00:08:51.000Z",
+        "createdAt": "2000-01-01T00:08:50.000Z",
         "createdBy": "local"
       }
     ],
@@ -1744,7 +1744,7 @@
         "annotation": null,
         "time": 448.5,
         "text": "v-jAo8zBis にしたい",
-        "createdAt": "2000-01-01T00:20:12.000Z",
+        "createdAt": "2000-01-01T00:20:11.000Z",
         "createdBy": "local"
       }
     ],
@@ -1760,7 +1760,7 @@
         "annotation": null,
         "time": 206.5,
         "text": "2秒は長すぎる。何秒がいいだろう。1秒ぐらい？",
-        "createdAt": "2000-01-01T00:23:40.000Z",
+        "createdAt": "2000-01-01T00:23:39.000Z",
         "createdBy": "local"
       },
       {
@@ -1774,7 +1774,91 @@
         "annotation": null,
         "time": 206.5,
         "text": "v-4M87cvA8 のほうがいい。こっちの絵は右手になってる",
-        "createdAt": "2000-01-01T00:23:40.000Z",
+        "createdAt": "2000-01-01T00:23:39.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.15b": [
+      {
+        "id": "fb-appDDfU8",
+        "displayedVariants": {
+          "animatic:shot.15b.key": "v-ACSQJzX2"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.15b#composition": "f5ea8041b752"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.384,
+          "y": 0.844
+        },
+        "time": 124.06666666666666,
+        "text": "影がへん。そもそも影が伸びる演出はいらない。",
+        "createdAt": "2000-01-01T00:24:49.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-qfWv5oBf",
+        "displayedVariants": {
+          "animatic:shot.15b.key": "v-hJBih2ha"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.15b#composition": "f5ea8041b752"
+        },
+        "annotation": null,
+        "time": 123,
+        "text": "この扉そもそもどこからどこに通じてるの？ホームズたちのいる部屋のドアじゃないの？なぜ暗いの？どういう想定？",
+        "createdAt": "2000-01-01T00:24:51.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-ASS5tRnx",
+        "displayedVariants": {
+          "animatic:shot.15b.key": "v-FzjBo7gd"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.15b#composition": "f5ea8041b752"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.119,
+          "y": 0.658
+        },
+        "time": 123,
+        "text": "左側に棚とかあるはず",
+        "createdAt": "2000-01-01T00:24:53.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-thCLCQCu",
+        "displayedVariants": {
+          "animatic:shot.15b.key": "v-RyGkWOFn"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.15b#composition": "f5ea8041b752"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.557,
+          "y": 0.443
+        },
+        "time": 123,
+        "text": "ドアが開く方向逆じゃない？ 手前に開くのでは？",
+        "createdAt": "2000-01-01T00:24:55.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-k8PcEpWJ",
+        "displayedVariants": {
+          "animatic:shot.15b.key": "v-gOnNzS75"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.15b#composition": "f5ea8041b752"
+        },
+        "annotation": null,
+        "text": "駄目では？ 今の画像と全然一貫性がない。部屋の外も変だし。作り直して",
+        "time": 123,
+        "createdAt": "2000-01-01T00:24:57.000Z",
         "createdBy": "local"
       }
     ]

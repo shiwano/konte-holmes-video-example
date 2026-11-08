@@ -894,6 +894,19 @@ export default defineVideo(direction, {
           </Composition>
         );
       })
+      .nextShot("15b", () =>
+        clip(
+          motion({
+            key: animatic.shot("15b").image("doorInsert"),
+            setting: "",
+            keyRetain:
+              "<Picture 1> ([Shot 1] keyframe): partially_preserved - the camera position, angle and framing hold exactly for the whole shot, and the armchair, bookshelf, fireplace, wallpaper and light stay as it shows them; only the door swings open.",
+            summary: "Inside the sunlit sitting room, the panelled door is pushed from outside and eases open a crack, a thin strip of the dim landing showing in the gap.",
+            body: "A close frame from inside the sitting room on its dark wooden panelled door, at the right of the frame in its blue-grey moulded frame, the green velvet armchair's tufted back and the bookshelf of glass flasks and old books at the left, the edge of the white marble fireplace at the far left. The shot opens on the frame <Picture 1> shows: the door stands shut, a shaft of gold morning light lying across its lower panels and the round brass knob at its left edge. The knob turns with a click, and the door is pushed from outside: it swings inward into the room, toward the lens, on hinges at its right edge, only a little, its free edge with the brass knob easing a hand's breadth toward the camera and stopping there. A narrow upright gap opens between that edge and the door frame at its left, about as wide as the knob's backplate, showing a thin strip of the landing beyond in dim blue-grey shade, the moulded blue-grey wooden panelling of its wall faint in the strip. The door rests ajar on that narrow gap to the last frame, the leaf still nearly square to the wall, its six panels and the gold light on them almost unchanged. The armchair, the bookshelf, the flasks, the fireplace and the wallpaper hold still and unchanged throughout, only dust motes drifting in the shaft of light. The camera holds a static shot.",
+            sound: "A quiet first-floor room: the click of a turning brass doorknob, the short creak of old hinges as a heavy wooden door eases ajar, a heavy footstep on the landing beyond it, faint carriage wheels in the street below.",
+          }),
+        ),
+      )
       .nextShot("16", () => {
         const m = motion({
           key: animatic.shot("16").image("key"),

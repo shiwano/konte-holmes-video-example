@@ -365,6 +365,13 @@ export default defineAnimatic(direction, {
         },
       },
     });
+    const doorInsert = asset("doorInsert", adapters.imageCrop, {
+      image: reference.sittingRoom,
+      x: 1421,
+      y: 300,
+      width: 936,
+      height: 528,
+    });
     const streetMedium = asset("streetMedium", adapters.imageCrop, {
       image: reference.street,
       x: 0,
@@ -381,6 +388,7 @@ export default defineAnimatic(direction, {
       johnClose,
       elbowInsert,
       directoryInsert,
+      doorInsert,
       streetMedium,
     };
   },
@@ -656,6 +664,11 @@ export default defineAnimatic(direction, {
           </Composition>
         );
       })
+      .nextShot("15b", () => (
+        <Composition>
+          <Panel src={plates.doorInsert} blocking="閉じていた扉が外から押され、部屋の内側へ、手のひらひとつ分ほど開く。" camera="fixed" />
+        </Composition>
+      ))
       .nextShot("16", ({ script, shot }) => {
         const k = key("key", {
           prev: shot("15").image("key"),

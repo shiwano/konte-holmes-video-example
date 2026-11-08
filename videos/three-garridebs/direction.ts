@@ -257,6 +257,15 @@ export default defineDirection({
       view: "front",
       holds: ["visitorChair"],
     },
+    doorInsert: {
+      name: "居間の扉",
+      description:
+        "居間の全景と同じ位置から扉へ寄った画。暖炉の端、緑の肘掛け椅子の背と本棚、右に扉。",
+      location: "sittingRoom",
+      framing: "close",
+      within: "roomWide",
+      holds: ["visitorChair", "door"],
+    },
     pipeInsert: {
       name: "ホームズの口元とパイプ",
       description: "正面から、ホームズの口元と手にしたパイプ、立ちのぼる煙。",
@@ -526,6 +535,14 @@ export default defineDirection({
                 acting: "独り言のように低く、獲物を待つ静けさで。",
               },
             ],
+          },
+          {
+            id: "15b",
+            role: "ketsu",
+            action: "閉じていた居間の扉が外から押され、わずかに内側へ開く。",
+            setup: "doorInsert",
+            duration: 1.5,
+            lineup: [],
           },
           {
             id: "16",
